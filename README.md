@@ -1,5 +1,8 @@
 Web Scraper with URL Redirection Checking:
 ==========================================
+Install imports:
+```bash pip install -r requirements.txt```
+
 todo:
 - check robots.txt first for disallowed urls
 - json file to store urls and their status
