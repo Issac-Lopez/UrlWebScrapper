@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://www.example.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.google.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.wikipedia.org",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.github.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.example.com/doesnotexist",
+        "status_code": 500
+    }
+]

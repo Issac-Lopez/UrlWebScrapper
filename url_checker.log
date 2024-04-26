@@ -1,0 +1,107 @@
+2024-04-25 11:32:46,357 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-25 11:32:47,749 - INFO - Found 686 links
+2024-04-25 11:32:48,757 - INFO - Checking redirection for: https://github.com/
+2024-04-25 11:32:49,289 - INFO - 200 - https://github.com/
+2024-04-25 11:32:50,300 - INFO - Checking redirection for: https://github.com/features/actions
+2024-04-25 11:32:50,655 - INFO - 200 - https://github.com/features/actions
+2024-04-25 11:32:51,668 - INFO - Checking redirection for: https://github.com/features/packages
+2024-04-25 11:32:52,082 - INFO - 200 - https://github.com/features/packages
+2024-04-25 11:33:01,471 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-25 11:33:02,945 - INFO - Found 686 links
+2024-04-25 11:33:03,953 - INFO - Checking redirection for: https://github.com/
+2024-04-25 11:33:04,230 - INFO - 200 - https://github.com/
+2024-04-25 11:33:05,248 - INFO - Checking redirection for: https://github.com/features/actions
+2024-04-25 11:33:06,381 - INFO - 200 - https://github.com/features/actions
+2024-04-25 11:33:07,394 - INFO - Checking redirection for: https://github.com/features/packages
+2024-04-25 11:33:08,486 - INFO - 200 - https://github.com/features/packages
+2024-04-25 11:45:28,455 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-25 11:45:57,674 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-25 11:45:58,039 - INFO - Found 6 links
+2024-04-25 11:45:58,039 - INFO - Checking redirection for: https://www.example.com
+2024-04-25 11:46:02,114 - INFO - 200 - https://www.example.com
+2024-04-25 11:46:02,116 - INFO - Checking redirection for: https://www.google.com
+2024-04-25 11:46:02,441 - INFO - 200 - https://www.google.com
+2024-04-25 11:46:02,442 - INFO - Checking redirection for: https://www.wikipedia.org
+2024-04-25 11:46:02,852 - INFO - 200 - https://www.wikipedia.org
+2024-04-25 11:46:02,853 - INFO - Checking redirection for: https://www.example.com/doesnotexist
+2024-04-25 11:46:03,294 - INFO - 500 - https://www.example.com/doesnotexist
+2024-04-25 11:46:03,295 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-25 11:46:03,327 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-25 11:46:03,327 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-25 11:46:03,330 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-25 11:49:25,229 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-25 11:49:25,242 - INFO - Found 6 links
+2024-04-25 11:49:25,242 - INFO - Checking redirection for: https://www.example.com
+2024-04-25 11:49:25,577 - INFO - 200 - https://www.example.com
+2024-04-25 11:49:25,579 - INFO - Checking redirection for: https://www.google.com
+2024-04-25 11:49:26,096 - INFO - 200 - https://www.google.com
+2024-04-25 11:49:26,097 - INFO - Checking redirection for: https://www.wikipedia.org
+2024-04-25 11:49:26,560 - INFO - 200 - https://www.wikipedia.org
+2024-04-25 11:49:26,561 - INFO - Checking redirection for: https://www.example.com/doesnotexist
+2024-04-25 11:49:27,001 - INFO - 500 - https://www.example.com/doesnotexist
+2024-04-25 11:49:27,003 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-25 11:49:27,014 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-25 11:49:27,014 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-25 11:49:27,019 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-25 11:50:04,796 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-25 11:50:04,808 - INFO - Found 7 links
+2024-04-25 11:50:04,808 - INFO - Checking redirection for: https://www.example.com
+2024-04-25 11:50:05,189 - INFO - 200 - https://www.example.com
+2024-04-25 11:50:05,191 - INFO - Checking redirection for: https://www.google.com
+2024-04-25 11:50:05,714 - INFO - 200 - https://www.google.com
+2024-04-25 11:50:05,716 - INFO - Checking redirection for: https://www.wikipedia.org
+2024-04-25 11:50:06,057 - INFO - 200 - https://www.wikipedia.org
+2024-04-25 11:50:06,058 - INFO - Checking redirection for: https://www.github.com
+2024-04-25 11:50:07,127 - INFO - 200 - https://www.github.com
+2024-04-25 11:50:07,129 - INFO - Checking redirection for: https://www.example.com/doesnotexist
+2024-04-25 11:50:07,521 - INFO - 500 - https://www.example.com/doesnotexist
+2024-04-25 11:50:07,523 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-25 11:50:07,533 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-25 11:50:07,533 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-25 11:50:07,536 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-25 11:52:33,062 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-25 11:52:33,075 - INFO - Found 7 links
+2024-04-25 11:52:33,076 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-25 11:52:33,090 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-25 11:52:33,090 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-25 11:52:33,094 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-25 11:56:26,014 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-25 11:56:26,025 - INFO - Found 7 links
+2024-04-25 11:56:26,025 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-25 11:56:26,077 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-25 11:56:26,077 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-25 11:56:26,080 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-25 13:19:23,439 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-25 13:19:23,543 - INFO - Found 7 links
+2024-04-25 13:19:23,543 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-25 13:19:23,577 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-25 13:19:23,577 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-25 13:19:23,579 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-26 10:12:31,551 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-26 10:12:31,813 - INFO - Found 7 links
+2024-04-26 10:12:31,813 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-26 10:12:31,849 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-26 10:12:31,849 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-26 10:12:31,852 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-26 10:12:46,306 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-26 10:12:46,314 - INFO - Found 7 links
+2024-04-26 10:12:46,315 - INFO - Checking redirection for: https://www.example.com
+2024-04-26 10:12:46,771 - INFO - 200 - https://www.example.com
+2024-04-26 10:12:46,773 - INFO - Checking redirection for: https://www.google.com
+2024-04-26 10:12:47,045 - INFO - 200 - https://www.google.com
+2024-04-26 10:12:47,046 - INFO - Checking redirection for: https://www.wikipedia.org
+2024-04-26 10:12:47,377 - INFO - 200 - https://www.wikipedia.org
+2024-04-26 10:12:47,380 - INFO - Checking redirection for: https://www.github.com
+2024-04-26 10:12:48,011 - INFO - 200 - https://www.github.com
+2024-04-26 10:12:48,013 - INFO - Checking redirection for: https://www.example.com/doesnotexist
+2024-04-26 10:12:48,590 - INFO - 500 - https://www.example.com/doesnotexist
+2024-04-26 10:12:48,592 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-26 10:12:48,602 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-26 10:12:48,602 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-26 10:12:48,606 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-26 10:13:06,166 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-26 10:13:06,176 - INFO - Found 7 links
+2024-04-26 10:13:06,177 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-26 10:13:06,191 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-26 10:13:06,191 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-26 10:13:06,195 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
