@@ -105,3 +105,491 @@
 2024-04-26 10:13:06,191 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
 2024-04-26 10:13:06,191 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
 2024-04-26 10:13:06,195 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-27 17:29:33,254 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-27 17:29:33,262 - INFO - Found 7 links
+2024-04-27 17:29:33,262 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-27 17:29:33,345 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-27 17:29:33,346 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-27 17:29:33,348 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-27 17:34:23,642 - INFO - Retrieving links from: http://127.0.0.1:5500/index.html
+2024-04-27 17:34:23,648 - INFO - Found 7 links
+2024-04-27 17:34:23,648 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-04-27 17:34:23,651 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-04-27 17:34:23,651 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-04-27 17:34:23,652 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-04-27 17:34:48,371 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:34:49,635 - INFO - Found 686 links
+2024-04-27 17:34:49,636 - INFO - Checking redirection for: https://github.com/
+2024-04-27 17:34:49,851 - INFO - 200 - https://github.com/
+2024-04-27 17:34:49,852 - INFO - Checking redirection for: https://github.com/features/actions
+2024-04-27 17:34:50,245 - INFO - 200 - https://github.com/features/actions
+2024-04-27 17:34:50,247 - INFO - Checking redirection for: https://github.com/features/packages
+2024-04-27 17:34:50,534 - INFO - 200 - https://github.com/features/packages
+2024-04-27 17:34:50,537 - INFO - Checking redirection for: https://github.com/features/security
+2024-04-27 17:34:50,842 - INFO - 200 - https://github.com/features/security
+2024-04-27 17:34:50,847 - INFO - Checking redirection for: https://github.com/features/codespaces
+2024-04-27 17:34:51,150 - INFO - 200 - https://github.com/features/codespaces
+2024-04-27 17:34:51,153 - INFO - Checking redirection for: https://github.com/features/copilot
+2024-04-27 17:34:51,647 - INFO - 200 - https://github.com/features/copilot
+2024-04-27 17:34:51,648 - INFO - Checking redirection for: https://github.com/features/code-review
+2024-04-27 17:34:51,942 - INFO - 200 - https://github.com/features/code-review
+2024-04-27 17:34:51,944 - INFO - Checking redirection for: https://github.com/features/issues
+2024-04-27 17:34:52,251 - INFO - 200 - https://github.com/features/issues
+2024-04-27 17:34:52,252 - INFO - Checking redirection for: https://github.com/features/discussions
+2024-04-27 17:34:52,527 - INFO - 200 - https://github.com/features/discussions
+2024-04-27 17:34:52,529 - INFO - Checking redirection for: https://github.com/features
+2024-04-27 17:34:52,865 - INFO - 200 - https://github.com/features
+2024-04-27 17:34:52,868 - INFO - Checking redirection for: https://docs.github.com
+2024-04-27 17:34:53,092 - INFO - 200 - https://docs.github.com
+2024-04-27 17:34:53,095 - INFO - Checking redirection for: https://skills.github.com
+2024-04-27 17:34:53,319 - INFO - 200 - https://skills.github.com
+2024-04-27 17:34:53,322 - INFO - Checking redirection for: https://github.blog
+2024-04-27 17:34:53,914 - INFO - 200 - https://github.blog
+2024-04-27 17:34:53,915 - INFO - Checking redirection for: https://github.com/enterprise
+2024-04-27 17:34:54,310 - INFO - 200 - https://github.com/enterprise
+2024-04-27 17:34:54,312 - INFO - Checking redirection for: https://github.com/team
+2024-04-27 17:34:54,664 - INFO - 200 - https://github.com/team
+2024-04-27 17:34:54,667 - INFO - Checking redirection for: https://github.com/enterprise/startups
+2024-04-27 17:34:55,011 - INFO - 200 - https://github.com/enterprise/startups
+2024-04-27 17:34:55,014 - INFO - Checking redirection for: https://education.github.com
+2024-04-27 17:34:55,281 - INFO - 200 - https://education.github.com
+2024-04-27 17:34:55,284 - INFO - Checking redirection for: https://github.com/solutions/ci-cd
+2024-04-27 17:34:55,598 - INFO - 200 - https://github.com/solutions/ci-cd
+2024-04-27 17:34:55,601 - INFO - Checking redirection for: https://github.com/solutions/devops
+2024-04-27 17:34:55,984 - INFO - 200 - https://github.com/solutions/devops
+2024-04-27 17:34:55,986 - INFO - Checking redirection for: https://resources.github.com/devops/fundamentals/devsecops
+2024-04-27 17:34:56,244 - INFO - 200 - https://resources.github.com/devops/fundamentals/devsecops
+2024-04-27 17:34:56,247 - INFO - Checking redirection for: https://resources.github.com/learn/pathways
+2024-04-27 17:34:56,462 - INFO - 200 - https://resources.github.com/learn/pathways
+2024-04-27 17:34:56,465 - INFO - Checking redirection for: https://resources.github.com
+2024-04-27 17:34:56,587 - INFO - 200 - https://resources.github.com
+2024-04-27 17:34:56,590 - INFO - Checking redirection for: https://github.com/customer-stories
+2024-04-27 17:34:56,880 - INFO - 200 - https://github.com/customer-stories
+2024-04-27 17:34:56,882 - INFO - Checking redirection for: https://partner.github.com
+2024-04-27 17:34:57,067 - INFO - 200 - https://partner.github.com
+2024-04-27 17:34:57,070 - INFO - Checking redirection for: https://github.com/sponsors
+2024-04-27 17:34:57,363 - INFO - 200 - https://github.com/sponsors
+2024-04-27 17:34:57,365 - INFO - Checking redirection for: https://github.com/readme
+2024-04-27 17:34:57,660 - INFO - 200 - https://github.com/readme
+2024-04-27 17:34:57,663 - INFO - Checking redirection for: https://github.com/topics
+2024-04-27 17:34:58,084 - INFO - 200 - https://github.com/topics
+2024-04-27 17:34:58,086 - INFO - Checking redirection for: https://github.com/trending
+2024-04-27 17:34:58,757 - INFO - 200 - https://github.com/trending
+2024-04-27 17:34:58,760 - INFO - Checking redirection for: https://github.com/collections
+2024-04-27 17:34:59,120 - INFO - 200 - https://github.com/collections
+2024-04-27 17:34:59,122 - INFO - Checking redirection for: https://github.com/pricing
+2024-04-27 17:34:59,445 - INFO - 200 - https://github.com/pricing
+2024-04-27 17:34:59,448 - INFO - Checking redirection for: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+2024-04-27 17:34:59,660 - INFO - 200 - https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+2024-04-27 17:34:59,663 - INFO - Checking redirection for: https://public-api-lists.github.io/public-api-lists/
+2024-04-27 17:35:00,111 - INFO - 200 - https://public-api-lists.github.io/public-api-lists/
+2024-04-27 17:35:00,112 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/stargazers
+2024-04-27 17:35:00,509 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/stargazers
+2024-04-27 17:35:00,510 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/fork
+2024-04-27 17:35:00,923 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/fork
+2024-04-27 17:35:00,926 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/issues/new
+2024-04-27 17:35:01,309 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/issues/new
+2024-04-27 17:35:01,313 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/pulls
+2024-04-27 17:35:01,731 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/pulls
+2024-04-27 17:35:01,734 - INFO - Checking redirection for: https://alexwohlbruck.github.io/cat-facts/
+2024-04-27 17:35:01,965 - INFO - 200 - https://alexwohlbruck.github.io/cat-facts/
+2024-04-27 17:35:01,967 - INFO - Checking redirection for: https://docs.thecatapi.com/
+2024-04-27 17:35:02,609 - INFO - 200 - https://docs.thecatapi.com/
+2024-04-27 17:35:02,616 - INFO - Checking redirection for: https://cataas.com/
+2024-04-27 17:35:03,508 - INFO - 404 - https://cataas.com/
+2024-04-27 17:35:03,512 - INFO - Checking redirection for: https://dogapi.dog
+2024-04-27 17:35:04,671 - INFO - 200 - https://dogapi.dog
+2024-04-27 17:35:04,676 - INFO - Checking redirection for: https://dog.ceo/dog-api/
+2024-04-27 17:35:05,368 - INFO - 200 - https://dog.ceo/dog-api/
+2024-04-27 17:35:05,371 - INFO - Checking redirection for: https://foxes.cool
+2024-04-27 17:35:05,927 - INFO - 200 - https://foxes.cool
+2024-04-27 17:35:05,931 - INFO - Checking redirection for: https://http.cat/
+2024-04-27 17:35:07,212 - INFO - 200 - https://http.cat/
+2024-04-27 17:35:07,217 - INFO - Checking redirection for: https://http.dog/
+2024-04-27 17:35:08,326 - INFO - 200 - https://http.dog/
+2024-04-27 17:35:08,327 - INFO - Checking redirection for: https://github.com/movebank/movebank-api-doc
+2024-04-27 17:35:09,054 - INFO - 200 - https://github.com/movebank/movebank-api-doc
+2024-04-27 17:35:09,055 - INFO - Checking redirection for: https://www.petfinder.com/developers/v2/docs/
+2024-04-27 17:35:09,462 - INFO - 200 - https://www.petfinder.com/developers/v2/docs/
+2024-04-27 17:35:09,466 - INFO - Checking redirection for: https://randombig.cat/roar.json
+2024-04-27 17:35:10,248 - ERROR - https://randombig.cat/roar.json - Error: Connection error occurred.
+2024-04-27 17:35:10,248 - INFO - Checking redirection for: https://random.dog/woof.json
+2024-04-27 17:35:10,972 - INFO - 200 - https://random.dog/woof.json
+2024-04-27 17:35:10,976 - INFO - Checking redirection for: https://randomfox.ca/floof/
+2024-04-27 17:35:11,416 - INFO - 200 - https://randomfox.ca/floof/
+2024-04-27 17:35:11,417 - INFO - Checking redirection for: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+2024-04-27 17:35:12,069 - INFO - 200 - https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+2024-04-27 17:35:12,073 - INFO - Checking redirection for: https://github.com/AniList/ApiV2-GraphQL-Docs
+2024-04-27 17:35:12,592 - INFO - 200 - https://github.com/AniList/ApiV2-GraphQL-Docs
+2024-04-27 17:35:12,596 - INFO - Checking redirection for: https://www.animenewsnetwork.com/encyclopedia/api.php
+2024-04-27 17:35:13,770 - INFO - 200 - https://www.animenewsnetwork.com/encyclopedia/api.php
+2024-04-27 17:35:13,772 - INFO - Checking redirection for: https://jikan.moe
+2024-04-27 17:35:14,160 - INFO - 200 - https://jikan.moe
+2024-04-27 17:35:14,162 - INFO - Checking redirection for: https://soruly.github.io/trace.moe-api/#/
+2024-04-27 17:35:14,394 - INFO - 200 - https://soruly.github.io/trace.moe-api/#/
+2024-04-27 17:35:14,395 - INFO - Checking redirection for: https://api.mangadex.org/docs/
+2024-04-27 17:35:14,639 - INFO - 405 - https://api.mangadex.org/docs/
+2024-04-27 17:35:14,641 - INFO - Checking redirection for: https://docs.abuseipdb.com/
+2024-04-27 17:35:15,036 - INFO - 200 - https://docs.abuseipdb.com/
+2024-04-27 17:35:15,040 - INFO - Checking redirection for: https://developers.google.com/safe-browsing/
+2024-04-27 17:35:15,336 - INFO - 200 - https://developers.google.com/safe-browsing/
+2024-04-27 17:35:15,339 - INFO - Checking redirection for: https://metacert.com/
+2024-04-27 17:35:15,834 - INFO - 200 - https://metacert.com/
+2024-04-27 17:35:15,838 - INFO - Checking redirection for: https://www.virustotal.com/en/documentation/public-api/
+2024-04-27 17:35:16,903 - INFO - 200 - https://www.virustotal.com/en/documentation/public-api/
+2024-04-27 17:35:16,909 - INFO - Checking redirection for: https://www.mywot.com/en/API
+2024-04-27 17:35:17,337 - INFO - 200 - https://www.mywot.com/en/API
+2024-04-27 17:35:17,338 - INFO - Checking redirection for: https://www.behance.net/dev
+2024-04-27 17:35:17,819 - INFO - 404 - https://www.behance.net/dev
+2024-04-27 17:35:17,822 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
+2024-04-27 17:35:18,342 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
+2024-04-27 17:35:18,345 - INFO - Checking redirection for: https://pro.europeana.eu/resources/apis/search
+2024-04-27 17:35:26,972 - INFO - 200 - https://pro.europeana.eu/resources/apis/search
+2024-04-27 17:35:26,974 - INFO - Checking redirection for: https://github.com/harvardartmuseums/api-docs
+2024-04-27 17:35:27,606 - INFO - 200 - https://github.com/harvardartmuseums/api-docs
+2024-04-27 17:35:27,609 - INFO - Checking redirection for: https://developer.iconfinder.com
+2024-04-27 17:35:28,305 - INFO - 200 - https://developer.iconfinder.com
+2024-04-27 17:35:28,305 - INFO - Checking redirection for: https://www.rijksmuseum.nl/en/api
+2024-04-27 17:35:29,722 - INFO - 200 - https://www.rijksmuseum.nl/en/api
+2024-04-27 17:35:29,727 - INFO - Checking redirection for: https://metmuseum.github.io/
+2024-04-27 17:35:29,963 - INFO - 200 - https://metmuseum.github.io/
+2024-04-27 17:35:29,964 - INFO - Checking redirection for: https://bhagavadgita.io/api
+2024-04-27 17:35:30,764 - INFO - 200 - https://bhagavadgita.io/api
+2024-04-27 17:35:30,768 - INFO - Checking redirection for: https://developers.google.com/books/
+2024-04-27 17:35:31,062 - INFO - 200 - https://developers.google.com/books/
+2024-04-27 17:35:31,064 - INFO - Checking redirection for: https://openlibrary.org/developers/api
+2024-04-27 17:35:31,486 - INFO - 200 - https://openlibrary.org/developers/api
+2024-04-27 17:35:31,490 - INFO - Checking redirection for: https://aninditabasu.github.io/indica/
+2024-04-27 17:35:31,710 - INFO - 200 - https://aninditabasu.github.io/indica/
+2024-04-27 17:35:31,713 - INFO - Checking redirection for: https://aninditabasu.github.io/indica/html/vs.html
+2024-04-27 17:35:31,865 - INFO - 404 - https://aninditabasu.github.io/indica/html/vs.html
+2024-04-27 17:35:31,868 - INFO - Checking redirection for: https://clearbit.com/docs#logo-api
+2024-04-27 17:35:32,432 - INFO - 200 - https://clearbit.com/docs#logo-api
+2024-04-27 17:35:32,437 - INFO - Checking redirection for: https://labstack.com/domain
+2024-04-27 17:35:32,897 - INFO - 404 - https://labstack.com/domain
+2024-04-27 17:35:32,898 - INFO - Checking redirection for: https://domainsdb.info/
+2024-04-27 17:35:33,392 - INFO - 200 - https://domainsdb.info/
+2024-04-27 17:35:33,394 - INFO - Checking redirection for: https://developers.freelancer.com
+2024-04-27 17:35:33,937 - INFO - 200 - https://developers.freelancer.com
+2024-04-27 17:35:33,938 - INFO - Checking redirection for: https://developers.google.com/gmail/api/
+2024-04-27 17:35:34,556 - INFO - 200 - https://developers.google.com/gmail/api/
+2024-04-27 17:35:34,560 - INFO - Checking redirection for: https://developers.google.com/analytics/
+2024-04-27 17:35:34,815 - INFO - 200 - https://developers.google.com/analytics/
+2024-04-27 17:35:34,818 - INFO - Checking redirection for: https://www.mailboxvalidator.com/api-single-validation
+2024-04-27 17:35:35,267 - INFO - 200 - https://www.mailboxvalidator.com/api-single-validation
+2024-04-27 17:35:35,269 - INFO - Checking redirection for: https://www.mailgun.com/
+2024-04-27 17:35:35,687 - INFO - 200 - https://www.mailgun.com/
+2024-04-27 17:35:35,691 - INFO - Checking redirection for: https://www.mailjet.com/
+2024-04-27 17:35:35,985 - INFO - 200 - https://www.mailjet.com/
+2024-04-27 17:35:35,988 - INFO - Checking redirection for: https://developers.repetiti.com
+2024-04-27 17:35:36,649 - INFO - 200 - https://developers.repetiti.com
+2024-04-27 17:35:36,653 - INFO - Checking redirection for: https://ticksel.com
+2024-04-27 17:35:38,027 - INFO - 200 - https://ticksel.com
+2024-04-27 17:35:38,033 - INFO - Checking redirection for: https://developers.trello.com/
+2024-04-27 17:35:38,453 - INFO - 200 - https://developers.trello.com/
+2024-04-27 17:35:38,457 - INFO - Checking redirection for: https://tomba.io/
+2024-04-27 17:35:39,244 - INFO - 200 - https://tomba.io/
+2024-04-27 17:35:39,246 - INFO - Checking redirection for: https://www.abstractapi.com/holidays-api
+2024-04-27 17:35:39,730 - INFO - 200 - https://www.abstractapi.com/holidays-api
+2024-04-27 17:35:39,735 - INFO - Checking redirection for: https://byabbe.se/on-this-day/#/default/get__month___day__events_json
+2024-04-27 17:35:40,660 - INFO - 200 - https://byabbe.se/on-this-day/#/default/get__month___day__events_json
+2024-04-27 17:35:40,664 - INFO - Checking redirection for: https://www.calendarindex.com/
+2024-04-27 17:35:41,462 - INFO - 200 - https://www.calendarindex.com/
+2024-04-27 17:35:41,466 - INFO - Checking redirection for: https://developers.google.com/google-apps/calendar/
+2024-04-27 17:35:42,055 - INFO - 200 - https://developers.google.com/google-apps/calendar/
+2024-04-27 17:35:42,059 - INFO - Checking redirection for: https://www.hebcal.com/home/developer-apis
+2024-04-27 17:35:42,479 - INFO - 200 - https://www.hebcal.com/home/developer-apis
+2024-04-27 17:35:42,483 - INFO - Checking redirection for: https://holidayapi.pl/
+2024-04-27 17:39:46,449 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:39:48,128 - INFO - Found 686 links
+2024-04-27 17:39:48,129 - INFO - Checking redirection for: https://github.com/
+2024-04-27 17:39:48,386 - INFO - 200 - https://github.com/
+2024-04-27 17:39:48,387 - INFO - Checking redirection for: https://github.com/features/actions
+2024-04-27 17:39:48,846 - INFO - 200 - https://github.com/features/actions
+2024-04-27 17:39:48,850 - INFO - Checking redirection for: https://github.com/features/packages
+2024-04-27 17:39:49,164 - INFO - 200 - https://github.com/features/packages
+2024-04-27 17:39:49,167 - INFO - Checking redirection for: https://github.com/features/security
+2024-04-27 17:39:49,576 - INFO - 200 - https://github.com/features/security
+2024-04-27 17:39:49,579 - INFO - Checking redirection for: https://github.com/features/codespaces
+2024-04-27 17:39:49,933 - INFO - 200 - https://github.com/features/codespaces
+2024-04-27 17:39:49,935 - INFO - Checking redirection for: https://github.com/features/copilot
+2024-04-27 17:39:50,159 - INFO - 200 - https://github.com/features/copilot
+2024-04-27 17:39:50,161 - INFO - Checking redirection for: https://github.com/features/code-review
+2024-04-27 17:39:50,464 - INFO - 200 - https://github.com/features/code-review
+2024-04-27 17:39:50,466 - INFO - Checking redirection for: https://github.com/features/issues
+2024-04-27 17:39:50,812 - INFO - 200 - https://github.com/features/issues
+2024-04-27 17:39:50,814 - INFO - Checking redirection for: https://github.com/features/discussions
+2024-04-27 17:39:51,148 - INFO - 200 - https://github.com/features/discussions
+2024-04-27 17:39:51,151 - INFO - Checking redirection for: https://github.com/features
+2024-04-27 17:39:51,500 - INFO - 200 - https://github.com/features
+2024-04-27 17:39:51,503 - INFO - Checking redirection for: https://docs.github.com
+2024-04-27 17:39:51,693 - INFO - 200 - https://docs.github.com
+2024-04-27 17:39:51,695 - INFO - Checking redirection for: https://skills.github.com
+2024-04-27 17:39:51,783 - INFO - 200 - https://skills.github.com
+2024-04-27 17:39:51,784 - INFO - Checking redirection for: https://github.blog
+2024-04-27 17:39:51,871 - INFO - 200 - https://github.blog
+2024-04-27 17:39:51,872 - INFO - Checking redirection for: https://github.com/enterprise
+2024-04-27 17:39:52,279 - INFO - 200 - https://github.com/enterprise
+2024-04-27 17:39:52,283 - INFO - Checking redirection for: https://github.com/team
+2024-04-27 17:39:52,597 - INFO - 200 - https://github.com/team
+2024-04-27 17:39:52,600 - INFO - Checking redirection for: https://github.com/enterprise/startups
+2024-04-27 17:39:52,953 - INFO - 200 - https://github.com/enterprise/startups
+2024-04-27 17:39:52,956 - INFO - Checking redirection for: https://education.github.com
+2024-04-27 17:39:53,257 - INFO - 200 - https://education.github.com
+2024-04-27 17:39:53,260 - INFO - Checking redirection for: https://github.com/solutions/ci-cd
+2024-04-27 17:39:53,564 - INFO - 200 - https://github.com/solutions/ci-cd
+2024-04-27 17:39:53,566 - INFO - Checking redirection for: https://github.com/solutions/devops
+2024-04-27 17:39:53,981 - INFO - 200 - https://github.com/solutions/devops
+2024-04-27 17:39:53,984 - INFO - Checking redirection for: https://resources.github.com/devops/fundamentals/devsecops
+2024-04-27 17:39:54,190 - INFO - 200 - https://resources.github.com/devops/fundamentals/devsecops
+2024-04-27 17:39:54,192 - INFO - Checking redirection for: https://resources.github.com/learn/pathways
+2024-04-27 17:39:54,398 - INFO - 200 - https://resources.github.com/learn/pathways
+2024-04-27 17:39:54,400 - INFO - Checking redirection for: https://resources.github.com
+2024-04-27 17:39:54,528 - INFO - 200 - https://resources.github.com
+2024-04-27 17:39:54,530 - INFO - Checking redirection for: https://github.com/customer-stories
+2024-04-27 17:39:54,839 - INFO - 200 - https://github.com/customer-stories
+2024-04-27 17:39:54,841 - INFO - Checking redirection for: https://partner.github.com
+2024-04-27 17:39:54,921 - INFO - 200 - https://partner.github.com
+2024-04-27 17:39:54,923 - INFO - Checking redirection for: https://github.com/sponsors
+2024-04-27 17:39:55,229 - INFO - 200 - https://github.com/sponsors
+2024-04-27 17:39:55,231 - INFO - Checking redirection for: https://github.com/readme
+2024-04-27 17:39:55,551 - INFO - 200 - https://github.com/readme
+2024-04-27 17:39:55,554 - INFO - Checking redirection for: https://github.com/topics
+2024-04-27 17:39:55,865 - INFO - 200 - https://github.com/topics
+2024-04-27 17:39:55,867 - INFO - Checking redirection for: https://github.com/trending
+2024-04-27 17:39:57,399 - INFO - 200 - https://github.com/trending
+2024-04-27 17:39:57,401 - INFO - Checking redirection for: https://github.com/collections
+2024-04-27 17:39:57,710 - INFO - 200 - https://github.com/collections
+2024-04-27 17:39:57,712 - INFO - Checking redirection for: https://github.com/pricing
+2024-04-27 17:39:58,095 - INFO - 200 - https://github.com/pricing
+2024-04-27 17:39:58,097 - INFO - Checking redirection for: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+2024-04-27 17:39:58,219 - INFO - 200 - https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+2024-04-27 17:39:58,220 - INFO - Checking redirection for: https://public-api-lists.github.io/public-api-lists/
+2024-04-27 17:39:58,367 - INFO - 200 - https://public-api-lists.github.io/public-api-lists/
+2024-04-27 17:39:58,368 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/stargazers
+2024-04-27 17:39:58,769 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/stargazers
+2024-04-27 17:39:58,771 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/fork
+2024-04-27 17:39:59,214 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/fork
+2024-04-27 17:39:59,217 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/issues/new
+2024-04-27 17:39:59,609 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/issues/new
+2024-04-27 17:39:59,612 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/pulls
+2024-04-27 17:39:59,989 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/pulls
+2024-04-27 17:39:59,993 - INFO - Checking redirection for: https://alexwohlbruck.github.io/cat-facts/
+2024-04-27 17:40:00,086 - INFO - 200 - https://alexwohlbruck.github.io/cat-facts/
+2024-04-27 17:40:00,088 - INFO - Checking redirection for: https://docs.thecatapi.com/
+2024-04-27 17:40:00,401 - INFO - 200 - https://docs.thecatapi.com/
+2024-04-27 17:40:00,404 - INFO - Checking redirection for: https://cataas.com/
+2024-04-27 17:40:01,106 - INFO - 404 - https://cataas.com/
+2024-04-27 17:40:01,108 - INFO - Checking redirection for: https://dogapi.dog
+2024-04-27 17:40:01,761 - INFO - 200 - https://dogapi.dog
+2024-04-27 17:40:01,762 - INFO - Checking redirection for: https://dog.ceo/dog-api/
+2024-04-27 17:40:02,149 - INFO - 200 - https://dog.ceo/dog-api/
+2024-04-27 17:40:02,151 - INFO - Checking redirection for: https://foxes.cool
+2024-04-27 17:40:02,309 - INFO - 200 - https://foxes.cool
+2024-04-27 17:40:02,311 - INFO - Checking redirection for: https://http.cat/
+2024-04-27 17:40:02,415 - INFO - 200 - https://http.cat/
+2024-04-27 17:40:02,417 - INFO - Checking redirection for: https://http.dog/
+2024-04-27 17:40:02,496 - INFO - 200 - https://http.dog/
+2024-04-27 17:40:02,498 - INFO - Checking redirection for: https://github.com/movebank/movebank-api-doc
+2024-04-27 17:43:57,726 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:43:58,784 - INFO - Found 686 links
+2024-04-27 17:43:58,785 - INFO - Checking redirection for: https://github.com/
+2024-04-27 17:43:59,009 - INFO - 200 - https://github.com/
+2024-04-27 17:43:59,011 - INFO - Checking redirection for: https://github.com/features/actions
+2024-04-27 17:43:59,578 - INFO - 200 - https://github.com/features/actions
+2024-04-27 17:43:59,580 - INFO - Checking redirection for: https://github.com/features/packages
+2024-04-27 17:43:59,881 - INFO - 200 - https://github.com/features/packages
+2024-04-27 17:43:59,884 - INFO - Checking redirection for: https://github.com/features/security
+2024-04-27 17:44:00,235 - INFO - 200 - https://github.com/features/security
+2024-04-27 17:44:00,238 - INFO - Checking redirection for: https://github.com/features/codespaces
+2024-04-27 17:44:00,586 - INFO - 200 - https://github.com/features/codespaces
+2024-04-27 17:44:00,591 - INFO - Checking redirection for: https://github.com/features/copilot
+2024-04-27 17:44:01,104 - INFO - 200 - https://github.com/features/copilot
+2024-04-27 17:44:01,105 - INFO - Checking redirection for: https://github.com/features/code-review
+2024-04-27 17:44:01,398 - INFO - 200 - https://github.com/features/code-review
+2024-04-27 17:44:01,399 - INFO - Checking redirection for: https://github.com/features/issues
+2024-04-27 17:44:01,714 - INFO - 200 - https://github.com/features/issues
+2024-04-27 17:44:01,716 - INFO - Checking redirection for: https://github.com/features/discussions
+2024-04-27 17:44:02,143 - INFO - 200 - https://github.com/features/discussions
+2024-04-27 17:44:02,145 - INFO - Checking redirection for: https://github.com/features
+2024-04-27 17:44:02,499 - INFO - 200 - https://github.com/features
+2024-04-27 17:44:02,501 - INFO - Checking redirection for: https://docs.github.com
+2024-04-27 17:44:02,677 - INFO - 200 - https://docs.github.com
+2024-04-27 17:44:02,678 - INFO - Checking redirection for: https://skills.github.com
+2024-04-27 17:44:02,762 - INFO - 200 - https://skills.github.com
+2024-04-27 17:44:02,763 - INFO - Checking redirection for: https://github.blog
+2024-04-27 17:44:02,851 - INFO - 200 - https://github.blog
+2024-04-27 17:44:02,853 - INFO - Checking redirection for: https://github.com/enterprise
+2024-04-27 17:44:03,178 - INFO - 200 - https://github.com/enterprise
+2024-04-27 17:44:03,179 - INFO - Checking redirection for: https://github.com/team
+2024-04-27 17:44:03,503 - INFO - 200 - https://github.com/team
+2024-04-27 17:44:03,504 - INFO - Checking redirection for: https://github.com/enterprise/startups
+2024-04-27 17:44:03,871 - INFO - 200 - https://github.com/enterprise/startups
+2024-04-27 17:44:03,872 - INFO - Checking redirection for: https://education.github.com
+2024-04-27 17:44:04,154 - INFO - 200 - https://education.github.com
+2024-04-27 17:44:04,155 - INFO - Checking redirection for: https://github.com/solutions/ci-cd
+2024-04-27 17:44:04,467 - INFO - 200 - https://github.com/solutions/ci-cd
+2024-04-27 17:44:04,469 - INFO - Checking redirection for: https://github.com/solutions/devops
+2024-04-27 17:44:04,847 - INFO - 200 - https://github.com/solutions/devops
+2024-04-27 17:44:04,850 - INFO - Checking redirection for: https://resources.github.com/devops/fundamentals/devsecops
+2024-04-27 17:44:05,074 - INFO - 200 - https://resources.github.com/devops/fundamentals/devsecops
+2024-04-27 17:44:05,075 - INFO - Checking redirection for: https://resources.github.com/learn/pathways
+2024-04-27 17:44:05,270 - INFO - 200 - https://resources.github.com/learn/pathways
+2024-04-27 17:44:05,272 - INFO - Checking redirection for: https://resources.github.com
+2024-04-27 17:44:05,396 - INFO - 200 - https://resources.github.com
+2024-04-27 17:44:05,397 - INFO - Checking redirection for: https://github.com/customer-stories
+2024-04-27 17:44:05,678 - INFO - 200 - https://github.com/customer-stories
+2024-04-27 17:44:05,680 - INFO - Checking redirection for: https://partner.github.com
+2024-04-27 17:44:05,766 - INFO - 200 - https://partner.github.com
+2024-04-27 17:44:05,768 - INFO - Checking redirection for: https://github.com/sponsors
+2024-04-27 17:44:06,084 - INFO - 200 - https://github.com/sponsors
+2024-04-27 17:44:06,086 - INFO - Checking redirection for: https://github.com/readme
+2024-04-27 17:44:06,417 - INFO - 200 - https://github.com/readme
+2024-04-27 17:44:06,421 - INFO - Checking redirection for: https://github.com/topics
+2024-04-27 17:44:06,752 - INFO - 200 - https://github.com/topics
+2024-04-27 17:44:06,755 - INFO - Checking redirection for: https://github.com/trending
+2024-04-27 17:44:07,297 - INFO - 200 - https://github.com/trending
+2024-04-27 17:44:07,300 - INFO - Checking redirection for: https://github.com/collections
+2024-04-27 17:44:07,639 - INFO - 200 - https://github.com/collections
+2024-04-27 17:44:07,640 - INFO - Checking redirection for: https://github.com/pricing
+2024-04-27 17:44:08,088 - INFO - 200 - https://github.com/pricing
+2024-04-27 17:44:08,090 - INFO - Checking redirection for: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+2024-04-27 17:44:08,182 - INFO - 200 - https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+2024-04-27 17:44:08,184 - INFO - Checking redirection for: https://public-api-lists.github.io/public-api-lists/
+2024-04-27 17:44:08,255 - INFO - 200 - https://public-api-lists.github.io/public-api-lists/
+2024-04-27 17:44:08,256 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/stargazers
+2024-04-27 17:44:09,589 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:44:10,190 - INFO - Found 686 links
+2024-04-27 17:44:10,191 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/stargazers
+2024-04-27 17:44:10,594 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/stargazers
+2024-04-27 17:44:10,596 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/fork
+2024-04-27 17:44:10,983 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/fork
+2024-04-27 17:44:10,985 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/issues/new
+2024-04-27 17:44:11,460 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/issues/new
+2024-04-27 17:44:11,465 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/pulls
+2024-04-27 17:44:27,808 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:44:28,401 - INFO - Found 686 links
+2024-04-27 17:44:28,402 - INFO - Checking redirection for: https://github.com/public-api-lists/public-api-lists/pulls
+2024-04-27 17:44:28,702 - INFO - 200 - https://github.com/public-api-lists/public-api-lists/pulls
+2024-04-27 17:44:28,705 - INFO - Checking redirection for: https://alexwohlbruck.github.io/cat-facts/
+2024-04-27 17:44:28,782 - INFO - 200 - https://alexwohlbruck.github.io/cat-facts/
+2024-04-27 17:44:28,783 - INFO - Checking redirection for: https://docs.thecatapi.com/
+2024-04-27 17:44:29,342 - INFO - 200 - https://docs.thecatapi.com/
+2024-04-27 17:44:29,348 - INFO - Checking redirection for: https://cataas.com/
+2024-04-27 17:44:30,129 - INFO - 404 - https://cataas.com/
+2024-04-27 17:44:30,132 - INFO - Checking redirection for: https://dogapi.dog
+2024-04-27 17:44:30,971 - INFO - 200 - https://dogapi.dog
+2024-04-27 17:44:30,976 - INFO - Checking redirection for: https://dog.ceo/dog-api/
+2024-04-27 17:44:35,622 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:44:36,210 - INFO - Found 686 links
+2024-04-27 17:44:36,211 - INFO - Checking redirection for: https://dog.ceo/dog-api/
+2024-04-27 17:44:36,541 - INFO - 200 - https://dog.ceo/dog-api/
+2024-04-27 17:44:36,543 - INFO - Checking redirection for: https://foxes.cool
+2024-04-27 17:44:36,630 - INFO - 200 - https://foxes.cool
+2024-04-27 17:44:36,631 - INFO - Checking redirection for: https://http.cat/
+2024-04-27 17:44:37,094 - INFO - 200 - https://http.cat/
+2024-04-27 17:44:37,097 - INFO - Checking redirection for: https://http.dog/
+2024-04-27 17:44:37,611 - INFO - 200 - https://http.dog/
+2024-04-27 17:44:37,614 - INFO - Checking redirection for: https://github.com/movebank/movebank-api-doc
+2024-04-27 17:44:42,300 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:44:42,883 - INFO - Found 686 links
+2024-04-27 17:44:42,884 - INFO - Checking redirection for: https://github.com/movebank/movebank-api-doc
+2024-04-27 17:44:43,103 - INFO - 200 - https://github.com/movebank/movebank-api-doc
+2024-04-27 17:44:43,106 - INFO - Checking redirection for: https://www.petfinder.com/developers/v2/docs/
+2024-04-27 17:44:43,477 - INFO - 200 - https://www.petfinder.com/developers/v2/docs/
+2024-04-27 17:44:43,481 - INFO - Checking redirection for: https://randombig.cat/roar.json
+2024-04-27 17:44:44,046 - ERROR - https://randombig.cat/roar.json - Error: Connection error occurred.
+2024-04-27 17:44:44,047 - INFO - Checking redirection for: https://random.dog/woof.json
+2024-04-27 17:44:44,332 - INFO - 200 - https://random.dog/woof.json
+2024-04-27 17:44:44,335 - INFO - Checking redirection for: https://randomfox.ca/floof/
+2024-04-27 17:44:44,669 - INFO - 200 - https://randomfox.ca/floof/
+2024-04-27 17:44:44,671 - INFO - Checking redirection for: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+2024-04-27 17:44:45,174 - INFO - 200 - https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+2024-04-27 17:44:45,177 - INFO - Checking redirection for: https://github.com/AniList/ApiV2-GraphQL-Docs
+2024-04-27 17:44:45,992 - INFO - 200 - https://github.com/AniList/ApiV2-GraphQL-Docs
+2024-04-27 17:44:45,996 - INFO - Checking redirection for: https://www.animenewsnetwork.com/encyclopedia/api.php
+2024-04-27 17:44:46,311 - INFO - 200 - https://www.animenewsnetwork.com/encyclopedia/api.php
+2024-04-27 17:44:46,315 - INFO - Checking redirection for: https://jikan.moe
+2024-04-27 17:44:46,621 - INFO - 200 - https://jikan.moe
+2024-04-27 17:44:46,623 - INFO - Checking redirection for: https://soruly.github.io/trace.moe-api/#/
+2024-04-27 17:44:46,755 - INFO - 200 - https://soruly.github.io/trace.moe-api/#/
+2024-04-27 17:44:46,757 - INFO - Checking redirection for: https://api.mangadex.org/docs/
+2024-04-27 17:44:46,986 - INFO - 405 - https://api.mangadex.org/docs/
+2024-04-27 17:44:46,989 - INFO - Checking redirection for: https://docs.abuseipdb.com/
+2024-04-27 17:44:47,308 - INFO - 200 - https://docs.abuseipdb.com/
+2024-04-27 17:44:47,312 - INFO - Checking redirection for: https://developers.google.com/safe-browsing/
+2024-04-27 17:44:47,786 - INFO - 200 - https://developers.google.com/safe-browsing/
+2024-04-27 17:44:47,788 - INFO - Checking redirection for: https://metacert.com/
+2024-04-27 17:44:48,062 - INFO - 200 - https://metacert.com/
+2024-04-27 17:44:48,064 - INFO - Checking redirection for: https://www.virustotal.com/en/documentation/public-api/
+2024-04-27 17:44:48,596 - INFO - 200 - https://www.virustotal.com/en/documentation/public-api/
+2024-04-27 17:44:48,600 - INFO - Checking redirection for: https://www.mywot.com/en/API
+2024-04-27 17:44:48,918 - INFO - 200 - https://www.mywot.com/en/API
+2024-04-27 17:44:48,919 - INFO - Checking redirection for: https://www.behance.net/dev
+2024-04-27 17:44:49,242 - INFO - 404 - https://www.behance.net/dev
+2024-04-27 17:44:49,246 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
+2024-04-27 17:44:49,446 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
+2024-04-27 17:44:49,447 - INFO - Checking redirection for: https://pro.europeana.eu/resources/apis/search
+2024-04-27 17:44:57,669 - INFO - 200 - https://pro.europeana.eu/resources/apis/search
+2024-04-27 17:44:57,676 - INFO - Checking redirection for: https://github.com/harvardartmuseums/api-docs
+2024-04-27 17:44:58,300 - INFO - 200 - https://github.com/harvardartmuseums/api-docs
+2024-04-27 17:44:58,304 - INFO - Checking redirection for: https://developer.iconfinder.com
+2024-04-27 17:44:58,645 - INFO - 200 - https://developer.iconfinder.com
+2024-04-27 17:44:58,647 - INFO - Checking redirection for: https://www.rijksmuseum.nl/en/api
+2024-04-27 17:45:00,154 - INFO - 200 - https://www.rijksmuseum.nl/en/api
+2024-04-27 17:45:00,158 - INFO - Checking redirection for: https://metmuseum.github.io/
+2024-04-27 17:45:00,314 - INFO - 200 - https://metmuseum.github.io/
+2024-04-27 17:45:00,316 - INFO - Checking redirection for: https://bhagavadgita.io/api
+2024-04-27 17:45:01,158 - INFO - 200 - https://bhagavadgita.io/api
+2024-04-27 17:45:01,160 - INFO - Checking redirection for: https://developers.google.com/books/
+2024-04-27 17:45:01,402 - INFO - 200 - https://developers.google.com/books/
+2024-04-27 17:45:01,405 - INFO - Checking redirection for: https://openlibrary.org/developers/api
+2024-04-27 17:45:01,700 - INFO - 200 - https://openlibrary.org/developers/api
+2024-04-27 17:45:01,704 - INFO - Checking redirection for: https://aninditabasu.github.io/indica/
+2024-04-27 17:45:01,853 - INFO - 200 - https://aninditabasu.github.io/indica/
+2024-04-27 17:45:01,857 - INFO - Checking redirection for: https://aninditabasu.github.io/indica/html/vs.html
+2024-04-27 17:45:01,957 - INFO - 404 - https://aninditabasu.github.io/indica/html/vs.html
+2024-04-27 17:45:01,959 - INFO - Checking redirection for: https://clearbit.com/docs#logo-api
+2024-04-27 17:45:02,428 - INFO - 200 - https://clearbit.com/docs#logo-api
+2024-04-27 17:45:02,436 - INFO - Checking redirection for: https://labstack.com/domain
+2024-04-27 17:45:02,917 - INFO - 404 - https://labstack.com/domain
+2024-04-27 17:45:02,918 - INFO - Checking redirection for: https://domainsdb.info/
+2024-04-27 17:45:03,439 - INFO - 200 - https://domainsdb.info/
+2024-04-27 17:45:03,443 - INFO - Checking redirection for: https://developers.freelancer.com
+2024-04-27 17:45:04,090 - INFO - 200 - https://developers.freelancer.com
+2024-04-27 17:45:04,096 - INFO - Checking redirection for: https://developers.google.com/gmail/api/
+2024-04-27 17:45:04,465 - INFO - 200 - https://developers.google.com/gmail/api/
+2024-04-27 17:45:04,472 - INFO - Checking redirection for: https://developers.google.com/analytics/
+2024-04-27 17:45:04,842 - INFO - 200 - https://developers.google.com/analytics/
+2024-04-27 17:45:04,846 - INFO - Checking redirection for: https://www.mailboxvalidator.com/api-single-validation
+2024-04-27 17:45:07,164 - INFO - 200 - https://www.mailboxvalidator.com/api-single-validation
+2024-04-27 17:45:07,169 - INFO - Checking redirection for: https://www.mailgun.com/
+2024-04-27 17:45:07,528 - INFO - 200 - https://www.mailgun.com/
+2024-04-27 17:45:07,531 - INFO - Checking redirection for: https://www.mailjet.com/
+2024-04-27 17:45:07,935 - INFO - 200 - https://www.mailjet.com/
+2024-04-27 17:45:07,938 - INFO - Checking redirection for: https://developers.repetiti.com
+2024-04-27 17:45:08,372 - INFO - 200 - https://developers.repetiti.com
+2024-04-27 17:45:08,378 - INFO - Checking redirection for: https://ticksel.com
+2024-04-27 17:45:09,472 - INFO - 200 - https://ticksel.com
+2024-04-27 17:45:09,477 - INFO - Checking redirection for: https://developers.trello.com/
+2024-04-27 17:45:09,865 - INFO - 200 - https://developers.trello.com/
+2024-04-27 17:45:09,868 - INFO - Checking redirection for: https://tomba.io/
+2024-04-27 17:45:10,647 - INFO - 200 - https://tomba.io/
+2024-04-27 17:45:10,651 - INFO - Checking redirection for: https://www.abstractapi.com/holidays-api
+2024-04-27 17:45:11,106 - INFO - 200 - https://www.abstractapi.com/holidays-api
+2024-04-27 17:45:11,109 - INFO - Checking redirection for: https://byabbe.se/on-this-day/#/default/get__month___day__events_json
+2024-04-27 17:45:11,686 - INFO - 200 - https://byabbe.se/on-this-day/#/default/get__month___day__events_json
+2024-04-27 17:45:11,691 - INFO - Checking redirection for: https://www.calendarindex.com/
+2024-04-27 17:45:12,376 - INFO - 200 - https://www.calendarindex.com/
+2024-04-27 17:45:12,381 - INFO - Checking redirection for: https://developers.google.com/google-apps/calendar/
+2024-04-27 17:45:12,993 - INFO - 200 - https://developers.google.com/google-apps/calendar/
+2024-04-27 17:45:12,996 - INFO - Checking redirection for: https://www.hebcal.com/home/developer-apis
+2024-04-27 17:45:13,309 - INFO - 200 - https://www.hebcal.com/home/developer-apis
+2024-04-27 17:45:13,313 - INFO - Checking redirection for: https://holidayapi.pl/
+2024-04-27 17:46:22,109 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-27 17:46:23,208 - INFO - Found 686 links
+2024-04-27 17:46:23,209 - INFO - Checking redirection for: https://randombig.cat/roar.json
+2024-04-27 17:46:23,769 - ERROR - https://randombig.cat/roar.json - Error: Connection error occurred.
+2024-04-27 17:46:23,770 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
+2024-04-27 17:46:23,997 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
+2024-04-27 17:46:24,000 - INFO - Checking redirection for: https://holidayapi.pl/

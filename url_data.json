@@ -1,22 +1,354 @@
 [
     {
-        "url": "https://www.example.com",
+        "url": "https://github.com/",
         "status_code": 200
     },
     {
-        "url": "https://www.google.com",
+        "url": "https://github.com/features/actions",
         "status_code": 200
     },
     {
-        "url": "https://www.wikipedia.org",
+        "url": "https://github.com/features/packages",
         "status_code": 200
     },
     {
-        "url": "https://www.github.com",
+        "url": "https://github.com/features/security",
         "status_code": 200
     },
     {
-        "url": "https://www.example.com/doesnotexist",
-        "status_code": 500
+        "url": "https://github.com/features/codespaces",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/features/copilot",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/features/code-review",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/features/issues",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/features/discussions",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/features",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.github.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://skills.github.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.blog",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/enterprise",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/team",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/enterprise/startups",
+        "status_code": 200
+    },
+    {
+        "url": "https://education.github.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/solutions/ci-cd",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/solutions/devops",
+        "status_code": 200
+    },
+    {
+        "url": "https://resources.github.com/devops/fundamentals/devsecops",
+        "status_code": 200
+    },
+    {
+        "url": "https://resources.github.com/learn/pathways",
+        "status_code": 200
+    },
+    {
+        "url": "https://resources.github.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/customer-stories",
+        "status_code": 200
+    },
+    {
+        "url": "https://partner.github.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/sponsors",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/readme",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/topics",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/trending",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/collections",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/pricing",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax",
+        "status_code": 200
+    },
+    {
+        "url": "https://public-api-lists.github.io/public-api-lists/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/public-api-lists/public-api-lists/stargazers",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/public-api-lists/public-api-lists/fork",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/public-api-lists/public-api-lists/issues/new",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/public-api-lists/public-api-lists/pulls",
+        "status_code": 200
+    },
+    {
+        "url": "https://alexwohlbruck.github.io/cat-facts/",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.thecatapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://cataas.com/",
+        "status_code": 404
+    },
+    {
+        "url": "https://dogapi.dog",
+        "status_code": 200
+    },
+    {
+        "url": "https://dog.ceo/dog-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://foxes.cool",
+        "status_code": 200
+    },
+    {
+        "url": "https://http.cat/",
+        "status_code": 200
+    },
+    {
+        "url": "https://http.dog/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/movebank/movebank-api-doc",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.petfinder.com/developers/v2/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://random.dog/woof.json",
+        "status_code": 200
+    },
+    {
+        "url": "https://randomfox.ca/floof/",
+        "status_code": 200
+    },
+    {
+        "url": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/AniList/ApiV2-GraphQL-Docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.animenewsnetwork.com/encyclopedia/api.php",
+        "status_code": 200
+    },
+    {
+        "url": "https://jikan.moe",
+        "status_code": 200
+    },
+    {
+        "url": "https://soruly.github.io/trace.moe-api/#/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.mangadex.org/docs/",
+        "status_code": 405
+    },
+    {
+        "url": "https://docs.abuseipdb.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/safe-browsing/",
+        "status_code": 200
+    },
+    {
+        "url": "https://metacert.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.virustotal.com/en/documentation/public-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.mywot.com/en/API",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.behance.net/dev",
+        "status_code": 404
+    },
+    {
+        "url": "https://pro.europeana.eu/resources/apis/search",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/harvardartmuseums/api-docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.iconfinder.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.rijksmuseum.nl/en/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://metmuseum.github.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://bhagavadgita.io/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/books/",
+        "status_code": 200
+    },
+    {
+        "url": "https://openlibrary.org/developers/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://aninditabasu.github.io/indica/",
+        "status_code": 200
+    },
+    {
+        "url": "https://aninditabasu.github.io/indica/html/vs.html",
+        "status_code": 404
+    },
+    {
+        "url": "https://clearbit.com/docs#logo-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://labstack.com/domain",
+        "status_code": 404
+    },
+    {
+        "url": "https://domainsdb.info/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.freelancer.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/gmail/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/analytics/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.mailboxvalidator.com/api-single-validation",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.mailgun.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.mailjet.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.repetiti.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://ticksel.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.trello.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://tomba.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.abstractapi.com/holidays-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://byabbe.se/on-this-day/#/default/get__month___day__events_json",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.calendarindex.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/google-apps/calendar/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.hebcal.com/home/developer-apis",
+        "status_code": 200
     }
 ]
