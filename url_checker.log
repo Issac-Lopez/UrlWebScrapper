@@ -593,3 +593,1645 @@
 2024-04-27 17:46:23,770 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
 2024-04-27 17:46:23,997 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
 2024-04-27 17:46:24,000 - INFO - Checking redirection for: https://holidayapi.pl/
+2024-04-29 10:08:40,808 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-29 10:08:42,137 - INFO - Found 686 links
+2024-04-29 10:08:42,139 - INFO - Checking redirection for: https://randombig.cat/roar.json
+2024-04-29 10:08:42,353 - ERROR - https://randombig.cat/roar.json - Error: Connection error occurred.
+2024-04-29 10:08:42,353 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
+2024-04-29 10:08:42,787 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
+2024-04-29 10:08:42,787 - INFO - Checking redirection for: https://holidayapi.pl/
+2024-04-29 10:09:15,031 - ERROR - https://holidayapi.pl/ - Error: Connection error occurred.
+2024-04-29 10:09:15,031 - INFO - Checking redirection for: https://holidayapi.com/
+2024-04-29 10:09:15,412 - INFO - 200 - https://holidayapi.com/
+2024-04-29 10:09:15,416 - INFO - Checking redirection for: https://isdayoff.ru
+2024-04-29 10:09:28,485 - ERROR - https://isdayoff.ru - Error: Connection error occurred.
+2024-04-29 10:09:28,486 - INFO - Checking redirection for: https://date.nager.at
+2024-04-29 10:09:29,056 - INFO - 200 - https://date.nager.at
+2024-04-29 10:09:29,059 - INFO - Checking redirection for: https://api.abalin.net/
+2024-04-29 10:09:29,760 - ERROR - https://api.abalin.net/ - Error: Connection error occurred.
+2024-04-29 10:09:29,760 - INFO - Checking redirection for: https://github.com/gadael/icsdb
+2024-04-29 10:09:30,683 - INFO - 200 - https://github.com/gadael/icsdb
+2024-04-29 10:09:30,687 - INFO - Checking redirection for: https://github.com/egno/work-calendar
+2024-04-29 10:09:31,410 - INFO - 200 - https://github.com/egno/work-calendar
+2024-04-29 10:09:31,417 - INFO - Checking redirection for: https://tz.add-to-calendar-technology.com/
+2024-04-29 10:09:31,843 - INFO - 200 - https://tz.add-to-calendar-technology.com/
+2024-04-29 10:09:31,850 - INFO - Checking redirection for: https://anonfiles.com/docs/api
+2024-04-29 10:09:31,877 - ERROR - https://anonfiles.com/docs/api - Error: Connection error occurred.
+2024-04-29 10:09:31,877 - INFO - Checking redirection for: https://developer.box.com/
+2024-04-29 10:09:32,223 - ERROR - https://developer.box.com/ - Error: Connection error occurred.
+2024-04-29 10:09:32,224 - INFO - Checking redirection for: https://www.dropbox.com/developers
+2024-04-29 10:09:32,505 - ERROR - https://www.dropbox.com/developers - Error: Connection error occurred.
+2024-04-29 10:09:32,506 - INFO - Checking redirection for: https://developers.google.com/drive/
+2024-04-29 10:09:33,163 - INFO - 200 - https://developers.google.com/drive/
+2024-04-29 10:09:33,167 - INFO - Checking redirection for: https://dev.onedrive.com/
+2024-04-29 10:09:34,207 - INFO - 200 - https://dev.onedrive.com/
+2024-04-29 10:09:34,213 - INFO - Checking redirection for: https://pastebin.com/api/
+2024-04-29 10:09:34,528 - ERROR - https://pastebin.com/api/ - Error: Connection error occurred.
+2024-04-29 10:09:34,528 - INFO - Checking redirection for: https://developers.wetransfer.com
+2024-04-29 10:09:34,760 - ERROR - https://developers.wetransfer.com - Error: Connection error occurred.
+2024-04-29 10:09:34,760 - INFO - Checking redirection for: https://circleci.com/docs/api/v2/
+2024-04-29 10:09:35,209 - INFO - 200 - https://circleci.com/docs/api/v2/
+2024-04-29 10:09:35,213 - INFO - Checking redirection for: https://apidocs.codeship.com/
+2024-04-29 10:09:36,577 - INFO - 200 - https://apidocs.codeship.com/
+2024-04-29 10:09:36,583 - INFO - Checking redirection for: https://docs.travis-ci.com/api/
+2024-04-29 10:09:37,167 - INFO - 200 - https://docs.travis-ci.com/api/
+2024-04-29 10:09:37,174 - INFO - Checking redirection for: https://github.com/binance-exchange/binance-official-api-docs
+2024-04-29 10:09:37,967 - INFO - 200 - https://github.com/binance-exchange/binance-official-api-docs
+2024-04-29 10:09:37,973 - INFO - Checking redirection for: https://bitquery.io/
+2024-04-29 10:09:38,832 - INFO - 200 - https://bitquery.io/
+2024-04-29 10:09:38,838 - INFO - Checking redirection for: https://apiv2.bitcoinaverage.com/
+2024-04-29 10:09:39,382 - INFO - 200 - https://apiv2.bitcoinaverage.com/
+2024-04-29 10:09:39,386 - INFO - Checking redirection for: https://bitcoincharts.com/about/exchanges/
+2024-04-29 10:09:39,995 - ERROR - https://bitcoincharts.com/about/exchanges/ - Error: Connection error occurred.
+2024-04-29 10:09:39,995 - INFO - Checking redirection for: https://www.bitmex.com/app/apiOverview
+2024-04-29 10:09:40,675 - INFO - 200 - https://www.bitmex.com/app/apiOverview
+2024-04-29 10:09:40,679 - INFO - Checking redirection for: https://apidocs.bithumb.com/
+2024-04-29 10:09:41,061 - INFO - 200 - https://apidocs.bithumb.com/
+2024-04-29 10:09:41,064 - INFO - Checking redirection for: https://www.block.io/docs/basic
+2024-04-29 10:09:45,345 - ERROR - https://www.block.io/docs/basic - Error: Connection error occurred.
+2024-04-29 10:09:45,345 - INFO - Checking redirection for: https://www.blockchain.info/api
+2024-04-29 10:09:45,601 - ERROR - https://www.blockchain.info/api - Error: Connection error occurred.
+2024-04-29 10:09:45,601 - INFO - Checking redirection for: https://blockfacts.io/
+2024-04-29 10:10:17,425 - ERROR - https://blockfacts.io/ - Error: Connection error occurred.
+2024-04-29 10:10:17,425 - INFO - Checking redirection for: https://docs.coinapi.io/
+2024-04-29 10:10:21,855 - INFO - 200 - https://docs.coinapi.io/
+2024-04-29 10:10:21,859 - INFO - Checking redirection for: https://developers.coinbase.com
+2024-04-29 10:10:22,143 - INFO - 403 - https://developers.coinbase.com
+2024-04-29 10:10:22,146 - INFO - Checking redirection for: https://docs.pro.coinbase.com/#api
+2024-04-29 10:10:23,579 - INFO - 404 - https://docs.pro.coinbase.com/#api
+2024-04-29 10:10:23,585 - INFO - Checking redirection for: https://coinigy.docs.apiary.io
+2024-04-29 10:10:59,931 - ERROR - https://coinigy.docs.apiary.io - Error: Connection error occurred.
+2024-04-29 10:10:59,931 - INFO - Checking redirection for: https://coinlayer.com
+2024-04-29 10:11:03,610 - INFO - 200 - https://coinlayer.com
+2024-04-29 10:11:03,614 - INFO - Checking redirection for: https://coinlib.io/apidocs
+2024-04-29 10:11:08,375 - INFO - 404 - https://coinlib.io/apidocs
+2024-04-29 10:11:08,379 - INFO - Checking redirection for: https://www.coinlore.com/cryptocurrency-data-api
+2024-04-29 10:11:09,028 - INFO - 200 - https://www.coinlore.com/cryptocurrency-data-api
+2024-04-29 10:11:09,032 - INFO - Checking redirection for: https://coinmarketcap.com/api/
+2024-04-29 10:11:09,412 - INFO - 200 - https://coinmarketcap.com/api/
+2024-04-29 10:11:09,417 - INFO - Checking redirection for: https://api.coinpaprika.com
+2024-04-29 10:11:10,055 - INFO - 200 - https://api.coinpaprika.com
+2024-04-29 10:11:10,059 - INFO - Checking redirection for: https://docs.coinranking.com/
+2024-04-29 10:11:11,595 - INFO - 200 - https://docs.coinranking.com/
+2024-04-29 10:11:11,600 - INFO - Checking redirection for: https://www.covalenthq.com/docs/api/
+2024-04-29 10:11:12,167 - INFO - 200 - https://www.covalenthq.com/docs/api/
+2024-04-29 10:11:12,174 - INFO - Checking redirection for: https://www.cryptocompare.com/api#
+2024-04-29 10:11:14,266 - INFO - 200 - https://www.cryptocompare.com/api#
+2024-04-29 10:11:14,291 - INFO - Checking redirection for: https://www.cryptonator.com/api/
+2024-04-29 10:11:14,771 - INFO - 523 - https://www.cryptonator.com/api/
+2024-04-29 10:11:14,775 - INFO - Checking redirection for: https://currencyapi.com
+2024-04-29 10:11:15,265 - INFO - 200 - https://currencyapi.com
+2024-04-29 10:11:15,269 - INFO - Checking redirection for: https://www.gate.io/api2
+2024-04-29 10:11:16,249 - INFO - 200 - https://www.gate.io/api2
+2024-04-29 10:11:16,254 - INFO - Checking redirection for: https://docs.gemini.com/rest-api/
+2024-04-29 10:11:16,548 - INFO - 200 - https://docs.gemini.com/rest-api/
+2024-04-29 10:11:16,552 - INFO - Checking redirection for: https://mxcdevelop.github.io/apidocs
+2024-04-29 10:11:16,843 - INFO - 404 - https://mxcdevelop.github.io/apidocs
+2024-04-29 10:11:16,847 - INFO - Checking redirection for: https://nexchange2.docs.apiary.io/
+2024-04-29 10:11:22,051 - INFO - 200 - https://nexchange2.docs.apiary.io/
+2024-04-29 10:11:22,055 - INFO - Checking redirection for: https://docs.nicehash.com/
+2024-04-29 10:11:26,103 - ERROR - https://docs.nicehash.com/ - Error: Connection error occurred.
+2024-04-29 10:11:26,103 - INFO - Checking redirection for: https://poloniex.com/support/api/
+2024-04-29 10:11:27,287 - INFO - 200 - https://poloniex.com/support/api/
+2024-04-29 10:11:27,294 - INFO - Checking redirection for: https://www.worldcoinindex.com/apiservice
+2024-04-29 10:11:59,332 - ERROR - https://www.worldcoinindex.com/apiservice - Error: Connection error occurred.
+2024-04-29 10:11:59,333 - INFO - Checking redirection for: https://1forge.com/forex-data-api/api-documentation
+2024-04-29 10:12:00,401 - INFO - 200 - https://1forge.com/forex-data-api/api-documentation
+2024-04-29 10:12:00,410 - INFO - Checking redirection for: https://currencylayer.com/documentation
+2024-04-29 10:12:00,859 - INFO - 200 - https://currencylayer.com/documentation
+2024-04-29 10:12:00,867 - INFO - Checking redirection for: https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml
+2024-04-29 10:12:01,871 - INFO - 200 - https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml
+2024-04-29 10:12:01,886 - INFO - Checking redirection for: https://www.exchangerate-api.com
+2024-04-29 10:12:02,250 - INFO - 200 - https://www.exchangerate-api.com
+2024-04-29 10:12:02,283 - INFO - Checking redirection for: https://exchangeratesapi.io
+2024-04-29 10:12:02,679 - INFO - 200 - https://exchangeratesapi.io
+2024-04-29 10:12:02,708 - INFO - Checking redirection for: https://www.frankfurter.app/docs
+2024-04-29 10:12:03,387 - INFO - 200 - https://www.frankfurter.app/docs
+2024-04-29 10:12:03,402 - INFO - Checking redirection for: https://fxratesapi.com/
+2024-04-29 10:12:03,944 - INFO - 200 - https://fxratesapi.com/
+2024-04-29 10:12:03,952 - INFO - Checking redirection for: https://ratesapi.io
+2024-04-29 10:12:36,143 - ERROR - https://ratesapi.io - Error: Connection error occurred.
+2024-04-29 10:12:36,143 - INFO - Checking redirection for: https://cloudmersive.com/validate-api
+2024-04-29 10:12:36,812 - INFO - 200 - https://cloudmersive.com/validate-api
+2024-04-29 10:12:36,817 - INFO - Checking redirection for: https://labstack.com/email
+2024-04-29 10:12:37,287 - INFO - 404 - https://labstack.com/email
+2024-04-29 10:12:37,291 - INFO - Checking redirection for: https://languagelayer.com
+2024-04-29 10:12:37,901 - INFO - 200 - https://languagelayer.com
+2024-04-29 10:12:37,905 - INFO - Checking redirection for: https://lob.com/
+2024-04-29 10:12:39,038 - INFO - 200 - https://lob.com/
+2024-04-29 10:12:39,045 - INFO - Checking redirection for: https://mailboxlayer.com
+2024-04-29 10:12:39,649 - INFO - 200 - https://mailboxlayer.com
+2024-04-29 10:12:39,655 - INFO - Checking redirection for: https://numvalidate.com
+2024-04-29 10:12:40,112 - INFO - 200 - https://numvalidate.com
+2024-04-29 10:12:40,117 - INFO - Checking redirection for: https://numverify.com
+2024-04-29 10:12:40,604 - INFO - 200 - https://numverify.com
+2024-04-29 10:12:40,608 - INFO - Checking redirection for: https://trestleiq.com/phone-validation-api/
+2024-04-29 10:12:41,317 - INFO - 200 - https://trestleiq.com/phone-validation-api/
+2024-04-29 10:12:41,321 - INFO - Checking redirection for: https://smartystreets.com/docs/cloud/us-autocomplete-api
+2024-04-29 10:12:42,373 - INFO - 200 - https://smartystreets.com/docs/cloud/us-autocomplete-api
+2024-04-29 10:12:42,385 - INFO - Checking redirection for: https://smartystreets.com/products/apis/us-extract-api
+2024-04-29 10:12:43,128 - INFO - 200 - https://smartystreets.com/products/apis/us-extract-api
+2024-04-29 10:12:43,134 - INFO - Checking redirection for: https://smartystreets.com/docs/cloud/us-street-api
+2024-04-29 10:12:43,796 - INFO - 200 - https://smartystreets.com/docs/cloud/us-street-api
+2024-04-29 10:12:43,812 - INFO - Checking redirection for: https://vatlayer.com
+2024-04-29 10:12:44,397 - INFO - 200 - https://vatlayer.com
+2024-04-29 10:12:44,401 - INFO - Checking redirection for: https://veriphone.io
+2024-04-29 10:12:44,702 - INFO - 200 - https://veriphone.io
+2024-04-29 10:12:44,708 - INFO - Checking redirection for: https://scraper.run
+2024-04-29 10:13:17,283 - ERROR - https://scraper.run - Error: Connection error occurred.
+2024-04-29 10:13:17,283 - INFO - Checking redirection for: https://apyhub.com/catalog/data-validation
+2024-04-29 10:13:18,174 - INFO - 200 - https://apyhub.com/catalog/data-validation
+2024-04-29 10:13:18,178 - INFO - Checking redirection for: https://24pullrequests.com/api
+2024-04-29 10:13:19,967 - INFO - 200 - https://24pullrequests.com/api
+2024-04-29 10:13:19,972 - INFO - Checking redirection for: https://agify.io
+2024-04-29 10:13:25,696 - INFO - 200 - https://agify.io
+2024-04-29 10:13:25,700 - INFO - Checking redirection for: https://apiflash.com/
+2024-04-29 10:13:33,911 - ERROR - https://apiflash.com/ - Error: Connection error occurred.
+2024-04-29 10:13:33,912 - INFO - Checking redirection for: https://apis.guru/api-doc/
+2024-04-29 10:13:34,276 - INFO - 200 - https://apis.guru/api-doc/
+2024-04-29 10:13:34,280 - INFO - Checking redirection for: https://www.boredapi.com/
+2024-04-29 10:13:34,651 - ERROR - https://www.boredapi.com/ - Error: Connection error occurred.
+2024-04-29 10:13:34,651 - INFO - Checking redirection for: https://browshot.com/api/documentation
+2024-04-29 10:13:35,889 - INFO - 200 - https://browshot.com/api/documentation
+2024-04-29 10:13:35,897 - INFO - Checking redirection for: https://www.browsercat.com/
+2024-04-29 10:13:36,236 - ERROR - https://www.browsercat.com/ - Error: Connection error occurred.
+2024-04-29 10:13:36,236 - INFO - Checking redirection for: https://api.cdnjs.com/libraries/jquery
+2024-04-29 10:13:36,831 - INFO - 200 - https://api.cdnjs.com/libraries/jquery
+2024-04-29 10:13:36,914 - INFO - Checking redirection for: https://changelogs.md
+2024-04-29 10:13:37,065 - ERROR - https://changelogs.md - Error: Connection error occurred.
+2024-04-29 10:13:37,065 - INFO - Checking redirection for: https://countapi.xyz
+2024-04-29 10:13:37,609 - ERROR - https://countapi.xyz - Error: Connection error occurred.
+2024-04-29 10:13:37,609 - INFO - Checking redirection for: https://status.digitalocean.com/api/v2
+2024-04-29 10:13:38,282 - INFO - 200 - https://status.digitalocean.com/api/v2
+2024-04-29 10:13:38,290 - INFO - Checking redirection for: https://www.doczilla.app/
+2024-04-29 10:13:39,347 - INFO - 200 - https://www.doczilla.app/
+2024-04-29 10:13:39,359 - INFO - Checking redirection for: https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details
+2024-04-29 10:13:39,813 - INFO - 404 - https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details
+2024-04-29 10:13:39,818 - INFO - Checking redirection for: https://extendsclass.com/json-storage.html
+2024-04-29 10:13:40,538 - INFO - 200 - https://extendsclass.com/json-storage.html
+2024-04-29 10:13:40,542 - INFO - Checking redirection for: https://www.faceplusplus.com/
+2024-04-29 10:13:41,181 - INFO - 200 - https://www.faceplusplus.com/
+2024-04-29 10:13:41,188 - INFO - Checking redirection for: https://form2channel.com/
+2024-04-29 10:13:41,618 - INFO - 200 - https://form2channel.com/
+2024-04-29 10:13:41,622 - INFO - Checking redirection for: https://genderize.io
+2024-04-29 10:13:42,417 - INFO - 200 - https://genderize.io
+2024-04-29 10:13:42,425 - INFO - Checking redirection for: https://developer.github.com/v3/
+2024-04-29 10:13:46,906 - INFO - 200 - https://developer.github.com/v3/
+2024-04-29 10:13:46,913 - INFO - Checking redirection for: https://docs.gitlab.com/ee/api/
+2024-04-29 10:13:51,367 - INFO - 200 - https://docs.gitlab.com/ee/api/
+2024-04-29 10:13:51,373 - INFO - Checking redirection for: https://github.com/gitterHQ/docs
+2024-04-29 10:13:52,284 - INFO - 200 - https://github.com/gitterHQ/docs
+2024-04-29 10:13:52,309 - INFO - Checking redirection for: https://http2.pro/doc/api
+2024-04-29 10:13:52,933 - INFO - 200 - https://http2.pro/doc/api
+2024-04-29 10:13:52,939 - INFO - Checking redirection for: https://console.bluemix.net/docs/services/text-to-speech/getting-started.html
+2024-04-29 10:13:53,968 - INFO - 200 - https://console.bluemix.net/docs/services/text-to-speech/getting-started.html
+2024-04-29 10:13:53,977 - INFO - Checking redirection for: https://www.image-charts.com/
+2024-04-29 10:13:54,583 - INFO - 200 - https://www.image-charts.com/
+2024-04-29 10:13:54,590 - INFO - Checking redirection for: https://www.ip2whois.com
+2024-04-29 10:13:55,286 - INFO - 200 - https://www.ip2whois.com
+2024-04-29 10:13:55,294 - INFO - Checking redirection for: https://ipapi.is/developers.html
+2024-04-29 10:13:56,288 - INFO - 200 - https://ipapi.is/developers.html
+2024-04-29 10:13:56,293 - INFO - Checking redirection for: https://api.techniknews.net/ipgeo/%5BIP-Adress/Domain%5D
+2024-04-29 10:13:57,145 - INFO - 200 - https://api.techniknews.net/ipgeo/%5BIP-Adress/Domain%5D
+2024-04-29 10:13:57,152 - INFO - Checking redirection for: https://www.ipify.org/
+2024-04-29 10:13:57,537 - INFO - 200 - https://www.ipify.org/
+2024-04-29 10:13:57,545 - INFO - Checking redirection for: https://ipinfo.io/developers
+2024-04-29 10:13:57,774 - ERROR - https://ipinfo.io/developers - Error: Connection error occurred.
+2024-04-29 10:13:57,774 - INFO - Checking redirection for: https://api.aruljohn.com/ip/json
+2024-04-29 10:13:58,243 - INFO - 200 - https://api.aruljohn.com/ip/json
+2024-04-29 10:13:58,255 - INFO - Checking redirection for: https://api.aruljohn.com/ip
+2024-04-29 10:13:58,653 - INFO - 200 - https://api.aruljohn.com/ip
+2024-04-29 10:13:58,663 - INFO - Checking redirection for: https://github.com/jsdelivr/data.jsdelivr.com
+2024-04-29 10:14:03,493 - INFO - 200 - https://github.com/jsdelivr/data.jsdelivr.com
+2024-04-29 10:14:03,504 - INFO - Checking redirection for: https://json2jsonp.com/
+2024-04-29 10:14:04,527 - INFO - 200 - https://json2jsonp.com/
+2024-04-29 10:14:04,535 - INFO - Checking redirection for: https://jsonbin.io
+2024-04-29 10:14:05,015 - ERROR - https://jsonbin.io - Error: Connection error occurred.
+2024-04-29 10:14:05,015 - INFO - Checking redirection for: https://api.judge0.com/
+2024-04-29 10:14:06,111 - INFO - 200 - https://api.judge0.com/
+2024-04-29 10:14:06,130 - INFO - Checking redirection for: https://github.com/letsvalidate/api
+2024-04-29 10:14:06,934 - INFO - 200 - https://github.com/letsvalidate/api
+2024-04-29 10:14:06,939 - INFO - Checking redirection for: https://github.com/cmccandless/license-api/blob/master/README.md
+2024-04-29 10:14:07,753 - INFO - 200 - https://github.com/cmccandless/license-api/blob/master/README.md
+2024-04-29 10:14:07,774 - INFO - Checking redirection for: https://www.liveedu.tv/developer/applications/
+2024-04-29 10:14:44,293 - INFO - 522 - https://www.liveedu.tv/developer/applications/
+2024-04-29 10:14:44,298 - INFO - Checking redirection for: https://macaddress.io
+2024-04-29 10:14:50,095 - INFO - 200 - https://macaddress.io
+2024-04-29 10:14:50,099 - INFO - Checking redirection for: https://myjson.online
+2024-04-29 10:14:50,713 - INFO - 200 - https://myjson.online
+2024-04-29 10:14:50,719 - INFO - Checking redirection for: https://nationalize.io
+2024-04-29 10:14:51,392 - INFO - 200 - https://nationalize.io
+2024-04-29 10:14:51,403 - INFO - Checking redirection for: https://oopspam.com/
+2024-04-29 10:14:55,658 - INFO - 200 - https://oopspam.com/
+2024-04-29 10:14:55,664 - INFO - Checking redirection for: https://docs.api.getpostman.com/
+2024-04-29 10:15:00,035 - ERROR - https://docs.api.getpostman.com/ - Error: Connection error occurred.
+2024-04-29 10:15:00,035 - INFO - Checking redirection for: https://proxycrawl.com
+2024-04-29 10:15:01,380 - INFO - 200 - https://proxycrawl.com
+2024-04-29 10:15:01,387 - INFO - Checking redirection for: https://github.com/davemachado/public-api
+2024-04-29 10:15:02,242 - INFO - 200 - https://github.com/davemachado/public-api
+2024-04-29 10:15:02,248 - INFO - Checking redirection for: https://pusher.com/beams
+2024-04-29 10:15:02,977 - INFO - 200 - https://pusher.com/beams
+2024-04-29 10:15:02,982 - INFO - Checking redirection for: https://fungenerators.com/api/qrcode/
+2024-04-29 10:15:03,428 - INFO - 200 - https://fungenerators.com/api/qrcode/
+2024-04-29 10:15:03,433 - INFO - Checking redirection for: https://quickchart.io/
+2024-04-29 10:15:03,956 - INFO - 200 - https://quickchart.io/
+2024-04-29 10:15:03,966 - INFO - Checking redirection for: https://reqres.in/
+2024-04-29 10:15:04,745 - INFO - 200 - https://reqres.in/
+2024-04-29 10:15:04,754 - INFO - Checking redirection for: https://www.scraperapi.com
+2024-04-29 10:15:09,153 - ERROR - https://www.scraperapi.com - Error: Connection error occurred.
+2024-04-29 10:15:09,153 - INFO - Checking redirection for: https://screenshotapi.net/
+2024-04-29 10:15:14,556 - INFO - 200 - https://screenshotapi.net/
+2024-04-29 10:15:14,568 - INFO - Checking redirection for: https://screenshotson.click/
+2024-04-29 10:15:14,603 - ERROR - https://screenshotson.click/ - Error: Connection error occurred.
+2024-04-29 10:15:14,604 - INFO - Checking redirection for: https://github.com/cheatsnake/shadify
+2024-04-29 10:15:15,417 - INFO - 200 - https://github.com/cheatsnake/shadify
+2024-04-29 10:15:15,422 - INFO - Checking redirection for: https://api.stackexchange.com/
+2024-04-29 10:15:15,990 - INFO - 200 - https://api.stackexchange.com/
+2024-04-29 10:15:15,995 - INFO - Checking redirection for: https://unixtime.co.za/
+2024-04-29 10:15:16,424 - INFO - 200 - https://unixtime.co.za/
+2024-04-29 10:15:16,427 - INFO - Checking redirection for: https://developers.wso2apistore.com/
+2024-04-29 10:15:16,860 - ERROR - https://developers.wso2apistore.com/ - Error: Connection error occurred.
+2024-04-29 10:15:16,861 - INFO - Checking redirection for: https://www.contentful.com/developers/docs/references/images-api/
+2024-04-29 10:15:17,491 - INFO - 200 - https://www.contentful.com/developers/docs/references/images-api/
+2024-04-29 10:15:17,501 - INFO - Checking redirection for: https://ipfinder.io/
+2024-04-29 10:15:49,685 - ERROR - https://ipfinder.io/ - Error: Connection error occurred.
+2024-04-29 10:15:49,685 - INFO - Checking redirection for: https://scraper.run/
+2024-04-29 10:16:21,534 - ERROR - https://scraper.run/ - Error: Connection error occurred.
+2024-04-29 10:16:21,534 - INFO - Checking redirection for: https://www.searchapi.io/
+2024-04-29 10:16:26,436 - INFO - 200 - https://www.searchapi.io/
+2024-04-29 10:16:26,440 - INFO - Checking redirection for: https://serpapi.com/
+2024-04-29 10:16:26,879 - INFO - 200 - https://serpapi.com/
+2024-04-29 10:16:26,886 - INFO - Checking redirection for: https://www.linguarobot.io
+2024-04-29 10:16:59,407 - ERROR - https://www.linguarobot.io - Error: Connection error occurred.
+2024-04-29 10:16:59,407 - INFO - Checking redirection for: https://dictionaryapi.com/
+2024-04-29 10:16:59,956 - INFO - 200 - https://dictionaryapi.com/
+2024-04-29 10:16:59,961 - INFO - Checking redirection for: https://owlbot.info/
+2024-04-29 10:17:00,577 - INFO - 404 - https://owlbot.info/
+2024-04-29 10:17:00,584 - INFO - Checking redirection for: https://developer.oxforddictionaries.com/
+2024-04-29 10:17:01,451 - INFO - 200 - https://developer.oxforddictionaries.com/
+2024-04-29 10:17:01,456 - INFO - Checking redirection for: https://www.wordsapi.com/
+2024-04-29 10:17:01,857 - INFO - 200 - https://www.wordsapi.com/
+2024-04-29 10:17:01,864 - INFO - Checking redirection for: https://earthquake.usgs.gov/fdsnws/event/1/
+2024-04-29 10:17:02,342 - INFO - 200 - https://earthquake.usgs.gov/fdsnws/event/1/
+2024-04-29 10:17:02,348 - INFO - Checking redirection for: https://apidoc.rwlabs.org/#api-use
+2024-04-29 10:17:03,305 - INFO - 200 - https://apidoc.rwlabs.org/#api-use
+2024-04-29 10:17:03,311 - INFO - Checking redirection for: https://docs.predicthq.com/
+2024-04-29 10:17:04,393 - INFO - 200 - https://docs.predicthq.com/
+2024-04-29 10:17:04,399 - INFO - Checking redirection for: https://cloudmersive.com/convert-api
+2024-04-29 10:17:05,086 - INFO - 200 - https://cloudmersive.com/convert-api
+2024-04-29 10:17:05,092 - INFO - Checking redirection for: https://advicement.io
+2024-04-29 10:17:17,643 - INFO - 200 - https://advicement.io
+2024-04-29 10:17:17,649 - INFO - Checking redirection for: https://www.file.io
+2024-04-29 10:17:18,302 - ERROR - https://www.file.io - Error: Connection error occurred.
+2024-04-29 10:17:18,303 - INFO - Checking redirection for: https://reader.postlight.com
+2024-04-29 10:17:18,634 - INFO - 200 - https://reader.postlight.com
+2024-04-29 10:17:18,640 - INFO - Checking redirection for: https://pdfendpoint.com
+2024-04-29 10:17:19,004 - INFO - 200 - https://pdfendpoint.com
+2024-04-29 10:17:19,009 - INFO - Checking redirection for: https://pdflayer.com
+2024-04-29 10:17:20,873 - INFO - 200 - https://pdflayer.com
+2024-04-29 10:17:20,882 - INFO - Checking redirection for: https://getpocket.com/developer/
+2024-04-29 10:17:21,857 - INFO - 200 - https://getpocket.com/developer/
+2024-04-29 10:17:21,865 - INFO - Checking redirection for: https://prexview.com
+2024-04-29 10:17:22,444 - INFO - 200 - https://prexview.com
+2024-04-29 10:17:22,454 - INFO - Checking redirection for: https://renderpdf.io/
+2024-04-29 10:17:23,491 - INFO - 200 - https://renderpdf.io/
+2024-04-29 10:17:23,499 - INFO - Checking redirection for: https://restpack.io/
+2024-04-29 10:17:24,077 - INFO - 200 - https://restpack.io/
+2024-04-29 10:17:24,084 - INFO - Checking redirection for: https://developer.todoist.com
+2024-04-29 10:17:24,460 - INFO - 200 - https://developer.todoist.com
+2024-04-29 10:17:24,466 - INFO - Checking redirection for: https://www.vertopal.com/en/developer/api
+2024-04-29 10:17:24,920 - ERROR - https://www.vertopal.com/en/developer/api - Error: Connection error occurred.
+2024-04-29 10:17:24,920 - INFO - Checking redirection for: https://wakatime.com/developers
+2024-04-29 10:17:25,418 - INFO - 200 - https://wakatime.com/developers
+2024-04-29 10:17:25,424 - INFO - Checking redirection for: https://labstack.com/webpage
+2024-04-29 10:17:57,665 - ERROR - https://labstack.com/webpage - Error: Connection error occurred.
+2024-04-29 10:17:57,665 - INFO - Checking redirection for: https://rapidapi.com/malaithiru370/api/current-affairs-of-india
+2024-04-29 10:17:59,971 - INFO - 200 - https://rapidapi.com/malaithiru370/api/current-affairs-of-india
+2024-04-29 10:17:59,976 - INFO - Checking redirection for: https://secrets-api.appbrewery.com/
+2024-04-29 10:18:04,390 - INFO - 200 - https://secrets-api.appbrewery.com/
+2024-04-29 10:18:04,400 - INFO - Checking redirection for: https://airvisual.com/api
+2024-04-29 10:18:07,631 - INFO - 404 - https://airvisual.com/api
+2024-04-29 10:18:07,638 - INFO - Checking redirection for: https://www.corrently.de/hintergrund/gruenstromindex/index.html
+2024-04-29 10:18:08,568 - INFO - 404 - https://www.corrently.de/hintergrund/gruenstromindex/index.html
+2024-04-29 10:18:08,575 - INFO - Checking redirection for: https://docs.openaq.org/
+2024-04-29 10:18:17,669 - INFO - 200 - https://docs.openaq.org/
+2024-04-29 10:18:17,673 - INFO - Checking redirection for: https://developer.nrel.gov/docs/solar/pvwatts/v6/
+2024-04-29 10:18:18,428 - INFO - 200 - https://developer.nrel.gov/docs/solar/pvwatts/v6/
+2024-04-29 10:18:18,439 - INFO - Checking redirection for: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+2024-04-29 10:18:18,847 - INFO - 200 - https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+2024-04-29 10:18:18,857 - INFO - Checking redirection for: https://www.eventbrite.com/developer/v3/
+2024-04-29 10:18:19,900 - INFO - 200 - https://www.eventbrite.com/developer/v3/
+2024-04-29 10:18:19,910 - INFO - Checking redirection for: https://platform.seatgeek.com/
+2024-04-29 10:18:20,447 - INFO - 200 - https://platform.seatgeek.com/
+2024-04-29 10:18:20,454 - INFO - Checking redirection for: https://www.alphavantage.co/
+2024-04-29 10:18:20,890 - INFO - 200 - https://www.alphavantage.co/
+2024-04-29 10:18:20,945 - INFO - Checking redirection for: https://www.barchartondemand.com/free
+2024-04-29 10:18:22,616 - INFO - 200 - https://www.barchartondemand.com/free
+2024-04-29 10:18:22,622 - INFO - Checking redirection for: https://financialmodelingprep.com/
+2024-04-29 10:18:24,283 - INFO - 200 - https://financialmodelingprep.com/
+2024-04-29 10:18:24,292 - INFO - Checking redirection for: https://iextrading.com/developer/
+2024-04-29 10:18:26,114 - INFO - 200 - https://iextrading.com/developer/
+2024-04-29 10:18:26,121 - INFO - Checking redirection for: https://iexcloud.io/
+2024-04-29 10:18:26,866 - INFO - 200 - https://iexcloud.io/
+2024-04-29 10:18:26,872 - INFO - Checking redirection for: https://labs.ig.com/gettingstarted
+2024-04-29 10:18:27,958 - INFO - 500 - https://labs.ig.com/gettingstarted
+2024-04-29 10:18:27,964 - INFO - Checking redirection for: https://plaid.com/
+2024-04-29 10:18:28,253 - INFO - 200 - https://plaid.com/
+2024-04-29 10:18:28,262 - INFO - Checking redirection for: https://ifsc.razorpay.com/
+2024-04-29 10:18:29,830 - INFO - 200 - https://ifsc.razorpay.com/
+2024-04-29 10:18:29,838 - INFO - Checking redirection for: https://github.com/kaustubhk24/Indian-Banks-Data
+2024-04-29 10:18:30,723 - INFO - 200 - https://github.com/kaustubhk24/Indian-Banks-Data
+2024-04-29 10:18:30,730 - INFO - Checking redirection for: https://www.routingnumbers.info/api/index.html
+2024-04-29 10:18:31,157 - INFO - 200 - https://www.routingnumbers.info/api/index.html
+2024-04-29 10:18:31,162 - INFO - Checking redirection for: https://developer.tradier.com
+2024-04-29 10:18:31,648 - INFO - 200 - https://developer.tradier.com
+2024-04-29 10:18:31,653 - INFO - Checking redirection for: https://www.worldtradingdata.com/
+2024-04-29 10:18:32,615 - INFO - 200 - https://www.worldtradingdata.com/
+2024-04-29 10:18:32,626 - INFO - Checking redirection for: https://api.youneedabudget.com/
+2024-04-29 10:18:33,654 - INFO - 200 - https://api.youneedabudget.com/
+2024-04-29 10:18:33,663 - INFO - Checking redirection for: https://developer.edamam.com/
+2024-04-29 10:18:34,237 - INFO - 200 - https://developer.edamam.com/
+2024-04-29 10:18:34,243 - INFO - Checking redirection for: https://lcboapi.com/
+2024-04-29 10:18:34,636 - INFO - 200 - https://lcboapi.com/
+2024-04-29 10:18:34,643 - INFO - Checking redirection for: https://www.openbrewerydb.org
+2024-04-29 10:18:35,208 - INFO - 200 - https://www.openbrewerydb.org
+2024-04-29 10:18:35,213 - INFO - Checking redirection for: https://world.openfoodfacts.org/data
+2024-04-29 10:18:36,210 - INFO - 200 - https://world.openfoodfacts.org/data
+2024-04-29 10:18:36,219 - INFO - Checking redirection for: https://punkapi.com/
+2024-04-29 10:18:40,689 - INFO - 200 - https://punkapi.com/
+2024-04-29 10:18:40,694 - INFO - Checking redirection for: https://spoonacular.com/food-api
+2024-04-29 10:18:41,470 - INFO - 200 - https://spoonacular.com/food-api
+2024-04-29 10:18:41,476 - INFO - Checking redirection for: https://github.com/evz/tacofancy-api
+2024-04-29 10:18:42,398 - INFO - 200 - https://github.com/evz/tacofancy-api
+2024-04-29 10:18:42,405 - INFO - Checking redirection for: https://github.com/andyklimczak/TheReportOfTheWeek-API
+2024-04-29 10:18:43,253 - INFO - 200 - https://github.com/andyklimczak/TheReportOfTheWeek-API
+2024-04-29 10:18:43,260 - INFO - Checking redirection for: https://www.thecocktaildb.com/api.php
+2024-04-29 10:18:43,952 - INFO - 200 - https://www.thecocktaildb.com/api.php
+2024-04-29 10:18:43,959 - INFO - Checking redirection for: https://www.themealdb.com/api.php
+2024-04-29 10:18:44,632 - INFO - 200 - https://www.themealdb.com/api.php
+2024-04-29 10:18:44,638 - INFO - Checking redirection for: https://whiskyhunter.net/api/
+2024-04-29 10:18:45,510 - INFO - 200 - https://whiskyhunter.net/api/
+2024-04-29 10:18:45,515 - INFO - Checking redirection for: https://zestfuldata.com/
+2024-04-29 10:18:45,785 - INFO - 200 - https://zestfuldata.com/
+2024-04-29 10:18:45,791 - INFO - Checking redirection for: https://www.fraudlabspro.com/developer/api/screen-order
+2024-04-29 10:18:46,666 - INFO - 200 - https://www.fraudlabspro.com/developer/api/screen-order
+2024-04-29 10:18:46,673 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/identity-check-api/
+2024-04-29 10:18:46,936 - ERROR - https://pro.whitepages.com/developer/documentation/identity-check-api/ - Error: Connection error occurred.
+2024-04-29 10:18:46,936 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/phone-reputation-api/
+2024-04-29 10:18:47,168 - ERROR - https://pro.whitepages.com/developer/documentation/phone-reputation-api/ - Error: Connection error occurred.
+2024-04-29 10:18:47,168 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/reverse-phone-api/
+2024-04-29 10:18:47,342 - ERROR - https://pro.whitepages.com/developer/documentation/reverse-phone-api/ - Error: Connection error occurred.
+2024-04-29 10:18:47,342 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/phone-intelligence-api/
+2024-04-29 10:18:47,524 - ERROR - https://pro.whitepages.com/developer/documentation/phone-intelligence-api/ - Error: Connection error occurred.
+2024-04-29 10:18:47,524 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/reverse-address-api/
+2024-04-29 10:18:47,703 - ERROR - https://pro.whitepages.com/developer/documentation/reverse-address-api/ - Error: Connection error occurred.
+2024-04-29 10:18:47,703 - INFO - Checking redirection for: https://dev.battle.net/
+2024-04-29 10:18:59,494 - ERROR - https://dev.battle.net/ - Error: Connection error occurred.
+2024-04-29 10:18:59,494 - INFO - Checking redirection for: https://github.com/arufars/api-blue-archive
+2024-04-29 10:19:00,369 - INFO - 200 - https://github.com/arufars/api-blue-archive
+2024-04-29 10:19:00,374 - INFO - Checking redirection for: https://developer.clashofclans.com
+2024-04-29 10:19:01,081 - INFO - 200 - https://developer.clashofclans.com
+2024-04-29 10:19:01,087 - INFO - Checking redirection for: https://developer.clashroyale.com
+2024-04-29 10:19:01,321 - ERROR - https://developer.clashroyale.com - Error: Connection error occurred.
+2024-04-29 10:19:01,321 - INFO - Checking redirection for: https://comicvine.gamespot.com/api/documentation
+2024-04-29 10:19:01,506 - ERROR - https://comicvine.gamespot.com/api/documentation - Error: Connection error occurred.
+2024-04-29 10:19:01,506 - INFO - Checking redirection for: https://crossuniverse.net/apiDocs
+2024-04-29 10:19:01,789 - ERROR - https://crossuniverse.net/apiDocs - Error: Connection error occurred.
+2024-04-29 10:19:01,790 - INFO - Checking redirection for: https://github.com/Bungie-net/api
+2024-04-29 10:19:01,929 - ERROR - https://github.com/Bungie-net/api - Error: Connection error occurred.
+2024-04-29 10:19:01,929 - INFO - Checking redirection for: https://docs.opendota.com/
+2024-04-29 10:19:02,175 - ERROR - https://docs.opendota.com/ - Error: Connection error occurred.
+2024-04-29 10:19:02,175 - INFO - Checking redirection for: https://esi.evetech.net/ui
+2024-04-29 10:19:02,354 - ERROR - https://esi.evetech.net/ui - Error: Connection error occurred.
+2024-04-29 10:19:02,354 - INFO - Checking redirection for: https://xivapi.com/
+2024-04-29 10:19:02,576 - ERROR - https://xivapi.com/ - Error: Connection error occurred.
+2024-04-29 10:19:02,577 - INFO - Checking redirection for: https://fortniteapi.com/
+2024-04-29 10:19:02,809 - ERROR - https://fortniteapi.com/ - Error: Connection error occurred.
+2024-04-29 10:19:02,809 - INFO - Checking redirection for: https://fortnitetracker.com/site-api
+2024-04-29 10:19:03,048 - ERROR - https://fortnitetracker.com/site-api - Error: Connection error occurred.
+2024-04-29 10:19:03,048 - INFO - Checking redirection for: https://docs.forza-api.tk
+2024-04-29 10:19:03,104 - ERROR - https://docs.forza-api.tk - Error: Connection error occurred.
+2024-04-29 10:19:03,116 - INFO - Checking redirection for: https://www.giantbomb.com/api/documentation
+2024-04-29 10:19:03,316 - ERROR - https://www.giantbomb.com/api/documentation - Error: Connection error occurred.
+2024-04-29 10:19:03,316 - INFO - Checking redirection for: https://wiki.guildwars2.com/wiki/API:Main
+2024-04-29 10:19:03,512 - ERROR - https://wiki.guildwars2.com/wiki/API:Main - Error: Connection error occurred.
+2024-04-29 10:19:03,512 - INFO - Checking redirection for: https://developer.haloapi.com/
+2024-04-29 10:19:03,740 - ERROR - https://developer.haloapi.com/ - Error: Connection error occurred.
+2024-04-29 10:19:03,740 - INFO - Checking redirection for: https://api.hypixel.net/
+2024-04-29 10:19:03,974 - ERROR - https://api.hypixel.net/ - Error: Connection error occurred.
+2024-04-29 10:19:03,974 - INFO - Checking redirection for: https://api.igdb.com/
+2024-04-29 10:19:04,285 - ERROR - https://api.igdb.com/ - Error: Connection error occurred.
+2024-04-29 10:19:04,285 - INFO - Checking redirection for: https://jokes.one/api/joke/
+2024-04-29 10:19:04,801 - ERROR - https://jokes.one/api/joke/ - Error: Connection error occurred.
+2024-04-29 10:19:04,801 - INFO - Checking redirection for: https://sv443.net/jokeapi/v2/
+2024-04-29 10:19:05,174 - ERROR - https://sv443.net/jokeapi/v2/ - Error: Connection error occurred.
+2024-04-29 10:19:05,174 - INFO - Checking redirection for: https://github.com/15Dkatz/official_joke_api
+2024-04-29 10:19:05,967 - INFO - 200 - https://github.com/15Dkatz/official_joke_api
+2024-04-29 10:19:05,973 - INFO - Checking redirection for: https://docs.mod.io
+2024-04-29 10:19:06,584 - INFO - 200 - https://docs.mod.io
+2024-04-29 10:19:06,594 - INFO - Checking redirection for: https://opentdb.com/api_config.php
+2024-04-29 10:19:07,008 - INFO - 200 - https://opentdb.com/api_config.php
+2024-04-29 10:19:07,015 - INFO - Checking redirection for: https://api.pandascore.co
+2024-04-29 10:19:07,775 - ERROR - https://api.pandascore.co - Error: Connection error occurred.
+2024-04-29 10:19:07,775 - INFO - Checking redirection for: https://pubgtracker.com/site-api
+2024-04-29 10:19:12,122 - ERROR - https://pubgtracker.com/site-api - Error: Connection error occurred.
+2024-04-29 10:19:12,122 - INFO - Checking redirection for: https://pokeapi.co
+2024-04-29 10:19:16,808 - INFO - 200 - https://pokeapi.co
+2024-04-29 10:19:16,819 - INFO - Checking redirection for: https://pokemontcg.io
+2024-04-29 10:19:17,373 - INFO - 200 - https://pokemontcg.io
+2024-04-29 10:19:17,378 - INFO - Checking redirection for: https://www.punapi.rest
+2024-04-29 10:19:17,869 - INFO - 200 - https://www.punapi.rest
+2024-04-29 10:19:17,875 - INFO - Checking redirection for: https://fungenerators.com/api/facts/
+2024-04-29 10:19:18,245 - INFO - 200 - https://fungenerators.com/api/facts/
+2024-04-29 10:19:18,251 - INFO - Checking redirection for: https://rickandmortyapi.com
+2024-04-29 10:19:18,783 - INFO - 200 - https://rickandmortyapi.com
+2024-04-29 10:19:18,790 - INFO - Checking redirection for: https://developer.riotgames.com/
+2024-04-29 10:19:19,660 - INFO - 200 - https://developer.riotgames.com/
+2024-04-29 10:19:19,668 - INFO - Checking redirection for: https://scoresaber.com/api/documentation
+2024-04-29 10:19:20,392 - INFO - 404 - https://scoresaber.com/api/documentation
+2024-04-29 10:19:20,401 - INFO - Checking redirection for: https://scryfall.com/docs/api
+2024-04-29 10:19:20,962 - INFO - 200 - https://scryfall.com/docs/api
+2024-04-29 10:19:20,972 - INFO - Checking redirection for: https://developer.valvesoftware.com/wiki/Steam_Web_API
+2024-04-29 10:19:21,556 - INFO - 200 - https://developer.valvesoftware.com/wiki/Steam_Web_API
+2024-04-29 10:19:21,566 - INFO - Checking redirection for: https://superheroapi.com
+2024-04-29 10:19:22,149 - INFO - 200 - https://superheroapi.com
+2024-04-29 10:19:22,164 - INFO - Checking redirection for: https://www.tcgdex.dev/
+2024-04-29 10:19:23,371 - INFO - 200 - https://www.tcgdex.dev/
+2024-04-29 10:19:23,378 - INFO - Checking redirection for: https://www.tronalddump.io/
+2024-04-29 10:19:23,865 - INFO - 200 - https://www.tronalddump.io/
+2024-04-29 10:19:23,871 - INFO - Checking redirection for: https://developers.wargaming.net/
+2024-04-29 10:19:27,980 - ERROR - https://developers.wargaming.net/ - Error: Connection error occurred.
+2024-04-29 10:19:27,981 - INFO - Checking redirection for: https://xkcd.com/json.html
+2024-04-29 10:19:28,287 - INFO - 200 - https://xkcd.com/json.html
+2024-04-29 10:19:28,295 - INFO - Checking redirection for: https://github.com/kamikazechaser/administrative-divisions-db
+2024-04-29 10:19:29,229 - INFO - 200 - https://github.com/kamikazechaser/administrative-divisions-db
+2024-04-29 10:19:29,237 - INFO - Checking redirection for: https://adresse.data.gouv.fr
+2024-04-29 10:19:30,214 - INFO - 200 - https://adresse.data.gouv.fr
+2024-04-29 10:19:30,221 - INFO - Checking redirection for: https://www.microsoft.com/maps/
+2024-04-29 10:19:34,119 - INFO - 200 - https://www.microsoft.com/maps/
+2024-04-29 10:19:34,125 - INFO - Checking redirection for: https://www.getthedata.com/bng2latlong
+2024-04-29 10:19:35,043 - INFO - 200 - https://www.getthedata.com/bng2latlong
+2024-04-29 10:19:35,049 - INFO - Checking redirection for: https://freegeoip.app/
+2024-04-29 10:19:35,965 - INFO - 200 - https://freegeoip.app/
+2024-04-29 10:19:35,972 - INFO - Checking redirection for: https://api.gouv.fr/api/geoapi.html
+2024-04-29 10:19:48,613 - INFO - 200 - https://api.gouv.fr/api/geoapi.html
+2024-04-29 10:19:48,620 - INFO - Checking redirection for: https://www.geocod.io/
+2024-04-29 10:19:49,204 - INFO - 200 - https://www.geocod.io/
+2024-04-29 10:19:49,214 - INFO - Checking redirection for: https://geocode.xyz/
+2024-04-29 10:19:49,753 - INFO - 200 - https://geocode.xyz/
+2024-04-29 10:19:49,759 - INFO - Checking redirection for: https://geocodify.com/
+2024-04-29 10:19:50,088 - ERROR - https://geocodify.com/ - Error: Connection error occurred.
+2024-04-29 10:19:50,088 - INFO - Checking redirection for: https://www.geodatasource.com/web-service
+2024-04-29 10:19:50,701 - INFO - 200 - https://www.geodatasource.com/web-service
+2024-04-29 10:19:50,709 - INFO - Checking redirection for: https://geojs.io/
+2024-04-29 10:19:51,825 - INFO - 200 - https://geojs.io/
+2024-04-29 10:19:51,838 - INFO - Checking redirection for: https://geokeo.com/
+2024-04-29 10:19:56,935 - INFO - 200 - https://geokeo.com/
+2024-04-29 10:19:56,941 - INFO - Checking redirection for: https://www.geoplugin.com
+2024-04-29 10:20:02,121 - INFO - 200 - https://www.geoplugin.com
+2024-04-29 10:20:02,135 - INFO - Checking redirection for: https://developers.google.com/earth-engine/
+2024-04-29 10:20:02,810 - INFO - 200 - https://developers.google.com/earth-engine/
+2024-04-29 10:20:02,817 - INFO - Checking redirection for: https://developers.google.com/maps/
+2024-04-29 10:20:04,020 - INFO - 200 - https://developers.google.com/maps/
+2024-04-29 10:20:04,027 - INFO - Checking redirection for: https://www.fourtonfish.com/hellosalut/hello/
+2024-04-29 10:20:05,541 - ERROR - https://www.fourtonfish.com/hellosalut/hello/ - Error: Connection error occurred.
+2024-04-29 10:20:05,541 - INFO - Checking redirection for: https://developer.here.com
+2024-04-29 10:20:06,792 - INFO - 200 - https://developer.here.com
+2024-04-29 10:20:06,798 - INFO - Checking redirection for: https://indian-cities-api-nocbegfhqg.now.sh/
+2024-04-29 10:20:07,823 - INFO - 200 - https://indian-cities-api-nocbegfhqg.now.sh/
+2024-04-29 10:20:07,833 - INFO - Checking redirection for: https://ip2country.info
+2024-04-29 10:20:12,076 - ERROR - https://ip2country.info - Error: Connection error occurred.
+2024-04-29 10:20:12,077 - INFO - Checking redirection for: https://ipinfo.io/
+2024-04-29 10:20:15,639 - ERROR - https://ipinfo.io/ - Error: Connection error occurred.
+2024-04-29 10:20:15,639 - INFO - Checking redirection for: https://ipapi.co/
+2024-04-29 10:20:16,160 - INFO - 200 - https://ipapi.co/
+2024-04-29 10:20:16,170 - INFO - Checking redirection for: https://ipsidekick.com
+2024-04-29 10:20:48,200 - ERROR - https://ipsidekick.com - Error: Connection error occurred.
+2024-04-29 10:20:48,200 - INFO - Checking redirection for: https://www.ipvigilante.com/
+2024-04-29 10:20:49,056 - ERROR - https://www.ipvigilante.com/ - Error: Connection error occurred.
+2024-04-29 10:20:49,056 - INFO - Checking redirection for: https://www.ip2location.com/web-service/ip2location
+2024-04-29 10:20:50,704 - INFO - 200 - https://www.ip2location.com/web-service/ip2location
+2024-04-29 10:20:50,724 - INFO - Checking redirection for: https://www.ip2location.io
+2024-04-29 10:20:54,929 - INFO - 200 - https://www.ip2location.io
+2024-04-29 10:20:54,935 - INFO - Checking redirection for: https://www.ip2location.com/web-service/ip2proxy
+2024-04-29 10:20:55,330 - INFO - 200 - https://www.ip2location.com/web-service/ip2proxy
+2024-04-29 10:20:55,336 - INFO - Checking redirection for: https://ipgeolocationapi.com/
+2024-04-29 10:21:31,785 - ERROR - https://ipgeolocationapi.com/ - Error: Connection error occurred.
+2024-04-29 10:21:31,786 - INFO - Checking redirection for: https://ipinfodb.com/api
+2024-04-29 10:21:33,065 - INFO - 200 - https://ipinfodb.com/api
+2024-04-29 10:21:33,071 - INFO - Checking redirection for: https://ipstack.com/
+2024-04-29 10:21:33,482 - INFO - 200 - https://ipstack.com/
+2024-04-29 10:21:33,489 - INFO - Checking redirection for: https://ipgeolocation.com/
+2024-04-29 10:22:05,530 - ERROR - https://ipgeolocation.com/ - Error: Connection error occurred.
+2024-04-29 10:22:05,530 - INFO - Checking redirection for: https://IsItWater.com/
+2024-04-29 10:22:07,159 - INFO - 200 - https://IsItWater.com/
+2024-04-29 10:22:07,166 - INFO - Checking redirection for: https://sys.airtel.lv/ip2country/1.1.1.1/?full=true
+2024-04-29 10:22:07,633 - INFO - 403 - https://sys.airtel.lv/ip2country/1.1.1.1/?full=true
+2024-04-29 10:22:07,640 - INFO - Checking redirection for: https://www.kwelo.com/network/ip-address
+2024-04-29 10:22:08,483 - INFO - 503 - https://www.kwelo.com/network/ip-address
+2024-04-29 10:22:08,490 - INFO - Checking redirection for: https://locationiq.org/docs/
+2024-04-29 10:22:09,442 - INFO - 200 - https://locationiq.org/docs/
+2024-04-29 10:22:09,448 - INFO - Checking redirection for: https://www.mapbox.com/developers/
+2024-04-29 10:22:10,125 - INFO - 200 - https://www.mapbox.com/developers/
+2024-04-29 10:22:10,131 - INFO - Checking redirection for: https://github.com/IcaliaLabs/sepomex
+2024-04-29 10:22:10,965 - INFO - 200 - https://github.com/IcaliaLabs/sepomex
+2024-04-29 10:22:10,974 - INFO - Checking redirection for: https://docs.onemap.sg/
+2024-04-29 10:22:25,615 - INFO - 200 - https://docs.onemap.sg/
+2024-04-29 10:22:25,621 - INFO - Checking redirection for: https://opencagedata.com
+2024-04-29 10:22:26,436 - INFO - 200 - https://opencagedata.com
+2024-04-29 10:22:26,444 - INFO - Checking redirection for: https://postcodes.io
+2024-04-29 10:22:26,831 - INFO - 200 - https://postcodes.io
+2024-04-29 10:22:26,837 - INFO - Checking redirection for: https://restcountries.com
+2024-04-29 10:22:27,299 - INFO - 200 - https://restcountries.com
+2024-04-29 10:22:27,304 - INFO - Checking redirection for: https://smartip.io
+2024-04-29 10:22:27,365 - ERROR - https://smartip.io - Error: Connection error occurred.
+2024-04-29 10:22:27,365 - INFO - Checking redirection for: https://uebermaps.com/api/v2
+2024-04-29 10:22:27,891 - INFO - 200 - https://uebermaps.com/api/v2
+2024-04-29 10:22:27,898 - INFO - Checking redirection for: https://www.metadapi.com/API-Products/Zip-Code-API
+2024-04-29 10:22:28,699 - INFO - 200 - https://www.metadapi.com/API-Products/Zip-Code-API
+2024-04-29 10:22:28,705 - INFO - Checking redirection for: https://smartystreets.com/docs/cloud/us-zipcode-api
+2024-04-29 10:22:29,751 - INFO - 200 - https://smartystreets.com/docs/cloud/us-zipcode-api
+2024-04-29 10:22:29,757 - INFO - Checking redirection for: https://viacep.com.br
+2024-04-29 10:22:30,266 - INFO - 200 - https://viacep.com.br
+2024-04-29 10:22:30,275 - INFO - Checking redirection for: https://www.zipcodeapi.com
+2024-04-29 10:22:30,816 - INFO - 200 - https://www.zipcodeapi.com
+2024-04-29 10:22:30,822 - INFO - Checking redirection for: https://ziptasticapi.com/
+2024-04-29 10:22:31,434 - INFO - 200 - https://ziptasticapi.com/
+2024-04-29 10:22:31,439 - INFO - Checking redirection for: https://autobahn.api.bund.dev
+2024-04-29 10:22:31,796 - INFO - 200 - https://autobahn.api.bund.dev
+2024-04-29 10:22:31,801 - INFO - Checking redirection for: https://business.usa.gov/developer
+2024-04-29 10:22:32,777 - INFO - 404 - https://business.usa.gov/developer
+2024-04-29 10:22:32,785 - INFO - Checking redirection for: https://www.census.gov/data/developers/data-sets.html
+2024-04-29 10:22:38,671 - INFO - 200 - https://www.census.gov/data/developers/data-sets.html
+2024-04-29 10:22:38,677 - INFO - Checking redirection for: https://data.beta.grandlyon.com/fr/accueil
+2024-04-29 10:22:38,923 - ERROR - https://data.beta.grandlyon.com/fr/accueil - Error: Connection error occurred.
+2024-04-29 10:22:38,923 - INFO - Checking redirection for: https://dati.comune.bologna.it
+2024-04-29 10:22:42,046 - INFO - 200 - https://dati.comune.bologna.it
+2024-04-29 10:22:42,052 - INFO - Checking redirection for: https://data.nantesmetropole.fr/pages/home/
+2024-04-29 10:22:42,983 - INFO - 200 - https://data.nantesmetropole.fr/pages/home/
+2024-04-29 10:22:42,991 - INFO - Checking redirection for: https://code.gov
+2024-04-29 10:22:43,588 - INFO - 200 - https://code.gov
+2024-04-29 10:22:43,595 - INFO - Checking redirection for: https://data.colorado.gov/
+2024-04-29 10:23:09,953 - INFO - 200 - https://data.colorado.gov/
+2024-04-29 10:23:09,960 - INFO - Checking redirection for: https://datausa.io/about/api/
+2024-04-29 10:23:10,272 - INFO - 200 - https://datausa.io/about/api/
+2024-04-29 10:23:10,277 - INFO - Checking redirection for: https://api.data.gov/
+2024-04-29 10:23:10,665 - INFO - 200 - https://api.data.gov/
+2024-04-29 10:23:10,671 - INFO - Checking redirection for: https://dip.bundestag.de/%C3%BCber-dip/hilfe/api
+2024-04-29 10:23:15,980 - INFO - 200 - https://dip.bundestag.de/%C3%BCber-dip/hilfe/api
+2024-04-29 10:23:15,986 - INFO - Checking redirection for: https://developer.epa.gov/category/apis/
+2024-04-29 10:23:29,026 - INFO - 404 - https://developer.epa.gov/category/apis/
+2024-04-29 10:23:29,033 - INFO - Checking redirection for: https://api.open.fec.gov/developers/
+2024-04-29 10:23:29,501 - INFO - 200 - https://api.open.fec.gov/developers/
+2024-04-29 10:23:29,507 - INFO - Checking redirection for: https://www.federalregister.gov/reader-aids/developer-resources
+2024-04-29 10:23:30,541 - INFO - 200 - https://www.federalregister.gov/reader-aids/developer-resources
+2024-04-29 10:23:30,548 - INFO - Checking redirection for: https://www.data.gov.au/
+2024-04-29 10:23:30,999 - INFO - 200 - https://www.data.gov.au/
+2024-04-29 10:23:31,008 - INFO - Checking redirection for: https://data.gov.be/
+2024-04-29 10:23:32,529 - INFO - 200 - https://data.gov.be/
+2024-04-29 10:23:32,537 - INFO - Checking redirection for: https://www.data.gouv.fr/
+2024-04-29 10:23:33,613 - INFO - 200 - https://www.data.gouv.fr/
+2024-04-29 10:23:33,620 - INFO - Checking redirection for: https://data.gov.in/
+2024-04-29 10:23:40,727 - INFO - 405 - https://data.gov.in/
+2024-04-29 10:23:40,734 - INFO - Checking redirection for: https://www.dati.gov.it/
+2024-04-29 10:23:42,393 - ERROR - https://www.dati.gov.it/ - Error: Connection error occurred.
+2024-04-29 10:23:42,394 - INFO - Checking redirection for: https://www.data.govt.nz/
+2024-04-29 10:23:45,067 - INFO - 200 - https://www.data.govt.nz/
+2024-04-29 10:23:45,075 - INFO - Checking redirection for: https://dane.gov.pl/en
+2024-04-29 10:23:46,193 - INFO - 200 - https://dane.gov.pl/en
+2024-04-29 10:23:46,201 - INFO - Checking redirection for: https://data.gov.tw/
+2024-04-29 10:23:47,145 - INFO - 200 - https://data.gov.tw/
+2024-04-29 10:23:47,151 - INFO - Checking redirection for: https://www.data.gov/
+2024-04-29 10:23:49,285 - INFO - 200 - https://www.data.gov/
+2024-04-29 10:23:49,296 - INFO - Checking redirection for: https://represent.opennorth.ca/
+2024-04-29 10:23:49,861 - INFO - 200 - https://represent.opennorth.ca/
+2024-04-29 10:23:49,867 - INFO - Checking redirection for: https://api.usaspending.gov/
+2024-04-29 10:23:50,460 - INFO - 200 - https://api.usaspending.gov/
+2024-04-29 10:23:50,468 - INFO - Checking redirection for: https://www.healthcare.gov/developers/
+2024-04-29 10:23:51,467 - INFO - 200 - https://www.healthcare.gov/developers/
+2024-04-29 10:23:51,474 - INFO - Checking redirection for: https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html
+2024-04-29 10:24:03,186 - INFO - 200 - https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html
+2024-04-29 10:24:03,192 - INFO - Checking redirection for: https://docs.lexigram.io/v1/welcome
+2024-04-29 10:24:04,095 - INFO - 404 - https://docs.lexigram.io/v1/welcome
+2024-04-29 10:24:04,100 - INFO - Checking redirection for: https://data.medicare.gov/developers
+2024-04-29 10:24:05,134 - INFO - 200 - https://data.medicare.gov/developers
+2024-04-29 10:24:05,141 - INFO - Checking redirection for: https://npiregistry.cms.hhs.gov/registry/help-api
+2024-04-29 10:24:05,956 - INFO - 200 - https://npiregistry.cms.hhs.gov/registry/help-api
+2024-04-29 10:24:05,964 - INFO - Checking redirection for: https://developer.nutritionix.com/
+2024-04-29 10:24:06,628 - INFO - 200 - https://developer.nutritionix.com/
+2024-04-29 10:24:06,634 - INFO - Checking redirection for: https://open.fda.gov
+2024-04-29 10:24:07,139 - INFO - 200 - https://open.fda.gov
+2024-04-29 10:24:07,148 - INFO - Checking redirection for: https://ndb.nal.usda.gov/ndb/doc/index
+2024-04-29 10:24:07,208 - ERROR - https://ndb.nal.usda.gov/ndb/doc/index - Error: Connection error occurred.
+2024-04-29 10:24:07,208 - INFO - Checking redirection for: https://developer.adzuna.com/overview
+2024-04-29 10:24:07,844 - INFO - 200 - https://developer.adzuna.com/overview
+2024-04-29 10:24:07,853 - INFO - Checking redirection for: https://www.careerjet.com/partners/api/
+2024-04-29 10:24:08,583 - INFO - 200 - https://www.careerjet.com/partners/api/
+2024-04-29 10:24:08,590 - INFO - Checking redirection for: https://devitjobs.us/api/jobsLight
+2024-04-29 10:24:09,335 - INFO - 200 - https://devitjobs.us/api/jobsLight
+2024-04-29 10:24:09,343 - INFO - Checking redirection for: https://api.graphql.jobs
+2024-04-29 10:24:10,088 - ERROR - https://api.graphql.jobs - Error: Connection error occurred.
+2024-04-29 10:24:10,088 - INFO - Checking redirection for: https://www.indeed.com/publisher
+2024-04-29 10:24:10,327 - INFO - 403 - https://www.indeed.com/publisher
+2024-04-29 10:24:10,335 - INFO - Checking redirection for: https://jobicy.com/jobs-rss-feed
+2024-04-29 10:24:10,887 - INFO - 200 - https://jobicy.com/jobs-rss-feed
+2024-04-29 10:24:10,896 - INFO - Checking redirection for: https://us.jooble.org/api/about
+2024-04-29 10:24:11,269 - INFO - 405 - https://us.jooble.org/api/about
+2024-04-29 10:24:11,283 - INFO - Checking redirection for: https://okjob.io/api
+2024-04-29 10:24:12,996 - INFO - 200 - https://okjob.io/api
+2024-04-29 10:24:13,006 - INFO - Checking redirection for: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+2024-04-29 10:24:13,734 - INFO - 200 - https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+2024-04-29 10:24:13,744 - INFO - Checking redirection for: https://www.reed.co.uk/developers
+2024-04-29 10:24:14,651 - INFO - 200 - https://www.reed.co.uk/developers
+2024-04-29 10:24:14,661 - INFO - Checking redirection for: https://search.gov/developer/jobs.html
+2024-04-29 10:24:15,024 - INFO - 200 - https://search.gov/developer/jobs.html
+2024-04-29 10:24:15,037 - INFO - Checking redirection for: https://www.themuse.com/developers/api/v2
+2024-04-29 10:24:15,426 - INFO - 405 - https://www.themuse.com/developers/api/v2
+2024-04-29 10:24:15,441 - INFO - Checking redirection for: https://developers.upwork.com/
+2024-04-29 10:24:15,648 - ERROR - https://developers.upwork.com/ - Error: Connection error occurred.
+2024-04-29 10:24:15,648 - INFO - Checking redirection for: https://developer.usajobs.gov/
+2024-04-29 10:24:16,441 - INFO - 404 - https://developer.usajobs.gov/
+2024-04-29 10:24:16,448 - INFO - Checking redirection for: https://www.ziprecruiter.com/publishers
+2024-04-29 10:24:17,411 - INFO - 200 - https://www.ziprecruiter.com/publishers
+2024-04-29 10:24:17,420 - INFO - Checking redirection for: https://www.cloudmersive.com/image-recognition-and-processing-api
+2024-04-29 10:24:22,860 - INFO - 200 - https://www.cloudmersive.com/image-recognition-and-processing-api
+2024-04-29 10:24:22,866 - INFO - Checking redirection for: https://www.deepcode.ai/docs/Overview%252FOverview
+2024-04-29 10:24:31,391 - INFO - 404 - https://www.deepcode.ai/docs/Overview%252FOverview
+2024-04-29 10:24:31,397 - INFO - Checking redirection for: https://dialogflow.com
+2024-04-29 10:25:03,677 - ERROR - https://dialogflow.com - Error: Connection error occurred.
+2024-04-29 10:25:03,677 - INFO - Checking redirection for: https://keen.io/
+2024-04-29 10:25:07,539 - ERROR - https://keen.io/ - Error: Connection error occurred.
+2024-04-29 10:25:07,539 - INFO - Checking redirection for: https://timedoor.io
+2024-04-29 10:25:08,966 - INFO - 200 - https://timedoor.io
+2024-04-29 10:25:08,976 - INFO - Checking redirection for: https://unplu.gg/test_api.html
+2024-04-29 10:25:09,579 - INFO - 200 - https://unplu.gg/test_api.html
+2024-04-29 10:25:09,588 - INFO - Checking redirection for: https://wit.ai/
+2024-04-29 10:25:10,166 - INFO - 400 - https://wit.ai/
+2024-04-29 10:25:10,174 - INFO - Checking redirection for: https://aimastering.com/api_docs/
+2024-04-29 10:25:10,757 - INFO - 200 - https://aimastering.com/api_docs/
+2024-04-29 10:25:10,764 - INFO - Checking redirection for: https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.1
+2024-04-29 10:25:11,399 - INFO - 200 - https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.1
+2024-04-29 10:25:11,405 - INFO - Checking redirection for: https://developers.deezer.com/api
+2024-04-29 10:25:12,604 - INFO - 200 - https://developers.deezer.com/api
+2024-04-29 10:25:12,612 - INFO - Checking redirection for: https://www.discogs.com/developers/
+2024-04-29 10:25:17,151 - ERROR - https://www.discogs.com/developers/ - Error: Connection error occurred.
+2024-04-29 10:25:17,151 - INFO - Checking redirection for: https://freesound.org/docs/api/
+2024-04-29 10:25:18,343 - INFO - 200 - https://freesound.org/docs/api/
+2024-04-29 10:25:18,349 - INFO - Checking redirection for: https://docs.genius.com/
+2024-04-29 10:25:18,889 - INFO - 200 - https://docs.genius.com/
+2024-04-29 10:25:18,896 - INFO - Checking redirection for: https://binaryjazz.us/genrenator-api/
+2024-04-29 10:25:19,548 - INFO - 200 - https://binaryjazz.us/genrenator-api/
+2024-04-29 10:25:19,556 - INFO - Checking redirection for: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+2024-04-29 10:25:19,585 - ERROR - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/ - Error: Connection error occurred.
+2024-04-29 10:25:19,585 - INFO - Checking redirection for: https://developer.jamendo.com/v3.0/docs
+2024-04-29 10:25:20,110 - INFO - 200 - https://developer.jamendo.com/v3.0/docs
+2024-04-29 10:25:20,118 - INFO - Checking redirection for: https://developer.kkbox.com
+2024-04-29 10:25:20,979 - INFO - 200 - https://developer.kkbox.com
+2024-04-29 10:25:20,987 - INFO - Checking redirection for: https://www.last.fm/api
+2024-04-29 10:25:21,672 - INFO - 200 - https://www.last.fm/api
+2024-04-29 10:25:21,681 - INFO - Checking redirection for: https://www.mixcloud.com/developers/
+2024-04-29 10:25:22,244 - INFO - 200 - https://www.mixcloud.com/developers/
+2024-04-29 10:25:22,255 - INFO - Checking redirection for: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+2024-04-29 10:25:26,594 - ERROR - https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2 - Error: Connection error occurred.
+2024-04-29 10:25:26,594 - INFO - Checking redirection for: https://developer.musixmatch.com/
+2024-04-29 10:25:27,598 - INFO - 200 - https://developer.musixmatch.com/
+2024-04-29 10:25:27,604 - INFO - Checking redirection for: https://openwhyd.github.io/openwhyd/API
+2024-04-29 10:25:27,977 - INFO - 200 - https://openwhyd.github.io/openwhyd/API
+2024-04-29 10:25:27,985 - INFO - Checking redirection for: https://www.github.com/AlbertSuarez/searchly
+2024-04-29 10:25:29,747 - INFO - 200 - https://www.github.com/AlbertSuarez/searchly
+2024-04-29 10:25:29,755 - INFO - Checking redirection for: https://www.songkick.com/developer/
+2024-04-29 10:25:30,560 - INFO - 200 - https://www.songkick.com/developer/
+2024-04-29 10:25:30,571 - INFO - Checking redirection for: https://www.songsterr.com/a/wa/api/
+2024-04-29 10:25:31,095 - INFO - 404 - https://www.songsterr.com/a/wa/api/
+2024-04-29 10:25:31,103 - INFO - Checking redirection for: https://developers.soundcloud.com/
+2024-04-29 10:25:31,995 - INFO - 200 - https://developers.soundcloud.com/
+2024-04-29 10:25:32,009 - INFO - Checking redirection for: https://beta.developer.spotify.com/documentation/web-api/
+2024-04-29 10:25:32,764 - INFO - 200 - https://beta.developer.spotify.com/documentation/web-api/
+2024-04-29 10:25:32,773 - INFO - Checking redirection for: https://tastedive.com/read/api
+2024-04-29 10:25:33,386 - INFO - 200 - https://tastedive.com/read/api
+2024-04-29 10:25:33,395 - INFO - Checking redirection for: https://www.theaudiodb.com/api_guide.php
+2024-04-29 10:25:34,057 - INFO - 200 - https://www.theaudiodb.com/api_guide.php
+2024-04-29 10:25:34,064 - INFO - Checking redirection for: https://api.vagalume.com.br/docs/
+2024-04-29 10:25:34,572 - INFO - 200 - https://api.vagalume.com.br/docs/
+2024-04-29 10:25:34,578 - INFO - Checking redirection for: https://developer.ap.org/
+2024-04-29 10:26:06,672 - ERROR - https://developer.ap.org/ - Error: Connection error occurred.
+2024-04-29 10:26:06,673 - INFO - Checking redirection for: https://currentsapi.services/
+2024-04-29 10:26:12,355 - INFO - 200 - https://currentsapi.services/
+2024-04-29 10:26:12,364 - INFO - Checking redirection for: https://github.com/feedbin/feedbin-api
+2024-04-29 10:26:13,189 - INFO - 200 - https://github.com/feedbin/feedbin-api
+2024-04-29 10:26:13,196 - INFO - Checking redirection for: https://developer.nytimes.com/
+2024-04-29 10:26:13,691 - INFO - 200 - https://developer.nytimes.com/
+2024-04-29 10:26:13,698 - INFO - Checking redirection for: https://newsapi.org/
+2024-04-29 10:26:14,080 - INFO - 200 - https://newsapi.org/
+2024-04-29 10:26:14,087 - INFO - Checking redirection for: https://ok.surf/
+2024-04-29 10:26:14,794 - INFO - 200 - https://ok.surf/
+2024-04-29 10:26:14,805 - INFO - Checking redirection for: https://github.com/theoldreader/api
+2024-04-29 10:26:15,710 - INFO - 200 - https://github.com/theoldreader/api
+2024-04-29 10:26:15,717 - INFO - Checking redirection for: https://archive.readme.io/docs
+2024-04-29 10:26:16,465 - INFO - 200 - https://archive.readme.io/docs
+2024-04-29 10:26:16,473 - INFO - Checking redirection for: https://callook.info
+2024-04-29 10:26:17,151 - INFO - 200 - https://callook.info
+2024-04-29 10:26:17,162 - INFO - Checking redirection for: https://carto.com/
+2024-04-29 10:26:17,546 - INFO - 200 - https://carto.com/
+2024-04-29 10:26:17,555 - INFO - Checking redirection for: https://developers.civicfeed.com/
+2024-04-29 10:26:21,921 - ERROR - https://developers.civicfeed.com/ - Error: Connection error occurred.
+2024-04-29 10:26:21,921 - INFO - Checking redirection for: https://fonoapi.freshpixl.com/
+2024-04-29 10:26:25,555 - ERROR - https://fonoapi.freshpixl.com/ - Error: Connection error occurred.
+2024-04-29 10:26:25,556 - INFO - Checking redirection for: https://geo.api.gouv.fr/adresse
+2024-04-29 10:26:26,007 - ERROR - https://geo.api.gouv.fr/adresse - Error: Connection error occurred.
+2024-04-29 10:26:26,007 - INFO - Checking redirection for: https://fruits-api.netlify.app/graphql
+2024-04-29 10:26:26,428 - INFO - 404 - https://fruits-api.netlify.app/graphql
+2024-04-29 10:26:26,441 - INFO - Checking redirection for: https://www.linkpreview.net
+2024-04-29 10:26:27,026 - INFO - 200 - https://www.linkpreview.net
+2024-04-29 10:26:27,034 - INFO - Checking redirection for: https://microlink.io
+2024-04-29 10:26:27,566 - INFO - 200 - https://microlink.io
+2024-04-29 10:26:27,577 - INFO - Checking redirection for: https://www.quandl.com/
+2024-04-29 10:26:28,494 - INFO - 200 - https://www.quandl.com/
+2024-04-29 10:26:28,506 - INFO - Checking redirection for: https://ridb.recreation.gov/
+2024-04-29 10:26:28,977 - INFO - 200 - https://ridb.recreation.gov/
+2024-04-29 10:26:28,991 - INFO - Checking redirection for: https://developers.teleport.org/
+2024-04-29 10:26:29,426 - INFO - 200 - https://developers.teleport.org/
+2024-04-29 10:26:29,439 - INFO - Checking redirection for: https://github.com/Hipo/university-domains-list
+2024-04-29 10:26:30,345 - INFO - 200 - https://github.com/Hipo/university-domains-list
+2024-04-29 10:26:30,355 - INFO - Checking redirection for: https://data.uio.no/
+2024-04-29 10:26:31,394 - INFO - 200 - https://data.uio.no/
+2024-04-29 10:26:31,407 - INFO - Checking redirection for: https://upcdatabase.org/api
+2024-04-29 10:26:35,656 - ERROR - https://upcdatabase.org/api - Error: Connection error occurred.
+2024-04-29 10:26:35,656 - INFO - Checking redirection for: https://www.wikidata.org/w/api.php?action=help
+2024-04-29 10:26:40,056 - ERROR - https://www.wikidata.org/w/api.php?action=help - Error: Connection error occurred.
+2024-04-29 10:26:40,056 - INFO - Checking redirection for: https://www.mediawiki.org/wiki/API:Main_page
+2024-04-29 10:26:40,489 - INFO - 200 - https://www.mediawiki.org/wiki/API:Main_page
+2024-04-29 10:26:40,498 - INFO - Checking redirection for: https://www.yelp.com/developers/documentation/v3
+2024-04-29 10:26:40,834 - INFO - 404 - https://www.yelp.com/developers/documentation/v3
+2024-04-29 10:26:40,844 - INFO - Checking redirection for: https://www.drupal.org/drupalorg/docs/api
+2024-04-29 10:26:44,201 - INFO - 200 - https://www.drupal.org/drupalorg/docs/api
+2024-04-29 10:26:44,208 - INFO - Checking redirection for: https://evilinsult.com/api
+2024-04-29 10:26:49,144 - ERROR - https://evilinsult.com/api - Error: Connection error occurred.
+2024-04-29 10:26:49,144 - INFO - Checking redirection for: https://libraries.io/api
+2024-04-29 10:26:55,105 - INFO - 200 - https://libraries.io/api
+2024-04-29 10:26:55,113 - INFO - Checking redirection for: https://developers.epo.org/
+2024-04-29 10:26:55,617 - INFO - 200 - https://developers.epo.org/
+2024-04-29 10:26:55,624 - INFO - Checking redirection for: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+2024-04-29 10:26:57,033 - INFO - 200 - https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+2024-04-29 10:26:57,042 - INFO - Checking redirection for: https://www.uspto.gov/learning-and-resources/open-data-and-mobility
+2024-04-29 10:27:08,791 - ERROR - https://www.uspto.gov/learning-and-resources/open-data-and-mobility - Error: Connection error occurred.
+2024-04-29 10:27:08,792 - INFO - Checking redirection for: https://api.chucknorris.io
+2024-04-29 10:27:09,944 - INFO - 200 - https://api.chucknorris.io
+2024-04-29 10:27:09,951 - INFO - Checking redirection for: https://favqs.com/api
+2024-04-29 10:27:10,587 - INFO - 200 - https://favqs.com/api
+2024-04-29 10:27:10,593 - INFO - Checking redirection for: https://hindi-quotes.vercel.app/
+2024-04-29 10:27:11,256 - INFO - 200 - https://hindi-quotes.vercel.app/
+2024-04-29 10:27:11,267 - INFO - Checking redirection for: https://icanhazdadjoke.com/api
+2024-04-29 10:27:11,759 - INFO - 200 - https://icanhazdadjoke.com/api
+2024-04-29 10:27:11,766 - INFO - Checking redirection for: https://kanye.rest
+2024-04-29 10:27:12,462 - INFO - 200 - https://kanye.rest
+2024-04-29 10:27:12,470 - INFO - Checking redirection for: https://github.com/Medium/medium-api-docs
+2024-04-29 10:27:13,472 - INFO - 200 - https://github.com/Medium/medium-api-docs
+2024-04-29 10:27:13,481 - INFO - Checking redirection for: https://github.com/D3vd/Meme_Api
+2024-04-29 10:27:14,398 - INFO - 200 - https://github.com/D3vd/Meme_Api
+2024-04-29 10:27:14,405 - INFO - Checking redirection for: https://github.com/theIYD/NaMoMemes
+2024-04-29 10:27:15,219 - INFO - 200 - https://github.com/theIYD/NaMoMemes
+2024-04-29 10:27:15,227 - INFO - Checking redirection for: https://programming-quotesapi.vercel.app/
+2024-04-29 10:27:15,789 - INFO - 200 - https://programming-quotesapi.vercel.app/
+2024-04-29 10:27:15,796 - INFO - Checking redirection for: https://pprathameshmore.github.io/QuoteGarden/
+2024-04-29 10:27:16,501 - INFO - 200 - https://pprathameshmore.github.io/QuoteGarden/
+2024-04-29 10:27:16,511 - INFO - Checking redirection for: https://quotesondesign.com/api/
+2024-04-29 10:27:17,128 - INFO - 200 - https://quotesondesign.com/api/
+2024-04-29 10:27:17,139 - INFO - Checking redirection for: https://riddles-api.vercel.app/
+2024-04-29 10:27:17,572 - INFO - 200 - https://riddles-api.vercel.app/
+2024-04-29 10:27:17,585 - INFO - Checking redirection for: https://app.traitify.com/developer
+2024-04-29 10:27:18,306 - INFO - 200 - https://app.traitify.com/developer
+2024-04-29 10:27:18,315 - INFO - Checking redirection for: https://www.tronalddump.io
+2024-04-29 10:27:18,833 - INFO - 200 - https://www.tronalddump.io
+2024-04-29 10:27:18,840 - INFO - Checking redirection for: https://www.flickr.com/services/api/
+2024-04-29 10:27:19,186 - INFO - 200 - https://www.flickr.com/services/api/
+2024-04-29 10:27:19,194 - INFO - Checking redirection for: https://developers.giphy.com/docs/
+2024-04-29 10:27:19,663 - INFO - 200 - https://developers.giphy.com/docs/
+2024-04-29 10:27:19,670 - INFO - Checking redirection for: https://gyazo.com/api/docs
+2024-04-29 10:27:19,999 - INFO - 200 - https://gyazo.com/api/docs
+2024-04-29 10:27:20,006 - INFO - Checking redirection for: https://apidocs.imgur.com/
+2024-04-29 10:27:20,480 - ERROR - https://apidocs.imgur.com/ - Error: Connection error occurred.
+2024-04-29 10:27:20,481 - INFO - Checking redirection for: https://picsum.photos/
+2024-04-29 10:27:21,384 - INFO - 200 - https://picsum.photos/
+2024-04-29 10:27:21,395 - INFO - Checking redirection for: https://objectcut.com/
+2024-04-29 10:27:21,779 - INFO - 200 - https://objectcut.com/
+2024-04-29 10:27:21,792 - INFO - Checking redirection for: https://www.pexels.com/api/
+2024-04-29 10:27:29,976 - INFO - 403 - https://www.pexels.com/api/
+2024-04-29 10:27:29,982 - INFO - Checking redirection for: https://pixabay.com/sk/service/about/api/
+2024-04-29 10:27:30,331 - INFO - 200 - https://pixabay.com/sk/service/about/api/
+2024-04-29 10:27:30,339 - INFO - Checking redirection for: https://placekitten.com/
+2024-04-29 10:27:31,978 - INFO - 200 - https://placekitten.com/
+2024-04-29 10:27:31,985 - INFO - Checking redirection for: https://screenshotlayer.com
+2024-04-29 10:27:32,475 - INFO - 200 - https://screenshotlayer.com
+2024-04-29 10:27:32,484 - INFO - Checking redirection for: https://unsplash.com/developers
+2024-04-29 10:27:33,047 - INFO - 200 - https://unsplash.com/developers
+2024-04-29 10:27:33,054 - INFO - Checking redirection for: https://wallhaven.cc/help/api
+2024-04-29 10:27:33,566 - INFO - 200 - https://wallhaven.cc/help/api
+2024-04-29 10:27:33,573 - INFO - Checking redirection for: https://api.arcsecond.io/
+2024-04-29 10:27:34,009 - INFO - 200 - https://api.arcsecond.io/
+2024-04-29 10:27:34,015 - INFO - Checking redirection for: https://core.ac.uk/services#api
+2024-04-29 10:27:34,831 - INFO - 200 - https://core.ac.uk/services#api
+2024-04-29 10:27:34,838 - INFO - Checking redirection for: https://github.com/idigbio/idigbio-search-api/wiki
+2024-04-29 10:27:35,435 - INFO - 200 - https://github.com/idigbio/idigbio-search-api/wiki
+2024-04-29 10:27:35,443 - INFO - Checking redirection for: https://inspirehep.net/info/hep/api?ln=en
+2024-04-29 10:27:36,940 - ERROR - https://inspirehep.net/info/hep/api?ln=en - Error: Connection error occurred.
+2024-04-29 10:27:36,940 - INFO - Checking redirection for: https://www.itis.gov/ws_description.html
+2024-04-29 10:27:37,338 - INFO - 200 - https://www.itis.gov/ws_description.html
+2024-04-29 10:27:37,348 - INFO - Checking redirection for: https://launchlibrary.net/docs/1.3/api.html
+2024-04-29 10:27:38,417 - INFO - 200 - https://launchlibrary.net/docs/1.3/api.html
+2024-04-29 10:27:38,431 - INFO - Checking redirection for: https://api.nasa.gov
+2024-04-29 10:27:38,919 - INFO - 200 - https://api.nasa.gov
+2024-04-29 10:27:38,929 - INFO - Checking redirection for: https://newton.now.sh/
+2024-04-29 10:27:41,130 - INFO - 200 - https://newton.now.sh/
+2024-04-29 10:27:41,140 - INFO - Checking redirection for: https://math.tools/api/numbers/
+2024-04-29 10:27:46,775 - INFO - 200 - https://math.tools/api/numbers/
+2024-04-29 10:27:46,783 - INFO - Checking redirection for: https://developer.osf.io
+2024-04-29 10:27:54,418 - ERROR - https://developer.osf.io - Error: Connection error occurred.
+2024-04-29 10:27:54,418 - INFO - Checking redirection for: https://share.osf.io/api/v2/
+2024-04-29 10:28:05,928 - ERROR - https://share.osf.io/api/v2/ - Error: Connection error occurred.
+2024-04-29 10:28:05,928 - INFO - Checking redirection for: https://github.com/r-spacex/SpaceX-API
+2024-04-29 10:28:06,808 - INFO - 200 - https://github.com/r-spacex/SpaceX-API
+2024-04-29 10:28:06,816 - INFO - Checking redirection for: https://sunrise-sunset.org/api
+2024-04-29 10:28:07,245 - INFO - 200 - https://sunrise-sunset.org/api
+2024-04-29 10:28:07,255 - INFO - Checking redirection for: https://waterservices.usgs.gov/
+2024-04-29 10:28:07,518 - ERROR - https://waterservices.usgs.gov/ - Error: Connection error occurred.
+2024-04-29 10:28:07,518 - INFO - Checking redirection for: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+2024-04-29 10:28:16,903 - INFO - 200 - https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+2024-04-29 10:28:16,911 - INFO - Checking redirection for: https://censys.io/api
+2024-04-29 10:28:18,538 - INFO - 403 - https://censys.io/api
+2024-04-29 10:28:18,548 - INFO - Checking redirection for: https://crxcavator.io/apidocs
+2024-04-29 10:28:19,740 - INFO - 200 - https://crxcavator.io/apidocs
+2024-04-29 10:28:19,749 - INFO - Checking redirection for: https://haveibeenpwned.com/API/v3
+2024-04-29 10:28:20,034 - INFO - 200 - https://haveibeenpwned.com/API/v3
+2024-04-29 10:28:20,041 - INFO - Checking redirection for: https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog
+2024-04-29 10:28:22,313 - INFO - 200 - https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog
+2024-04-29 10:28:22,320 - INFO - Checking redirection for: https://securitytrails.com/corp/apidocs
+2024-04-29 10:28:27,115 - ERROR - https://securitytrails.com/corp/apidocs - Error: Connection error occurred.
+2024-04-29 10:28:27,115 - INFO - Checking redirection for: https://developer.shodan.io/
+2024-04-29 10:28:30,729 - ERROR - https://developer.shodan.io/ - Error: Connection error occurred.
+2024-04-29 10:28:30,729 - INFO - Checking redirection for: https://data.police.uk/docs/
+2024-04-29 10:28:30,955 - ERROR - https://data.police.uk/docs/ - Error: Connection error occurred.
+2024-04-29 10:28:30,955 - INFO - Checking redirection for: https://whoisfreaks.com/
+2024-04-29 10:28:31,432 - INFO - 200 - https://whoisfreaks.com/
+2024-04-29 10:28:31,439 - INFO - Checking redirection for: https://bestbuyapis.github.io/api-documentation/#overview
+2024-04-29 10:28:32,042 - INFO - 200 - https://bestbuyapis.github.io/api-documentation/#overview
+2024-04-29 10:28:32,049 - INFO - Checking redirection for: https://developers.bratabase.com/
+2024-04-29 10:28:32,739 - INFO - 502 - https://developers.bratabase.com/
+2024-04-29 10:28:32,747 - INFO - Checking redirection for: https://go.developer.ebay.com/
+2024-04-29 10:28:39,420 - ERROR - https://go.developer.ebay.com/ - Exceeded 30 redirects.
+2024-04-29 10:28:39,421 - INFO - Checking redirection for: https://dev.wegmans.io
+2024-04-29 10:28:39,510 - ERROR - https://dev.wegmans.io - Error: Connection error occurred.
+2024-04-29 10:28:39,510 - INFO - Checking redirection for: https://buffer.com/developers/api
+2024-04-29 10:28:40,138 - INFO - 200 - https://buffer.com/developers/api
+2024-04-29 10:28:40,145 - INFO - Checking redirection for: https://developer.ciscospark.com
+2024-04-29 10:28:41,691 - INFO - 200 - https://developer.ciscospark.com
+2024-04-29 10:28:41,700 - INFO - Checking redirection for: https://discord.riverside.rocks/docs/index.php
+2024-04-29 10:28:41,804 - ERROR - https://discord.riverside.rocks/docs/index.php - Error: Connection error occurred.
+2024-04-29 10:28:41,804 - INFO - Checking redirection for: https://discordapp.com/developers/docs/intro
+2024-04-29 13:36:01,645 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-29 13:36:13,816 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-04-29 13:36:15,045 - INFO - Found 686 links
+2024-04-29 13:36:15,049 - INFO - Checking redirection for: https://randombig.cat/roar.json
+2024-04-29 13:36:15,320 - ERROR - https://randombig.cat/roar.json - Error: Connection error occurred.
+2024-04-29 13:36:15,320 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
+2024-04-29 13:36:15,754 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
+2024-04-29 13:36:15,754 - INFO - Checking redirection for: https://holidayapi.pl/
+2024-04-29 13:36:47,840 - ERROR - https://holidayapi.pl/ - Error: Connection error occurred.
+2024-04-29 13:36:47,840 - INFO - Checking redirection for: https://isdayoff.ru
+2024-04-29 13:36:50,539 - INFO - 200 - https://isdayoff.ru
+2024-04-29 13:36:50,551 - INFO - Checking redirection for: https://api.abalin.net/
+2024-04-29 13:36:51,216 - ERROR - https://api.abalin.net/ - Error: Connection error occurred.
+2024-04-29 13:36:51,216 - INFO - Checking redirection for: https://anonfiles.com/docs/api
+2024-04-29 13:36:51,279 - ERROR - https://anonfiles.com/docs/api - Error: Connection error occurred.
+2024-04-29 13:36:51,279 - INFO - Checking redirection for: https://developer.box.com/
+2024-04-29 13:36:51,871 - ERROR - https://developer.box.com/ - Error: Connection error occurred.
+2024-04-29 13:36:51,871 - INFO - Checking redirection for: https://www.dropbox.com/developers
+2024-04-29 13:36:52,193 - ERROR - https://www.dropbox.com/developers - Error: Connection error occurred.
+2024-04-29 13:36:52,194 - INFO - Checking redirection for: https://pastebin.com/api/
+2024-04-29 13:36:52,464 - ERROR - https://pastebin.com/api/ - Error: Connection error occurred.
+2024-04-29 13:36:52,464 - INFO - Checking redirection for: https://developers.wetransfer.com
+2024-04-29 13:36:52,872 - ERROR - https://developers.wetransfer.com - Error: Connection error occurred.
+2024-04-29 13:36:52,872 - INFO - Checking redirection for: https://bitcoincharts.com/about/exchanges/
+2024-04-29 13:36:53,627 - ERROR - https://bitcoincharts.com/about/exchanges/ - Error: Connection error occurred.
+2024-04-29 13:36:53,627 - INFO - Checking redirection for: https://www.block.io/docs/basic
+2024-04-29 13:36:54,669 - INFO - 200 - https://www.block.io/docs/basic
+2024-04-29 13:36:54,679 - INFO - Checking redirection for: https://www.blockchain.info/api
+2024-04-29 13:36:56,150 - ERROR - https://www.blockchain.info/api - Error: Connection error occurred.
+2024-04-29 13:36:56,150 - INFO - Checking redirection for: https://blockfacts.io/
+2024-04-29 13:37:28,295 - ERROR - https://blockfacts.io/ - Error: Connection error occurred.
+2024-04-29 13:37:28,295 - INFO - Checking redirection for: https://coinigy.docs.apiary.io
+2024-04-29 13:37:32,809 - INFO - 200 - https://coinigy.docs.apiary.io
+2024-04-29 13:37:32,820 - INFO - Checking redirection for: https://docs.nicehash.com/
+2024-04-29 13:37:33,219 - INFO - 200 - https://docs.nicehash.com/
+2024-04-29 13:37:33,228 - INFO - Checking redirection for: https://www.worldcoinindex.com/apiservice
+2024-04-29 13:37:34,329 - INFO - 200 - https://www.worldcoinindex.com/apiservice
+2024-04-29 13:37:34,339 - INFO - Checking redirection for: https://ratesapi.io
+2024-04-29 13:38:06,649 - ERROR - https://ratesapi.io - Error: Connection error occurred.
+2024-04-29 13:38:06,649 - INFO - Checking redirection for: https://scraper.run
+2024-04-29 13:38:39,431 - ERROR - https://scraper.run - Error: Connection error occurred.
+2024-04-29 13:38:39,431 - INFO - Checking redirection for: https://apiflash.com/
+2024-04-29 13:38:43,162 - ERROR - https://apiflash.com/ - Error: Connection error occurred.
+2024-04-29 13:38:43,164 - INFO - Checking redirection for: https://www.boredapi.com/
+2024-04-29 13:38:43,390 - INFO - 200 - https://www.boredapi.com/
+2024-04-29 13:38:43,409 - INFO - Checking redirection for: https://www.browsercat.com/
+2024-04-29 13:38:44,978 - INFO - 200 - https://www.browsercat.com/
+2024-04-29 13:38:44,993 - INFO - Checking redirection for: https://changelogs.md
+2024-04-29 13:38:45,178 - ERROR - https://changelogs.md - Error: Connection error occurred.
+2024-04-29 13:38:45,179 - INFO - Checking redirection for: https://countapi.xyz
+2024-04-29 13:39:07,332 - ERROR - https://countapi.xyz - Error: Connection error occurred.
+2024-04-29 13:39:07,332 - INFO - Checking redirection for: https://ipinfo.io/developers
+2024-04-29 13:39:08,546 - ERROR - https://ipinfo.io/developers - Error: Connection error occurred.
+2024-04-29 13:39:08,546 - INFO - Checking redirection for: https://jsonbin.io
+2024-04-29 13:39:08,868 - ERROR - https://jsonbin.io - Error: Connection error occurred.
+2024-04-29 13:39:08,868 - INFO - Checking redirection for: https://docs.api.getpostman.com/
+2024-04-29 13:39:09,872 - INFO - 200 - https://docs.api.getpostman.com/
+2024-04-29 13:39:09,881 - INFO - Checking redirection for: https://www.scraperapi.com
+2024-04-29 13:39:10,495 - INFO - 403 - https://www.scraperapi.com
+2024-04-29 13:39:10,505 - INFO - Checking redirection for: https://screenshotson.click/
+2024-04-29 13:39:10,582 - ERROR - https://screenshotson.click/ - Error: Connection error occurred.
+2024-04-29 13:39:10,582 - INFO - Checking redirection for: https://developers.wso2apistore.com/
+2024-04-29 13:39:10,938 - ERROR - https://developers.wso2apistore.com/ - Error: Connection error occurred.
+2024-04-29 13:39:10,939 - INFO - Checking redirection for: https://ipfinder.io/
+2024-04-29 13:39:42,981 - ERROR - https://ipfinder.io/ - Error: Connection error occurred.
+2024-04-29 13:39:42,981 - INFO - Checking redirection for: https://scraper.run/
+2024-04-29 13:40:15,255 - ERROR - https://scraper.run/ - Error: Connection error occurred.
+2024-04-29 13:40:15,255 - INFO - Checking redirection for: https://www.linguarobot.io
+2024-04-29 13:40:15,796 - INFO - 200 - https://www.linguarobot.io
+2024-04-29 13:40:15,807 - INFO - Checking redirection for: https://www.file.io
+2024-04-29 13:40:16,111 - ERROR - https://www.file.io - Error: Connection error occurred.
+2024-04-29 13:40:16,111 - INFO - Checking redirection for: https://www.vertopal.com/en/developer/api
+2024-04-29 13:40:16,471 - ERROR - https://www.vertopal.com/en/developer/api - Error: Connection error occurred.
+2024-04-29 13:40:16,471 - INFO - Checking redirection for: https://labstack.com/webpage
+2024-04-29 13:40:17,034 - INFO - 404 - https://labstack.com/webpage
+2024-04-29 13:40:17,041 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/identity-check-api/
+2024-04-29 13:40:17,290 - ERROR - https://pro.whitepages.com/developer/documentation/identity-check-api/ - Error: Connection error occurred.
+2024-04-29 13:40:17,290 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/phone-reputation-api/
+2024-04-29 13:40:17,474 - ERROR - https://pro.whitepages.com/developer/documentation/phone-reputation-api/ - Error: Connection error occurred.
+2024-04-29 13:40:17,474 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/reverse-phone-api/
+2024-04-29 13:40:18,665 - ERROR - https://pro.whitepages.com/developer/documentation/reverse-phone-api/ - Error: Connection error occurred.
+2024-04-29 13:40:18,665 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/phone-intelligence-api/
+2024-04-29 13:40:18,852 - ERROR - https://pro.whitepages.com/developer/documentation/phone-intelligence-api/ - Error: Connection error occurred.
+2024-04-29 13:40:18,852 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/reverse-address-api/
+2024-04-29 13:40:19,033 - ERROR - https://pro.whitepages.com/developer/documentation/reverse-address-api/ - Error: Connection error occurred.
+2024-04-29 13:40:19,033 - INFO - Checking redirection for: https://dev.battle.net/
+2024-04-29 13:40:19,437 - ERROR - https://dev.battle.net/ - Error: Connection error occurred.
+2024-04-29 13:40:19,437 - INFO - Checking redirection for: https://developer.clashroyale.com
+2024-04-29 13:40:19,798 - ERROR - https://developer.clashroyale.com - Error: Connection error occurred.
+2024-04-29 13:40:19,798 - INFO - Checking redirection for: https://comicvine.gamespot.com/api/documentation
+2024-04-29 13:40:20,087 - ERROR - https://comicvine.gamespot.com/api/documentation - Error: Connection error occurred.
+2024-04-29 13:40:20,087 - INFO - Checking redirection for: https://crossuniverse.net/apiDocs
+2024-04-29 13:40:21,254 - INFO - 200 - https://crossuniverse.net/apiDocs
+2024-04-29 13:40:21,261 - INFO - Checking redirection for: https://github.com/Bungie-net/api
+2024-04-29 13:40:21,966 - INFO - 200 - https://github.com/Bungie-net/api
+2024-04-29 13:40:21,975 - INFO - Checking redirection for: https://docs.opendota.com/
+2024-04-29 13:40:22,720 - ERROR - https://docs.opendota.com/ - Error: Connection error occurred.
+2024-04-29 13:40:22,721 - INFO - Checking redirection for: https://esi.evetech.net/ui
+2024-04-29 13:40:23,783 - INFO - 200 - https://esi.evetech.net/ui
+2024-04-29 13:40:23,792 - INFO - Checking redirection for: https://xivapi.com/
+2024-04-29 13:40:24,743 - INFO - 200 - https://xivapi.com/
+2024-04-29 13:40:24,751 - INFO - Checking redirection for: https://fortniteapi.com/
+2024-04-29 13:40:25,256 - INFO - 200 - https://fortniteapi.com/
+2024-04-29 13:40:25,264 - INFO - Checking redirection for: https://fortnitetracker.com/site-api
+2024-04-29 13:40:25,673 - INFO - 403 - https://fortnitetracker.com/site-api
+2024-04-29 13:40:25,681 - INFO - Checking redirection for: https://docs.forza-api.tk
+2024-04-29 13:40:25,764 - ERROR - https://docs.forza-api.tk - Error: Connection error occurred.
+2024-04-29 13:40:25,764 - INFO - Checking redirection for: https://www.giantbomb.com/api/documentation
+2024-04-29 13:40:26,078 - ERROR - https://www.giantbomb.com/api/documentation - Error: Connection error occurred.
+2024-04-29 13:40:26,078 - INFO - Checking redirection for: https://wiki.guildwars2.com/wiki/API:Main
+2024-04-29 13:40:26,432 - ERROR - https://wiki.guildwars2.com/wiki/API:Main - Error: Connection error occurred.
+2024-04-29 13:40:26,432 - INFO - Checking redirection for: https://developer.haloapi.com/
+2024-04-29 13:40:27,129 - INFO - 200 - https://developer.haloapi.com/
+2024-04-29 13:40:27,138 - INFO - Checking redirection for: https://api.hypixel.net/
+2024-04-29 13:40:27,385 - ERROR - https://api.hypixel.net/ - Error: Connection error occurred.
+2024-04-29 13:40:27,385 - INFO - Checking redirection for: https://api.igdb.com/
+2024-04-29 13:40:27,630 - ERROR - https://api.igdb.com/ - Error: Connection error occurred.
+2024-04-29 13:40:27,630 - INFO - Checking redirection for: https://jokes.one/api/joke/
+2024-04-29 13:40:28,040 - ERROR - https://jokes.one/api/joke/ - Error: Connection error occurred.
+2024-04-29 13:40:28,041 - INFO - Checking redirection for: https://sv443.net/jokeapi/v2/
+2024-04-29 13:40:28,357 - ERROR - https://sv443.net/jokeapi/v2/ - Error: Connection error occurred.
+2024-04-29 13:40:28,357 - INFO - Checking redirection for: https://api.pandascore.co
+2024-04-29 13:40:29,022 - ERROR - https://api.pandascore.co - Error: Connection error occurred.
+2024-04-29 13:40:29,022 - INFO - Checking redirection for: https://pubgtracker.com/site-api
+2024-04-29 13:40:30,387 - ERROR - https://pubgtracker.com/site-api - Error: Connection error occurred.
+2024-04-29 13:40:30,387 - INFO - Checking redirection for: https://developers.wargaming.net/
+2024-04-29 13:40:31,166 - ERROR - https://developers.wargaming.net/ - Error: Connection error occurred.
+2024-04-29 13:40:31,166 - INFO - Checking redirection for: https://geocodify.com/
+2024-04-29 13:40:31,454 - ERROR - https://geocodify.com/ - Error: Connection error occurred.
+2024-04-29 13:40:31,454 - INFO - Checking redirection for: https://www.fourtonfish.com/hellosalut/hello/
+2024-04-29 13:40:43,304 - ERROR - https://www.fourtonfish.com/hellosalut/hello/ - Error: Connection error occurred.
+2024-04-29 13:40:43,304 - INFO - Checking redirection for: https://ip2country.info
+2024-04-29 13:40:43,887 - INFO - 200 - https://ip2country.info
+2024-04-29 13:40:43,898 - INFO - Checking redirection for: https://ipinfo.io/
+2024-04-29 13:40:44,107 - ERROR - https://ipinfo.io/ - Error: Connection error occurred.
+2024-04-29 13:40:44,107 - INFO - Checking redirection for: https://ipsidekick.com
+2024-04-29 13:41:16,169 - ERROR - https://ipsidekick.com - Error: Connection error occurred.
+2024-04-29 13:41:16,170 - INFO - Checking redirection for: https://www.ipvigilante.com/
+2024-04-29 13:41:16,866 - ERROR - https://www.ipvigilante.com/ - Error: Connection error occurred.
+2024-04-29 13:41:16,866 - INFO - Checking redirection for: https://ipgeolocationapi.com/
+2024-04-29 13:41:48,904 - ERROR - https://ipgeolocationapi.com/ - Error: Connection error occurred.
+2024-04-29 13:41:48,904 - INFO - Checking redirection for: https://ipgeolocation.com/
+2024-04-29 13:42:01,384 - ERROR - https://ipgeolocation.com/ - Error: Connection error occurred.
+2024-04-29 13:42:01,384 - INFO - Checking redirection for: https://smartip.io
+2024-04-29 13:42:01,460 - ERROR - https://smartip.io - Error: Connection error occurred.
+2024-04-29 13:42:01,460 - INFO - Checking redirection for: https://data.beta.grandlyon.com/fr/accueil
+2024-04-29 13:42:01,586 - ERROR - https://data.beta.grandlyon.com/fr/accueil - Error: Connection error occurred.
+2024-04-29 13:42:01,586 - INFO - Checking redirection for: https://www.dati.gov.it/
+2024-04-29 13:42:03,255 - ERROR - https://www.dati.gov.it/ - Error: Connection error occurred.
+2024-04-29 13:42:03,255 - INFO - Checking redirection for: https://ndb.nal.usda.gov/ndb/doc/index
+2024-04-29 13:42:03,308 - ERROR - https://ndb.nal.usda.gov/ndb/doc/index - Error: Connection error occurred.
+2024-04-29 13:42:03,309 - INFO - Checking redirection for: https://api.graphql.jobs
+2024-04-29 13:42:03,371 - ERROR - https://api.graphql.jobs - Error: Connection error occurred.
+2024-04-29 13:42:03,371 - INFO - Checking redirection for: https://developers.upwork.com/
+2024-04-29 13:42:03,674 - INFO - 403 - https://developers.upwork.com/
+2024-04-29 13:42:03,680 - INFO - Checking redirection for: https://dialogflow.com
+2024-04-29 13:42:36,038 - ERROR - https://dialogflow.com - Error: Connection error occurred.
+2024-04-29 13:42:36,039 - INFO - Checking redirection for: https://keen.io/
+2024-04-29 13:42:36,433 - INFO - 200 - https://keen.io/
+2024-04-29 13:42:36,444 - INFO - Checking redirection for: https://www.discogs.com/developers/
+2024-04-29 13:42:36,757 - INFO - 403 - https://www.discogs.com/developers/
+2024-04-29 13:42:36,774 - INFO - Checking redirection for: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+2024-04-29 13:42:36,807 - ERROR - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/ - Error: Connection error occurred.
+2024-04-29 13:42:36,807 - INFO - Checking redirection for: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+2024-04-29 13:42:37,937 - INFO - 200 - https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+2024-04-29 13:42:37,955 - INFO - Checking redirection for: https://developer.ap.org/
+2024-04-29 13:42:38,765 - INFO - 200 - https://developer.ap.org/
+2024-04-29 13:42:38,776 - INFO - Checking redirection for: https://developers.civicfeed.com/
+2024-04-29 13:42:40,821 - INFO - 200 - https://developers.civicfeed.com/
+2024-04-29 13:42:40,830 - INFO - Checking redirection for: https://fonoapi.freshpixl.com/
+2024-04-29 13:42:41,391 - INFO - 200 - https://fonoapi.freshpixl.com/
+2024-04-29 13:42:41,402 - INFO - Checking redirection for: https://geo.api.gouv.fr/adresse
+2024-04-29 13:42:43,481 - INFO - 200 - https://geo.api.gouv.fr/adresse
+2024-04-29 13:42:43,496 - INFO - Checking redirection for: https://upcdatabase.org/api
+2024-04-29 13:42:43,757 - INFO - 200 - https://upcdatabase.org/api
+2024-04-29 13:42:43,768 - INFO - Checking redirection for: https://www.wikidata.org/w/api.php?action=help
+2024-04-29 13:42:44,563 - INFO - 200 - https://www.wikidata.org/w/api.php?action=help
+2024-04-29 13:42:44,572 - INFO - Checking redirection for: https://evilinsult.com/api
+2024-04-29 13:42:45,845 - INFO - 200 - https://evilinsult.com/api
+2024-04-29 13:42:45,855 - INFO - Checking redirection for: https://www.uspto.gov/learning-and-resources/open-data-and-mobility
+2024-04-29 13:42:50,643 - ERROR - https://www.uspto.gov/learning-and-resources/open-data-and-mobility - Error: Connection error occurred.
+2024-04-29 13:42:50,643 - INFO - Checking redirection for: https://apidocs.imgur.com/
+2024-04-29 13:42:51,033 - ERROR - https://apidocs.imgur.com/ - Error: Connection error occurred.
+2024-04-29 13:42:51,033 - INFO - Checking redirection for: https://inspirehep.net/info/hep/api?ln=en
+2024-04-29 13:42:52,570 - ERROR - https://inspirehep.net/info/hep/api?ln=en - Error: Connection error occurred.
+2024-04-29 13:42:52,570 - INFO - Checking redirection for: https://developer.osf.io
+2024-04-29 13:42:53,249 - INFO - 200 - https://developer.osf.io
+2024-04-29 13:42:53,263 - INFO - Checking redirection for: https://share.osf.io/api/v2/
+2024-04-29 13:42:53,594 - INFO - 200 - https://share.osf.io/api/v2/
+2024-04-29 13:42:53,602 - INFO - Checking redirection for: https://waterservices.usgs.gov/
+2024-04-29 13:42:54,088 - INFO - 200 - https://waterservices.usgs.gov/
+2024-04-29 13:42:54,098 - INFO - Checking redirection for: https://securitytrails.com/corp/apidocs
+2024-04-29 13:42:54,442 - INFO - 403 - https://securitytrails.com/corp/apidocs
+2024-04-29 13:42:54,449 - INFO - Checking redirection for: https://developer.shodan.io/
+2024-04-29 13:42:54,909 - INFO - 200 - https://developer.shodan.io/
+2024-04-29 13:42:54,919 - INFO - Checking redirection for: https://data.police.uk/docs/
+2024-04-29 13:42:56,077 - INFO - 200 - https://data.police.uk/docs/
+2024-04-29 13:42:56,090 - INFO - Checking redirection for: https://go.developer.ebay.com/
+2024-04-29 13:43:01,571 - ERROR - https://go.developer.ebay.com/ - Exceeded 30 redirects.
+2024-04-29 13:43:01,572 - INFO - Checking redirection for: https://dev.wegmans.io
+2024-04-29 13:43:01,727 - ERROR - https://dev.wegmans.io - Error: Connection error occurred.
+2024-04-29 13:43:01,728 - INFO - Checking redirection for: https://discord.riverside.rocks/docs/index.php
+2024-04-29 13:43:01,786 - ERROR - https://discord.riverside.rocks/docs/index.php - Error: Connection error occurred.
+2024-04-29 13:43:01,787 - INFO - Checking redirection for: https://discordapp.com/developers/docs/intro
+2024-04-29 13:43:02,712 - INFO - 200 - https://discordapp.com/developers/docs/intro
+2024-04-29 13:43:02,721 - INFO - Checking redirection for: https://disqus.com/api/docs/auth/
+2024-04-29 13:43:03,113 - INFO - 200 - https://disqus.com/api/docs/auth/
+2024-04-29 13:43:03,123 - INFO - Checking redirection for: https://developers.facebook.com/
+2024-04-29 13:43:03,561 - INFO - 200 - https://developers.facebook.com/
+2024-04-29 13:43:03,573 - INFO - Checking redirection for: https://developer.foursquare.com/
+2024-04-29 13:43:04,410 - INFO - 200 - https://developer.foursquare.com/
+2024-04-29 13:43:04,421 - INFO - Checking redirection for: https://www.foaas.com
+2024-04-29 13:43:04,837 - ERROR - https://www.foaas.com - Error: Connection error occurred.
+2024-04-29 13:43:04,837 - INFO - Checking redirection for: https://www.fullcontact.com/developer/docs/
+2024-04-29 13:43:05,723 - INFO - 200 - https://www.fullcontact.com/developer/docs/
+2024-04-29 13:43:05,738 - INFO - Checking redirection for: https://github.com/HackerNews/API
+2024-04-29 13:43:06,569 - INFO - 200 - https://github.com/HackerNews/API
+2024-04-29 13:43:06,578 - INFO - Checking redirection for: https://www.instagram.com/developer/
+2024-04-29 13:43:11,156 - INFO - 200 - https://www.instagram.com/developer/
+2024-04-29 13:43:11,166 - INFO - Checking redirection for: https://www.meetup.com/meetup_api/
+2024-04-29 13:43:15,713 - INFO - 200 - https://www.meetup.com/meetup_api/
+2024-04-29 13:43:15,722 - INFO - Checking redirection for: https://mysocialapp.io
+2024-04-29 13:43:16,139 - INFO - 200 - https://mysocialapp.io
+2024-04-29 13:43:16,147 - INFO - Checking redirection for: https://docs.opencollective.com/help/developers/api
+2024-04-29 13:43:17,255 - INFO - 200 - https://docs.opencollective.com/help/developers/api
+2024-04-29 13:43:17,263 - INFO - Checking redirection for: https://developers.pinterest.com/
+2024-04-29 13:43:49,192 - ERROR - https://developers.pinterest.com/ - Error: Connection error occurred.
+2024-04-29 13:43:49,192 - INFO - Checking redirection for: https://pwrtelegram.xyz
+2024-04-29 13:43:49,597 - ERROR - https://pwrtelegram.xyz - Error: Connection error occurred.
+2024-04-29 13:43:49,597 - INFO - Checking redirection for: https://www.reddit.com/dev/api
+2024-04-29 13:43:50,085 - INFO - 200 - https://www.reddit.com/dev/api
+2024-04-29 13:43:50,099 - INFO - Checking redirection for: https://api.slack.com/
+2024-04-29 13:43:50,755 - INFO - 502 - https://api.slack.com/
+2024-04-29 13:43:50,762 - INFO - Checking redirection for: https://core.telegram.org/bots/api
+2024-04-29 13:43:55,586 - INFO - 200 - https://core.telegram.org/bots/api
+2024-04-29 13:43:55,594 - INFO - Checking redirection for: https://core.telegram.org/api#getting-started
+2024-04-29 13:43:56,360 - INFO - 200 - https://core.telegram.org/api#getting-started
+2024-04-29 13:43:56,368 - INFO - Checking redirection for: https://trashnothing.com/developer
+2024-04-29 13:44:08,638 - INFO - 200 - https://trashnothing.com/developer
+2024-04-29 13:44:08,646 - INFO - Checking redirection for: https://www.tumblr.com/docs/en/api/v2
+2024-04-29 13:44:08,876 - ERROR - https://www.tumblr.com/docs/en/api/v2 - Error: Connection error occurred.
+2024-04-29 13:44:08,876 - INFO - Checking redirection for: https://dev.twitch.tv/docs
+2024-04-29 13:44:09,221 - INFO - 200 - https://dev.twitch.tv/docs
+2024-04-29 13:44:09,230 - INFO - Checking redirection for: https://developer.twitter.com/en/docs
+2024-04-29 13:44:09,630 - INFO - 200 - https://developer.twitter.com/en/docs
+2024-04-29 13:44:09,639 - INFO - Checking redirection for: https://vk.com/dev/sites
+2024-04-29 13:44:10,500 - INFO - 418 - https://vk.com/dev/sites
+2024-04-29 13:44:10,508 - INFO - Checking redirection for: https://balldontlie.io
+2024-04-29 13:44:11,784 - INFO - 200 - https://balldontlie.io
+2024-04-29 13:44:11,794 - INFO - Checking redirection for: https://www.bikewise.org/documentation/api_v2
+2024-04-29 13:44:56,809 - INFO - 522 - https://www.bikewise.org/documentation/api_v2
+2024-04-29 13:44:56,817 - INFO - Checking redirection for: https://github.com/wgenial/cartrolandofc
+2024-04-29 13:44:58,059 - INFO - 200 - https://github.com/wgenial/cartrolandofc
+2024-04-29 13:44:58,066 - INFO - Checking redirection for: https://dev.fitbit.com/
+2024-04-29 13:44:58,490 - INFO - 200 - https://dev.fitbit.com/
+2024-04-29 13:44:58,500 - INFO - Checking redirection for: https://www.scorebat.com/video-api/
+2024-04-29 13:44:59,027 - INFO - 200 - https://www.scorebat.com/video-api/
+2024-04-29 13:44:59,034 - INFO - Checking redirection for: https://boggio-analytics.com/fp-api/
+2024-04-29 13:44:59,922 - INFO - 200 - https://boggio-analytics.com/fp-api/
+2024-04-29 13:44:59,931 - INFO - Checking redirection for: https://developer.jcdecaux.com/
+2024-04-29 13:45:00,932 - INFO - 501 - https://developer.jcdecaux.com/
+2024-04-29 13:45:00,939 - INFO - Checking redirection for: https://any-api.com/nba_com/nba_com/docs/API_Description
+2024-04-29 13:45:01,393 - INFO - 200 - https://any-api.com/nba_com/nba_com/docs/API_Description
+2024-04-29 13:45:01,400 - INFO - Checking redirection for: https://gitlab.com/dword4/nhlapi
+2024-04-29 13:45:02,004 - INFO - 200 - https://gitlab.com/dword4/nhlapi
+2024-04-29 13:45:02,012 - INFO - Checking redirection for: https://developers.decathlon.com/products/sports
+2024-04-29 13:45:02,097 - ERROR - https://developers.decathlon.com/products/sports - Error: Connection error occurred.
+2024-04-29 13:45:02,097 - INFO - Checking redirection for: https://strava.github.io/api/
+2024-04-29 13:45:02,416 - INFO - 200 - https://strava.github.io/api/
+2024-04-29 13:45:02,425 - INFO - Checking redirection for: https://suredbits.com/api/
+2024-04-29 13:45:02,938 - INFO - 200 - https://suredbits.com/api/
+2024-04-29 13:45:02,948 - INFO - Checking redirection for: https://www.thesportsdb.com/api.php
+2024-04-29 13:45:03,498 - INFO - 200 - https://www.thesportsdb.com/api.php
+2024-04-29 13:45:03,506 - INFO - Checking redirection for: https://wger.de/en/software/api
+2024-04-29 13:45:03,700 - ERROR - https://wger.de/en/software/api - Error: Connection error occurred.
+2024-04-29 13:45:03,701 - INFO - Checking redirection for: https://cricketdata.org/
+2024-04-29 13:45:05,325 - INFO - 200 - https://cricketdata.org/
+2024-04-29 13:45:05,333 - INFO - Checking redirection for: https://baconipsum.com/json-api/
+2024-04-29 13:45:06,359 - INFO - 200 - https://baconipsum.com/json-api/
+2024-04-29 13:45:06,367 - INFO - Checking redirection for: https://beeceptor.com/crud-api/?ref=public-api-lists
+2024-04-29 13:45:06,722 - INFO - 200 - https://beeceptor.com/crud-api/?ref=public-api-lists
+2024-04-29 13:45:06,730 - INFO - Checking redirection for: https://avatars.dicebear.com/
+2024-04-29 13:45:07,875 - INFO - 200 - https://avatars.dicebear.com/
+2024-04-29 13:45:07,887 - INFO - Checking redirection for: https://fakejson.com
+2024-04-29 13:45:08,405 - INFO - 200 - https://fakejson.com
+2024-04-29 13:45:08,414 - INFO - Checking redirection for: https://micro-jaymock.now.sh/
+2024-04-29 13:45:10,448 - INFO - 400 - https://micro-jaymock.now.sh/
+2024-04-29 13:45:10,457 - INFO - Checking redirection for: https://randomuser.me
+2024-04-29 13:45:11,755 - INFO - 200 - https://randomuser.me
+2024-04-29 13:45:11,763 - INFO - Checking redirection for: https://robohash.org/
+2024-04-29 13:45:12,232 - INFO - 405 - https://robohash.org/
+2024-04-29 13:45:12,245 - INFO - Checking redirection for: https://thispersondoesnotexist.com
+2024-04-29 13:45:13,121 - INFO - 200 - https://thispersondoesnotexist.com
+2024-04-29 13:45:13,128 - INFO - Checking redirection for: https://github.com/thm/uinames
+2024-04-29 13:45:13,933 - INFO - 200 - https://github.com/thm/uinames
+2024-04-29 13:45:13,943 - INFO - Checking redirection for: https://www.uuidtools.com/docs
+2024-04-29 13:45:14,447 - INFO - 200 - https://www.uuidtools.com/docs
+2024-04-29 13:45:14,456 - INFO - Checking redirection for: https://yesno.wtf/api
+2024-04-29 13:45:15,646 - INFO - 200 - https://yesno.wtf/api
+2024-04-29 13:45:15,655 - INFO - Checking redirection for: https://randommer.io/randommer-api
+2024-04-29 13:45:16,108 - INFO - 200 - https://randommer.io/randommer-api
+2024-04-29 13:45:16,117 - INFO - Checking redirection for: https://softwium.com/fake-api/
+2024-04-29 13:45:16,670 - ERROR - https://softwium.com/fake-api/ - Error: Connection error occurred.
+2024-04-29 13:45:16,670 - INFO - Checking redirection for: https://www.cloudmersive.com/nlp-api
+2024-04-29 13:45:17,382 - INFO - 200 - https://www.cloudmersive.com/nlp-api
+2024-04-29 13:45:17,390 - INFO - Checking redirection for: https://detectlanguage.com/
+2024-04-29 13:45:18,283 - INFO - 200 - https://detectlanguage.com/
+2024-04-29 13:45:18,291 - INFO - Checking redirection for: https://cloud.google.com/natural-language/docs/
+2024-04-29 13:45:30,721 - INFO - 200 - https://cloud.google.com/natural-language/docs/
+2024-04-29 13:45:30,732 - INFO - Checking redirection for: https://apis.paralleldots.com/text_docs/index.html
+2024-04-29 13:45:31,266 - INFO - 200 - https://apis.paralleldots.com/text_docs/index.html
+2024-04-29 13:45:31,274 - INFO - Checking redirection for: https://semantria.readme.io/docs
+2024-04-29 13:45:32,338 - INFO - 200 - https://semantria.readme.io/docs
+2024-04-29 13:45:32,345 - INFO - Checking redirection for: https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/
+2024-04-29 13:45:34,318 - INFO - 200 - https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/
+2024-04-29 13:45:34,328 - INFO - Checking redirection for: https://github.com/ookii-tsuki/yomi
+2024-04-29 13:45:35,194 - INFO - 200 - https://github.com/ookii-tsuki/yomi
+2024-04-29 13:45:35,202 - INFO - Checking redirection for: https://letscountapi.com
+2024-04-29 13:45:35,751 - INFO - 200 - https://letscountapi.com
+2024-04-29 13:45:35,763 - INFO - Checking redirection for: https://developer.postnord.com/docs2
+2024-04-29 13:45:36,387 - INFO - 200 - https://developer.postnord.com/docs2
+2024-04-29 13:45:36,396 - INFO - Checking redirection for: https://www.ups.com/upsdeveloperkit
+2024-04-29 13:47:37,054 - ERROR - https://www.ups.com/upsdeveloperkit - Error: Connection error occurred.
+2024-04-29 13:47:37,055 - INFO - Checking redirection for: https://whatpulse.org/pages/webapi/
+2024-04-29 13:47:46,470 - INFO - 200 - https://whatpulse.org/pages/webapi/
+2024-04-29 13:47:46,479 - INFO - Checking redirection for: https://www.adsbexchange.com/data/
+2024-04-29 13:47:47,013 - INFO - 200 - https://www.adsbexchange.com/data/
+2024-04-29 13:47:47,021 - INFO - Checking redirection for: https://sandbox.amadeus.com/
+2024-04-29 13:47:48,928 - INFO - 200 - https://sandbox.amadeus.com/
+2024-04-29 13:47:48,942 - INFO - Checking redirection for: https://bart.trentwil.es
+2024-04-29 13:47:57,106 - ERROR - https://bart.trentwil.es - Error: Connection error occurred.
+2024-04-29 13:47:57,107 - INFO - Checking redirection for: https://dev.blablacar.com
+2024-04-29 13:47:57,817 - INFO - 403 - https://dev.blablacar.com
+2024-04-29 13:47:57,825 - INFO - Checking redirection for: https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints
+2024-04-29 13:47:58,503 - INFO - 200 - https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints
+2024-04-29 13:47:58,512 - INFO - Checking redirection for: https://graphhopper.com/api/1/docs/
+2024-04-29 13:48:00,370 - INFO - 200 - https://graphhopper.com/api/1/docs/
+2024-04-29 13:48:00,379 - INFO - Checking redirection for: https://api.navitia.io/
+2024-04-29 13:48:01,420 - INFO - 200 - https://api.navitia.io/
+2024-04-29 13:48:01,432 - INFO - Checking redirection for: https://openchargemap.org/site/develop/api
+2024-04-29 13:48:01,997 - INFO - 200 - https://openchargemap.org/site/develop/api
+2024-04-29 13:48:02,004 - INFO - Checking redirection for: https://www.refugerestrooms.org/api/docs/#!/restrooms
+2024-04-29 13:48:02,515 - INFO - 200 - https://www.refugerestrooms.org/api/docs/#!/restrooms
+2024-04-29 13:48:02,523 - INFO - Checking redirection for: https://developer.schiphol.nl/
+2024-04-29 13:48:03,416 - INFO - 200 - https://developer.schiphol.nl/
+2024-04-29 13:48:03,424 - INFO - Checking redirection for: https://transit.land/documentation/datastore/api-endpoints.html
+2024-04-29 13:48:04,466 - INFO - 200 - https://transit.land/documentation/datastore/api-endpoints.html
+2024-04-29 13:48:04,478 - INFO - Checking redirection for: https://api.at.govt.nz/
+2024-04-29 13:48:06,097 - INFO - 404 - https://api.at.govt.nz/
+2024-04-29 13:48:06,110 - INFO - Checking redirection for: https://hello.irail.be/api/
+2024-04-29 13:48:07,582 - INFO - 500 - https://hello.irail.be/api/
+2024-04-29 13:48:07,599 - INFO - Checking redirection for: https://opendata.bordeaux-metropole.fr/explore/
+2024-04-29 13:48:08,246 - INFO - 200 - https://opendata.bordeaux-metropole.fr/explore/
+2024-04-29 13:48:08,265 - INFO - Checking redirection for: https://mbta.com/developers/v3-api
+2024-04-29 13:48:28,501 - ERROR - https://mbta.com/developers/v3-api - Error: Connection error occurred.
+2024-04-29 13:48:28,501 - INFO - Checking redirection for: https://bkkfutar.docs.apiary.io
+2024-04-29 13:48:29,523 - INFO - 200 - https://bkkfutar.docs.apiary.io
+2024-04-29 13:48:29,532 - INFO - Checking redirection for: https://www.chaps.cz/eng/products/idos-internet
+2024-04-29 13:48:31,048 - INFO - 200 - https://www.chaps.cz/eng/products/idos-internet
+2024-04-29 13:48:31,058 - INFO - Checking redirection for: https://digitransit.fi/en/developers/
+2024-04-29 13:48:32,261 - INFO - 200 - https://digitransit.fi/en/developers/
+2024-04-29 13:48:32,278 - INFO - Checking redirection for: https://data.mobilites-m.fr/donnees
+2024-04-29 13:48:33,525 - INFO - 200 - https://data.mobilites-m.fr/donnees
+2024-04-29 13:48:33,536 - INFO - Checking redirection for: https://data.gov.in/sector/transport
+2024-04-29 13:48:36,539 - INFO - 405 - https://data.gov.in/sector/transport
+2024-04-29 13:48:36,564 - INFO - Checking redirection for: https://emel.city-platform.com/opendata/
+2024-04-29 13:48:40,650 - ERROR - https://emel.city-platform.com/opendata/ - Error: Connection error occurred.
+2024-04-29 13:48:40,650 - INFO - Checking redirection for: https://api.tfl.gov.uk
+2024-04-29 13:48:44,307 - ERROR - https://api.tfl.gov.uk - Error: Connection error occurred.
+2024-04-29 13:48:44,307 - INFO - Checking redirection for: https://developer.tfgm.com/
+2024-04-29 13:48:45,841 - INFO - 200 - https://developer.tfgm.com/
+2024-04-29 13:48:45,857 - INFO - Checking redirection for: https://www.trafiklab.se/api
+2024-04-29 13:48:46,883 - INFO - 200 - https://www.trafiklab.se/api
+2024-04-29 13:48:46,892 - INFO - Checking redirection for: https://opentransportdata.swiss/en/
+2024-04-29 13:48:48,321 - INFO - 200 - https://opentransportdata.swiss/en/
+2024-04-29 13:48:48,332 - INFO - Checking redirection for: https://transport.opendata.ch/
+2024-04-29 13:48:49,268 - INFO - 200 - https://transport.opendata.ch/
+2024-04-29 13:48:49,276 - INFO - Checking redirection for: https://github.com/skywave/KV78Turbo-OVAPI/wiki
+2024-04-29 13:48:50,234 - INFO - 200 - https://github.com/skywave/KV78Turbo-OVAPI/wiki
+2024-04-29 13:48:50,247 - INFO - Checking redirection for: https://myttc.ca/developers
+2024-04-29 13:48:50,732 - INFO - 200 - https://myttc.ca/developers
+2024-04-29 13:48:50,743 - INFO - Checking redirection for: https://developer.translink.ca/
+2024-04-29 13:48:51,479 - INFO - 404 - https://developer.translink.ca/
+2024-04-29 13:48:51,488 - INFO - Checking redirection for: https://developer.wmata.com/
+2024-04-29 13:48:52,253 - INFO - 200 - https://developer.wmata.com/
+2024-04-29 13:48:52,263 - INFO - Checking redirection for: https://developer.uber.com/products
+2024-04-29 13:48:52,601 - INFO - 200 - https://developer.uber.com/products
+2024-04-29 13:48:52,610 - INFO - Checking redirection for: https://developer.whereismytransport.com/
+2024-04-29 13:49:03,664 - ERROR - https://developer.whereismytransport.com/ - Error: Connection error occurred.
+2024-04-29 13:49:03,664 - INFO - Checking redirection for: https://cleanuri.com/docs
+2024-04-29 13:49:04,494 - INFO - 200 - https://cleanuri.com/docs
+2024-04-29 13:49:04,502 - INFO - Checking redirection for: https://support.clickmeter.com/hc/en-us/categories/201474986
+2024-04-29 13:49:05,135 - ERROR - https://support.clickmeter.com/hc/en-us/categories/201474986 - Error: Connection error occurred.
+2024-04-29 13:49:05,136 - INFO - Checking redirection for: https://developers.rebrandly.com/v1/docs
+2024-04-29 13:49:05,981 - INFO - 200 - https://developers.rebrandly.com/v1/docs
+2024-04-29 13:49:05,990 - INFO - Checking redirection for: https://www.f4nsix.xyz/api/docs
+2024-04-29 13:49:06,444 - ERROR - https://www.f4nsix.xyz/api/docs - Error: Connection error occurred.
+2024-04-29 13:49:06,445 - INFO - Checking redirection for: https://deividfortuna.github.io/fipe/
+2024-04-29 13:49:38,344 - ERROR - https://deividfortuna.github.io/fipe/ - Error: Connection error occurred.
+2024-04-29 13:49:38,345 - INFO - Checking redirection for: https://api.carsxe.com/?ref=public-apis-github
+2024-04-29 13:49:38,742 - INFO - 200 - https://api.carsxe.com/?ref=public-apis-github
+2024-04-29 13:49:38,752 - INFO - Checking redirection for: https://developer.mercedes-benz.com/apis
+2024-04-29 13:49:39,689 - INFO - 200 - https://developer.mercedes-benz.com/apis
+2024-04-29 13:49:39,698 - INFO - Checking redirection for: https://vpic.nhtsa.dot.gov/api/
+2024-04-29 13:49:40,112 - INFO - 200 - https://vpic.nhtsa.dot.gov/api/
+2024-04-29 13:49:40,121 - INFO - Checking redirection for: https://smartcar.com/docs/
+2024-04-29 13:49:40,750 - INFO - 200 - https://smartcar.com/docs/
+2024-04-29 13:49:40,758 - INFO - Checking redirection for: https://anapioficeandfire.com/
+2024-04-29 13:49:41,193 - INFO - 200 - https://anapioficeandfire.com/
+2024-04-29 13:49:41,202 - INFO - Checking redirection for: https://github.com/shevabam/breaking-bad-quotes
+2024-04-29 13:49:41,930 - INFO - 200 - https://github.com/shevabam/breaking-bad-quotes
+2024-04-29 13:49:41,939 - INFO - Checking redirection for: https://developer.dailymotion.com/
+2024-04-29 13:49:43,690 - INFO - 200 - https://developer.dailymotion.com/
+2024-04-29 13:49:43,705 - INFO - Checking redirection for: https://github.com/ywalia01/dune-api
+2024-04-29 13:49:44,408 - INFO - 200 - https://github.com/ywalia01/dune-api
+2024-04-29 13:49:44,418 - INFO - Checking redirection for: https://www.potterapi.com/
+2024-04-29 13:50:16,271 - ERROR - https://www.potterapi.com/ - Error: Connection error occurred.
+2024-04-29 13:50:16,271 - INFO - Checking redirection for: https://owen-wilson-wow-api.onrender.com/
+2024-04-29 13:50:20,394 - ERROR - https://owen-wilson-wow-api.onrender.com/ - Error: Connection error occurred.
+2024-04-29 13:50:20,395 - INFO - Checking redirection for: https://potterdb.com
+2024-04-29 13:50:20,923 - INFO - 200 - https://potterdb.com
+2024-04-29 13:50:20,942 - INFO - Checking redirection for: https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
+2024-04-29 13:50:21,668 - INFO - 200 - https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
+2024-04-29 13:50:21,683 - INFO - Checking redirection for: https://github.com/Thatskat/southpark-quotes-api
+2024-04-29 13:50:22,578 - INFO - 200 - https://github.com/Thatskat/southpark-quotes-api
+2024-04-29 13:50:22,591 - INFO - Checking redirection for: https://stapi.co
+2024-04-29 13:50:23,448 - ERROR - https://stapi.co - Error: Connection error occurred.
+2024-04-29 13:50:23,448 - INFO - Checking redirection for: https://www.themoviedb.org/documentation/api
+2024-04-29 13:50:27,644 - ERROR - https://www.themoviedb.org/documentation/api - Error: Connection error occurred.
+2024-04-29 13:50:27,644 - INFO - Checking redirection for: https://trakt.tv/b/api-docs
+2024-04-29 13:50:31,256 - ERROR - https://trakt.tv/b/api-docs - Error: Connection error occurred.
+2024-04-29 13:50:31,256 - INFO - Checking redirection for: https://api.thetvdb.com/swagger
+2024-04-29 13:50:31,485 - ERROR - https://api.thetvdb.com/swagger - Error: Connection error occurred.
+2024-04-29 13:50:31,485 - INFO - Checking redirection for: https://developer.vimeo.com/
+2024-04-29 13:50:31,676 - ERROR - https://developer.vimeo.com/ - Error: Connection error occurred.
+2024-04-29 13:50:31,676 - INFO - Checking redirection for: https://developers.google.com/youtube/
+2024-04-29 13:50:31,869 - ERROR - https://developers.google.com/youtube/ - Error: Connection error occurred.
+2024-04-29 13:50:31,869 - INFO - Checking redirection for: https://shotstack.io/
+2024-04-29 13:50:32,171 - ERROR - https://shotstack.io/ - Error: Connection error occurred.
+2024-04-29 13:50:32,172 - INFO - Checking redirection for: https://www.apixu.com/doc/request.aspx
+2024-04-29 13:50:32,374 - ERROR - https://www.apixu.com/doc/request.aspx - Error: Connection error occurred.
+2024-04-29 13:50:32,374 - INFO - Checking redirection for: https://darksky.net/dev/
+2024-04-29 13:50:32,556 - ERROR - https://darksky.net/dev/ - Error: Connection error occurred.
+2024-04-29 13:50:32,557 - INFO - Checking redirection for: https://api.met.no/weatherapi/documentation
+2024-04-29 13:50:32,746 - ERROR - https://api.met.no/weatherapi/documentation - Error: Connection error occurred.
+2024-04-29 13:50:32,746 - INFO - Checking redirection for: https://www.ncdc.noaa.gov/cdo-web/
+2024-04-29 13:50:33,022 - ERROR - https://www.ncdc.noaa.gov/cdo-web/ - Error: Connection error occurred.
+2024-04-29 13:50:33,022 - INFO - Checking redirection for: https://open-meteo.com/
+2024-04-29 13:50:33,333 - ERROR - https://open-meteo.com/ - Error: Connection error occurred.
+2024-04-29 13:50:33,334 - INFO - Checking redirection for: https://www.openuv.io
+2024-04-29 13:50:33,567 - ERROR - https://www.openuv.io - Error: Connection error occurred.
+2024-04-29 13:50:33,567 - INFO - Checking redirection for: https://stormglass.io/
+2024-04-29 13:50:33,857 - ERROR - https://stormglass.io/ - Error: Connection error occurred.
+2024-04-29 13:50:33,857 - INFO - Checking redirection for: https://www.weatherbit.io/api
+2024-04-29 13:50:34,038 - ERROR - https://www.weatherbit.io/api - Error: Connection error occurred.
+2024-04-29 13:50:34,038 - INFO - Checking redirection for: https://developer.yahoo.com/weather/
+2024-04-29 13:50:34,243 - ERROR - https://developer.yahoo.com/weather/ - Error: Connection error occurred.
+2024-04-29 13:50:34,243 - INFO - Checking redirection for: https://github.com/k4sud0n
+2024-04-29 13:50:34,428 - ERROR - https://github.com/k4sud0n - Error: Connection error occurred.
+2024-04-29 13:50:34,428 - INFO - Checking redirection for: https://github.com/Vaporjawn
+2024-04-29 13:50:34,558 - ERROR - https://github.com/Vaporjawn - Error: Connection error occurred.
+2024-04-29 13:50:34,558 - INFO - Checking redirection for: https://github.com/alstn2468
+2024-04-29 13:50:34,703 - ERROR - https://github.com/alstn2468 - Error: Connection error occurred.
+2024-04-29 13:50:34,703 - INFO - Checking redirection for: https://github.com/hakiKhuva
+2024-04-29 13:50:34,840 - ERROR - https://github.com/hakiKhuva - Error: Connection error occurred.
+2024-04-29 13:50:34,840 - INFO - Checking redirection for: https://github.com/tomstoermerdotcom
+2024-04-29 13:50:34,978 - ERROR - https://github.com/tomstoermerdotcom - Error: Connection error occurred.
+2024-04-29 13:50:34,979 - INFO - Checking redirection for: https://github.com/LukasGirsch
+2024-04-29 13:50:35,119 - ERROR - https://github.com/LukasGirsch - Error: Connection error occurred.
+2024-04-29 13:50:35,120 - INFO - Checking redirection for: https://github.com/AlbertSuarez
+2024-04-29 13:50:35,259 - ERROR - https://github.com/AlbertSuarez - Error: Connection error occurred.
+2024-04-29 13:50:35,259 - INFO - Checking redirection for: https://github.com/nkilm
+2024-04-29 13:50:35,396 - ERROR - https://github.com/nkilm - Error: Connection error occurred.
+2024-04-29 13:50:35,396 - INFO - Checking redirection for: https://github.com/Geokeo
+2024-04-29 13:50:35,535 - ERROR - https://github.com/Geokeo - Error: Connection error occurred.
+2024-04-29 13:50:35,535 - INFO - Checking redirection for: https://github.com/DrPanayioths
+2024-04-29 13:50:35,677 - ERROR - https://github.com/DrPanayioths - Error: Connection error occurred.
+2024-04-29 13:50:35,677 - INFO - Checking redirection for: https://github.com/johnnagro
+2024-04-29 13:50:35,814 - ERROR - https://github.com/johnnagro - Error: Connection error occurred.
+2024-04-29 13:50:35,814 - INFO - Checking redirection for: https://github.com/tagawa
+2024-04-29 13:50:35,958 - ERROR - https://github.com/tagawa - Error: Connection error occurred.
+2024-04-29 13:50:35,958 - INFO - Checking redirection for: https://github.com/fili
+2024-04-29 13:50:36,093 - ERROR - https://github.com/fili - Error: Connection error occurred.
+2024-04-29 13:50:36,093 - INFO - Checking redirection for: https://github.com/mikestopcontinues
+2024-04-29 13:50:36,221 - ERROR - https://github.com/mikestopcontinues - Error: Connection error occurred.
+2024-04-29 13:50:36,221 - INFO - Checking redirection for: https://github.com
+2024-04-29 13:50:36,349 - ERROR - https://github.com - Error: Connection error occurred.
+2024-04-29 13:50:36,349 - INFO - Checking redirection for: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+2024-04-29 13:50:36,529 - ERROR - https://docs.github.com/site-policy/github-terms/github-terms-of-service - Error: Connection error occurred.
+2024-04-29 13:50:36,529 - INFO - Checking redirection for: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+2024-04-29 13:50:36,723 - ERROR - https://docs.github.com/site-policy/privacy-policies/github-privacy-statement - Error: Connection error occurred.
+2024-04-29 13:50:36,723 - INFO - Checking redirection for: https://github.com/security
+2024-04-29 13:50:36,861 - ERROR - https://github.com/security - Error: Connection error occurred.
+2024-04-29 13:50:36,861 - INFO - Checking redirection for: https://www.githubstatus.com/
+2024-04-29 13:50:37,089 - ERROR - https://www.githubstatus.com/ - Error: Connection error occurred.
+2024-04-29 13:50:37,089 - INFO - Checking redirection for: https://docs.github.com/
+2024-04-29 13:50:37,215 - ERROR - https://docs.github.com/ - Error: Connection error occurred.
+2024-04-29 13:50:37,215 - INFO - Checking redirection for: https://support.github.com?tags=dotcom-footer
+2024-04-29 13:50:37,409 - ERROR - https://support.github.com?tags=dotcom-footer - Error: Connection error occurred.
+2024-05-01 14:58:40,639 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-05-01 14:58:41,970 - INFO - Found 686 links
+2024-05-01 14:58:41,972 - INFO - Checking redirection for: https://randombig.cat/roar.json
+2024-05-01 14:58:42,112 - ERROR - https://randombig.cat/roar.json - Error: Connection error occurred.
+2024-05-01 14:58:42,112 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
+2024-05-01 14:58:45,988 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
+2024-05-01 14:58:45,989 - INFO - Checking redirection for: https://holidayapi.pl/
+2024-05-01 14:59:17,821 - ERROR - https://holidayapi.pl/ - Error: Connection error occurred.
+2024-05-01 14:59:17,821 - INFO - Checking redirection for: https://api.abalin.net/
+2024-05-01 14:59:22,535 - ERROR - https://api.abalin.net/ - Error: Connection error occurred.
+2024-05-01 14:59:22,535 - INFO - Checking redirection for: https://anonfiles.com/docs/api
+2024-05-01 14:59:22,570 - ERROR - https://anonfiles.com/docs/api - Error: Connection error occurred.
+2024-05-01 14:59:22,570 - INFO - Checking redirection for: https://developer.box.com/
+2024-05-01 14:59:26,662 - ERROR - https://developer.box.com/ - Error: Connection error occurred.
+2024-05-01 14:59:26,662 - INFO - Checking redirection for: https://www.dropbox.com/developers
+2024-05-01 14:59:26,959 - ERROR - https://www.dropbox.com/developers - Error: Connection error occurred.
+2024-05-01 14:59:26,959 - INFO - Checking redirection for: https://pastebin.com/api/
+2024-05-01 14:59:27,293 - ERROR - https://pastebin.com/api/ - Error: Connection error occurred.
+2024-05-01 14:59:27,293 - INFO - Checking redirection for: https://developers.wetransfer.com
+2024-05-01 14:59:27,665 - ERROR - https://developers.wetransfer.com - Error: Connection error occurred.
+2024-05-01 14:59:27,665 - INFO - Checking redirection for: https://bitcoincharts.com/about/exchanges/
+2024-05-01 14:59:28,338 - ERROR - https://bitcoincharts.com/about/exchanges/ - Error: Connection error occurred.
+2024-05-01 14:59:28,338 - INFO - Checking redirection for: https://www.blockchain.info/api
+2024-05-01 14:59:28,608 - ERROR - https://www.blockchain.info/api - Error: Connection error occurred.
+2024-05-01 14:59:28,609 - INFO - Checking redirection for: https://blockfacts.io/
+2024-05-01 15:00:00,820 - ERROR - https://blockfacts.io/ - Error: Connection error occurred.
+2024-05-01 15:00:00,820 - INFO - Checking redirection for: https://ratesapi.io
+2024-05-01 15:00:33,136 - ERROR - https://ratesapi.io - Error: Connection error occurred.
+2024-05-01 15:00:33,136 - INFO - Checking redirection for: https://scraper.run
+2024-05-01 15:01:05,358 - ERROR - https://scraper.run - Error: Connection error occurred.
+2024-05-01 15:01:05,358 - INFO - Checking redirection for: https://apiflash.com/
+2024-05-01 15:01:05,868 - INFO - 200 - https://apiflash.com/
+2024-05-01 15:01:05,882 - INFO - Checking redirection for: https://changelogs.md
+2024-05-01 15:01:05,952 - ERROR - https://changelogs.md - Error: Connection error occurred.
+2024-05-01 15:01:05,953 - INFO - Checking redirection for: https://countapi.xyz
+2024-05-01 15:01:06,816 - ERROR - https://countapi.xyz - Error: Connection error occurred.
+2024-05-01 15:01:06,816 - INFO - Checking redirection for: https://ipinfo.io/developers
+2024-05-01 15:01:07,025 - ERROR - https://ipinfo.io/developers - Error: Connection error occurred.
+2024-05-01 15:01:07,025 - INFO - Checking redirection for: https://jsonbin.io
+2024-05-01 15:01:07,421 - ERROR - https://jsonbin.io - Error: Connection error occurred.
+2024-05-01 15:01:07,421 - INFO - Checking redirection for: https://screenshotson.click/
+2024-05-01 15:01:07,470 - ERROR - https://screenshotson.click/ - Error: Connection error occurred.
+2024-05-01 15:01:07,470 - INFO - Checking redirection for: https://developers.wso2apistore.com/
+2024-05-01 15:01:07,876 - ERROR - https://developers.wso2apistore.com/ - Error: Connection error occurred.
+2024-05-01 15:01:07,876 - INFO - Checking redirection for: https://ipfinder.io/
+2024-05-01 15:01:40,159 - ERROR - https://ipfinder.io/ - Error: Connection error occurred.
+2024-05-01 15:01:40,159 - INFO - Checking redirection for: https://scraper.run/
+2024-05-01 15:02:11,918 - ERROR - https://scraper.run/ - Error: Connection error occurred.
+2024-05-01 15:02:11,918 - INFO - Checking redirection for: https://www.file.io
+2024-05-01 15:02:12,125 - ERROR - https://www.file.io - Error: Connection error occurred.
+2024-05-01 15:02:12,125 - INFO - Checking redirection for: https://www.vertopal.com/en/developer/api
+2024-05-01 15:02:12,356 - ERROR - https://www.vertopal.com/en/developer/api - Error: Connection error occurred.
+2024-05-01 15:02:12,357 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/identity-check-api/
+2024-05-01 15:02:12,583 - ERROR - https://pro.whitepages.com/developer/documentation/identity-check-api/ - Error: Connection error occurred.
+2024-05-01 15:02:12,583 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/phone-reputation-api/
+2024-05-01 15:02:12,730 - ERROR - https://pro.whitepages.com/developer/documentation/phone-reputation-api/ - Error: Connection error occurred.
+2024-05-01 15:02:12,730 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/reverse-phone-api/
+2024-05-01 15:02:12,873 - ERROR - https://pro.whitepages.com/developer/documentation/reverse-phone-api/ - Error: Connection error occurred.
+2024-05-01 15:02:12,873 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/phone-intelligence-api/
+2024-05-01 15:02:13,018 - ERROR - https://pro.whitepages.com/developer/documentation/phone-intelligence-api/ - Error: Connection error occurred.
+2024-05-01 15:02:13,018 - INFO - Checking redirection for: https://pro.whitepages.com/developer/documentation/reverse-address-api/
+2024-05-01 15:02:13,149 - ERROR - https://pro.whitepages.com/developer/documentation/reverse-address-api/ - Error: Connection error occurred.
+2024-05-01 15:02:13,149 - INFO - Checking redirection for: https://dev.battle.net/
+2024-05-01 15:02:13,381 - ERROR - https://dev.battle.net/ - Error: Connection error occurred.
+2024-05-01 15:02:13,381 - INFO - Checking redirection for: https://developer.clashroyale.com
+2024-05-01 15:02:13,623 - ERROR - https://developer.clashroyale.com - Error: Connection error occurred.
+2024-05-01 15:02:13,623 - INFO - Checking redirection for: https://comicvine.gamespot.com/api/documentation
+2024-05-01 15:02:13,814 - ERROR - https://comicvine.gamespot.com/api/documentation - Error: Connection error occurred.
+2024-05-01 15:02:13,815 - INFO - Checking redirection for: https://docs.opendota.com/
+2024-05-01 15:02:14,001 - ERROR - https://docs.opendota.com/ - Error: Connection error occurred.
+2024-05-01 15:02:14,001 - INFO - Checking redirection for: https://docs.forza-api.tk
+2024-05-01 15:02:14,046 - ERROR - https://docs.forza-api.tk - Error: Connection error occurred.
+2024-05-01 15:02:14,046 - INFO - Checking redirection for: https://www.giantbomb.com/api/documentation
+2024-05-01 15:02:14,285 - ERROR - https://www.giantbomb.com/api/documentation - Error: Connection error occurred.
+2024-05-01 15:02:14,285 - INFO - Checking redirection for: https://wiki.guildwars2.com/wiki/API:Main
+2024-05-01 15:02:14,482 - ERROR - https://wiki.guildwars2.com/wiki/API:Main - Error: Connection error occurred.
+2024-05-01 15:02:14,482 - INFO - Checking redirection for: https://api.hypixel.net/
+2024-05-01 15:02:14,689 - ERROR - https://api.hypixel.net/ - Error: Connection error occurred.
+2024-05-01 15:02:14,690 - INFO - Checking redirection for: https://api.igdb.com/
+2024-05-01 15:02:14,901 - ERROR - https://api.igdb.com/ - Error: Connection error occurred.
+2024-05-01 15:02:14,902 - INFO - Checking redirection for: https://jokes.one/api/joke/
+2024-05-01 15:02:15,088 - ERROR - https://jokes.one/api/joke/ - Error: Connection error occurred.
+2024-05-01 15:02:15,089 - INFO - Checking redirection for: https://sv443.net/jokeapi/v2/
+2024-05-01 15:02:15,272 - ERROR - https://sv443.net/jokeapi/v2/ - Error: Connection error occurred.
+2024-05-01 15:02:15,272 - INFO - Checking redirection for: https://api.pandascore.co
+2024-05-01 15:02:15,532 - ERROR - https://api.pandascore.co - Error: Connection error occurred.
+2024-05-01 15:02:15,532 - INFO - Checking redirection for: https://pubgtracker.com/site-api
+2024-05-01 15:02:15,746 - ERROR - https://pubgtracker.com/site-api - Error: Connection error occurred.
+2024-05-01 15:02:15,746 - INFO - Checking redirection for: https://developers.wargaming.net/
+2024-05-01 15:02:15,973 - ERROR - https://developers.wargaming.net/ - Error: Connection error occurred.
+2024-05-01 15:02:15,974 - INFO - Checking redirection for: https://geocodify.com/
+2024-05-01 15:02:16,214 - ERROR - https://geocodify.com/ - Error: Connection error occurred.
+2024-05-01 15:02:16,214 - INFO - Checking redirection for: https://www.fourtonfish.com/hellosalut/hello/
+2024-05-01 15:02:16,436 - ERROR - https://www.fourtonfish.com/hellosalut/hello/ - Error: Connection error occurred.
+2024-05-01 15:02:16,436 - INFO - Checking redirection for: https://ipinfo.io/
+2024-05-01 15:02:16,640 - ERROR - https://ipinfo.io/ - Error: Connection error occurred.
+2024-05-01 15:02:16,640 - INFO - Checking redirection for: https://ipsidekick.com
+2024-05-01 15:02:16,869 - ERROR - https://ipsidekick.com - Error: Connection error occurred.
+2024-05-01 15:02:16,869 - INFO - Checking redirection for: https://www.ipvigilante.com/
+2024-05-01 15:02:17,292 - ERROR - https://www.ipvigilante.com/ - Error: Connection error occurred.
+2024-05-01 15:02:17,293 - INFO - Checking redirection for: https://ipgeolocationapi.com/
+2024-05-01 15:02:17,520 - ERROR - https://ipgeolocationapi.com/ - Error: Connection error occurred.
+2024-05-01 15:02:17,520 - INFO - Checking redirection for: https://ipgeolocation.com/
+2024-05-01 15:02:17,794 - ERROR - https://ipgeolocation.com/ - Error: Connection error occurred.
+2024-05-01 15:02:17,794 - INFO - Checking redirection for: https://smartip.io
+2024-05-01 15:02:17,840 - ERROR - https://smartip.io - Error: Connection error occurred.
+2024-05-01 15:02:17,840 - INFO - Checking redirection for: https://data.beta.grandlyon.com/fr/accueil
+2024-05-01 15:02:17,972 - ERROR - https://data.beta.grandlyon.com/fr/accueil - Error: Connection error occurred.
+2024-05-01 15:02:17,972 - INFO - Checking redirection for: https://www.dati.gov.it/
+2024-05-01 15:02:18,694 - ERROR - https://www.dati.gov.it/ - Error: Connection error occurred.
+2024-05-01 15:02:18,694 - INFO - Checking redirection for: https://ndb.nal.usda.gov/ndb/doc/index
+2024-05-01 15:02:18,787 - ERROR - https://ndb.nal.usda.gov/ndb/doc/index - Error: Connection error occurred.
+2024-05-01 15:02:18,787 - INFO - Checking redirection for: https://api.graphql.jobs
+2024-05-01 15:02:18,992 - ERROR - https://api.graphql.jobs - Error: Connection error occurred.
+2024-05-01 15:02:18,992 - INFO - Checking redirection for: https://dialogflow.com
+2024-05-01 15:02:19,177 - ERROR - https://dialogflow.com - Error: Connection error occurred.
+2024-05-01 15:02:19,178 - INFO - Checking redirection for: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+2024-05-01 15:02:19,210 - ERROR - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/ - Error: Connection error occurred.
+2024-05-01 15:02:19,210 - INFO - Checking redirection for: https://www.uspto.gov/learning-and-resources/open-data-and-mobility
+2024-05-01 15:02:19,374 - ERROR - https://www.uspto.gov/learning-and-resources/open-data-and-mobility - Error: Connection error occurred.
+2024-05-01 15:02:19,374 - INFO - Checking redirection for: https://apidocs.imgur.com/
+2024-05-01 15:02:19,611 - ERROR - https://apidocs.imgur.com/ - Error: Connection error occurred.
+2024-05-01 15:02:19,611 - INFO - Checking redirection for: https://inspirehep.net/info/hep/api?ln=en
+2024-05-01 15:02:19,811 - ERROR - https://inspirehep.net/info/hep/api?ln=en - Error: Connection error occurred.
+2024-05-01 15:02:19,812 - INFO - Checking redirection for: https://go.developer.ebay.com/
+2024-05-01 15:02:19,994 - ERROR - https://go.developer.ebay.com/ - Error: Connection error occurred.
+2024-05-01 15:02:19,994 - INFO - Checking redirection for: https://dev.wegmans.io
+2024-05-01 15:02:20,050 - ERROR - https://dev.wegmans.io - Error: Connection error occurred.
+2024-05-01 15:02:20,051 - INFO - Checking redirection for: https://discord.riverside.rocks/docs/index.php
+2024-05-01 15:02:20,145 - ERROR - https://discord.riverside.rocks/docs/index.php - Error: Connection error occurred.
+2024-05-01 15:02:20,145 - INFO - Checking redirection for: https://www.foaas.com
+2024-05-01 15:02:20,403 - ERROR - https://www.foaas.com - Error: Connection error occurred.
+2024-05-01 15:02:20,404 - INFO - Checking redirection for: https://developers.pinterest.com/
+2024-05-01 15:02:20,587 - ERROR - https://developers.pinterest.com/ - Error: Connection error occurred.
+2024-05-01 15:02:20,587 - INFO - Checking redirection for: https://pwrtelegram.xyz
+2024-05-01 15:02:20,820 - ERROR - https://pwrtelegram.xyz - Error: Connection error occurred.
+2024-05-01 15:02:20,820 - INFO - Checking redirection for: https://www.tumblr.com/docs/en/api/v2
+2024-05-01 15:02:21,006 - ERROR - https://www.tumblr.com/docs/en/api/v2 - Error: Connection error occurred.
+2024-05-01 15:02:21,007 - INFO - Checking redirection for: https://developers.decathlon.com/products/sports
+2024-05-01 15:02:21,093 - ERROR - https://developers.decathlon.com/products/sports - Error: Connection error occurred.
+2024-05-01 15:02:21,093 - INFO - Checking redirection for: https://wger.de/en/software/api
+2024-05-01 15:02:21,251 - ERROR - https://wger.de/en/software/api - Error: Connection error occurred.
+2024-05-01 15:02:21,251 - INFO - Checking redirection for: https://softwium.com/fake-api/
+2024-05-01 15:02:21,663 - ERROR - https://softwium.com/fake-api/ - Error: Connection error occurred.
+2024-05-01 15:02:21,663 - INFO - Checking redirection for: https://www.ups.com/upsdeveloperkit
+2024-05-02 09:01:21,339 - ERROR - https://www.ups.com/upsdeveloperkit - Error: Connection error occurred.
+2024-05-02 09:01:21,340 - INFO - Checking redirection for: https://bart.trentwil.es
+2024-05-02 09:01:21,457 - ERROR - https://bart.trentwil.es - Error: Connection error occurred.
+2024-05-02 09:01:21,457 - INFO - Checking redirection for: https://mbta.com/developers/v3-api
+2024-05-02 09:01:21,473 - ERROR - https://mbta.com/developers/v3-api - Error: Connection error occurred.
+2024-05-02 09:01:21,473 - INFO - Checking redirection for: https://emel.city-platform.com/opendata/
+2024-05-02 09:01:21,476 - ERROR - https://emel.city-platform.com/opendata/ - Error: Connection error occurred.
+2024-05-02 09:01:21,477 - INFO - Checking redirection for: https://api.tfl.gov.uk
+2024-05-02 09:01:21,487 - ERROR - https://api.tfl.gov.uk - Error: Connection error occurred.
+2024-05-02 09:01:21,487 - INFO - Checking redirection for: https://developer.whereismytransport.com/
+2024-05-02 09:01:21,500 - ERROR - https://developer.whereismytransport.com/ - Error: Connection error occurred.
+2024-05-02 09:01:21,500 - INFO - Checking redirection for: https://support.clickmeter.com/hc/en-us/categories/201474986
+2024-05-02 09:01:21,505 - ERROR - https://support.clickmeter.com/hc/en-us/categories/201474986 - Error: Connection error occurred.
+2024-05-02 09:01:21,506 - INFO - Checking redirection for: https://www.f4nsix.xyz/api/docs
+2024-05-02 09:01:21,519 - ERROR - https://www.f4nsix.xyz/api/docs - Error: Connection error occurred.
+2024-05-02 09:01:21,519 - INFO - Checking redirection for: https://deividfortuna.github.io/fipe/
+2024-05-02 09:01:21,539 - ERROR - https://deividfortuna.github.io/fipe/ - Error: Connection error occurred.
+2024-05-02 09:01:21,539 - INFO - Checking redirection for: https://www.potterapi.com/
+2024-05-02 09:01:21,549 - ERROR - https://www.potterapi.com/ - Error: Connection error occurred.
+2024-05-02 09:01:21,549 - INFO - Checking redirection for: https://owen-wilson-wow-api.onrender.com/
+2024-05-02 09:01:21,570 - ERROR - https://owen-wilson-wow-api.onrender.com/ - Error: Connection error occurred.
+2024-05-02 09:01:21,570 - INFO - Checking redirection for: https://stapi.co
+2024-05-02 09:01:21,574 - ERROR - https://stapi.co - Error: Connection error occurred.
+2024-05-02 09:01:21,574 - INFO - Checking redirection for: https://www.themoviedb.org/documentation/api
+2024-05-02 09:01:21,576 - ERROR - https://www.themoviedb.org/documentation/api - Error: Connection error occurred.
+2024-05-02 09:01:21,577 - INFO - Checking redirection for: https://trakt.tv/b/api-docs
+2024-05-02 09:01:21,580 - ERROR - https://trakt.tv/b/api-docs - Error: Connection error occurred.
+2024-05-02 09:01:21,580 - INFO - Checking redirection for: https://api.thetvdb.com/swagger
+2024-05-02 09:01:21,583 - ERROR - https://api.thetvdb.com/swagger - Error: Connection error occurred.
+2024-05-02 09:01:21,584 - INFO - Checking redirection for: https://developer.vimeo.com/
+2024-05-02 09:01:21,587 - ERROR - https://developer.vimeo.com/ - Error: Connection error occurred.
+2024-05-02 09:01:21,587 - INFO - Checking redirection for: https://developers.google.com/youtube/
+2024-05-02 09:01:21,589 - ERROR - https://developers.google.com/youtube/ - Error: Connection error occurred.
+2024-05-02 09:01:21,589 - INFO - Checking redirection for: https://shotstack.io/
+2024-05-02 09:01:21,593 - ERROR - https://shotstack.io/ - Error: Connection error occurred.
+2024-05-02 09:01:21,593 - INFO - Checking redirection for: https://www.apixu.com/doc/request.aspx
+2024-05-02 09:01:21,596 - ERROR - https://www.apixu.com/doc/request.aspx - Error: Connection error occurred.
+2024-05-02 09:01:21,596 - INFO - Checking redirection for: https://darksky.net/dev/
+2024-05-02 09:01:21,601 - ERROR - https://darksky.net/dev/ - Error: Connection error occurred.
+2024-05-02 09:01:21,601 - INFO - Checking redirection for: https://api.met.no/weatherapi/documentation
+2024-05-02 09:01:21,606 - ERROR - https://api.met.no/weatherapi/documentation - Error: Connection error occurred.
+2024-05-02 09:01:21,606 - INFO - Checking redirection for: https://www.ncdc.noaa.gov/cdo-web/
+2024-05-02 09:01:21,616 - ERROR - https://www.ncdc.noaa.gov/cdo-web/ - Error: Connection error occurred.
+2024-05-02 09:01:21,616 - INFO - Checking redirection for: https://open-meteo.com/
+2024-05-02 09:01:21,639 - ERROR - https://open-meteo.com/ - Error: Connection error occurred.
+2024-05-02 09:01:21,639 - INFO - Checking redirection for: https://www.openuv.io
+2024-05-02 09:01:21,650 - ERROR - https://www.openuv.io - Error: Connection error occurred.
+2024-05-02 09:01:21,650 - INFO - Checking redirection for: https://stormglass.io/
+2024-05-02 09:01:21,654 - ERROR - https://stormglass.io/ - Error: Connection error occurred.
+2024-05-02 09:01:21,655 - INFO - Checking redirection for: https://www.weatherbit.io/api
+2024-05-02 09:01:21,659 - ERROR - https://www.weatherbit.io/api - Error: Connection error occurred.
+2024-05-02 09:01:21,659 - INFO - Checking redirection for: https://developer.yahoo.com/weather/
+2024-05-02 09:01:21,665 - ERROR - https://developer.yahoo.com/weather/ - Error: Connection error occurred.
+2024-05-02 09:01:21,665 - INFO - Checking redirection for: https://github.com/k4sud0n
+2024-05-02 09:01:21,668 - ERROR - https://github.com/k4sud0n - Error: Connection error occurred.
+2024-05-02 09:01:21,668 - INFO - Checking redirection for: https://github.com/Vaporjawn
+2024-05-02 09:01:21,672 - ERROR - https://github.com/Vaporjawn - Error: Connection error occurred.
+2024-05-02 09:01:21,672 - INFO - Checking redirection for: https://github.com/alstn2468
+2024-05-02 09:01:21,798 - ERROR - https://github.com/alstn2468 - Error: Connection error occurred.
+2024-05-02 09:01:21,802 - INFO - Checking redirection for: https://github.com/hakiKhuva
+2024-05-02 09:01:21,813 - ERROR - https://github.com/hakiKhuva - Error: Connection error occurred.
+2024-05-02 09:01:21,871 - INFO - Checking redirection for: https://github.com/tomstoermerdotcom
+2024-05-02 09:01:21,924 - ERROR - https://github.com/tomstoermerdotcom - Error: Connection error occurred.
+2024-05-02 09:01:21,924 - INFO - Checking redirection for: https://github.com/LukasGirsch
+2024-05-02 09:01:21,928 - ERROR - https://github.com/LukasGirsch - Error: Connection error occurred.
+2024-05-02 09:01:21,929 - INFO - Checking redirection for: https://github.com/AlbertSuarez
+2024-05-02 09:01:21,934 - ERROR - https://github.com/AlbertSuarez - Error: Connection error occurred.
+2024-05-02 09:01:21,934 - INFO - Checking redirection for: https://github.com/nkilm
+2024-05-02 09:01:21,937 - ERROR - https://github.com/nkilm - Error: Connection error occurred.
+2024-05-02 09:01:21,937 - INFO - Checking redirection for: https://github.com/Geokeo
+2024-05-02 09:01:22,034 - ERROR - https://github.com/Geokeo - Error: Connection error occurred.
+2024-05-02 09:01:22,034 - INFO - Checking redirection for: https://github.com/DrPanayioths
+2024-05-02 09:01:22,038 - ERROR - https://github.com/DrPanayioths - Error: Connection error occurred.
+2024-05-02 09:01:22,038 - INFO - Checking redirection for: https://github.com/johnnagro
+2024-05-02 09:01:22,042 - ERROR - https://github.com/johnnagro - Error: Connection error occurred.
+2024-05-02 09:01:22,042 - INFO - Checking redirection for: https://github.com/tagawa
+2024-05-02 09:01:22,046 - ERROR - https://github.com/tagawa - Error: Connection error occurred.
+2024-05-02 09:01:22,046 - INFO - Checking redirection for: https://github.com/fili
+2024-05-02 09:01:22,049 - ERROR - https://github.com/fili - Error: Connection error occurred.
+2024-05-02 09:01:22,049 - INFO - Checking redirection for: https://github.com/mikestopcontinues
+2024-05-02 09:01:22,093 - ERROR - https://github.com/mikestopcontinues - Error: Connection error occurred.
+2024-05-02 09:01:22,093 - INFO - Checking redirection for: https://github.com
+2024-05-02 09:01:22,100 - ERROR - https://github.com - Error: Connection error occurred.
+2024-05-02 09:01:22,100 - INFO - Checking redirection for: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+2024-05-02 09:01:22,104 - ERROR - https://docs.github.com/site-policy/github-terms/github-terms-of-service - Error: Connection error occurred.
+2024-05-02 09:01:22,104 - INFO - Checking redirection for: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+2024-05-02 09:01:22,108 - ERROR - https://docs.github.com/site-policy/privacy-policies/github-privacy-statement - Error: Connection error occurred.
+2024-05-02 09:01:22,108 - INFO - Checking redirection for: https://github.com/security
+2024-05-02 09:01:22,112 - ERROR - https://github.com/security - Error: Connection error occurred.
+2024-05-02 09:01:22,112 - INFO - Checking redirection for: https://www.githubstatus.com/
+2024-05-02 09:01:22,116 - ERROR - https://www.githubstatus.com/ - Error: Connection error occurred.
+2024-05-02 09:01:22,117 - INFO - Checking redirection for: https://docs.github.com/
+2024-05-02 09:01:22,123 - ERROR - https://docs.github.com/ - Error: Connection error occurred.
+2024-05-02 09:01:22,123 - INFO - Checking redirection for: https://support.github.com?tags=dotcom-footer
+2024-05-02 09:01:22,142 - ERROR - https://support.github.com?tags=dotcom-footer - Error: Connection error occurred.
+2024-05-02 10:10:14,101 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-05-02 10:10:25,713 - INFO - Retrieving links from: https://github.com/public-api-lists/public-api-lists
+2024-05-02 10:10:27,049 - INFO - Found 686 links
+2024-05-02 10:10:27,051 - INFO - Checking redirection for: https://randombig.cat/roar.json
+2024-05-02 10:10:27,237 - ERROR - https://randombig.cat/roar.json - Error: Connection error occurred.
+2024-05-02 10:10:27,238 - INFO - Checking redirection for: https://collection.cooperhewitt.org/api
+2024-05-02 10:10:27,607 - ERROR - https://collection.cooperhewitt.org/api - Error: Connection error occurred.
+2024-05-02 10:10:27,608 - INFO - Checking redirection for: https://holidayapi.pl/

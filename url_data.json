@@ -350,5 +350,1909 @@
     {
         "url": "https://www.hebcal.com/home/developer-apis",
         "status_code": 200
+    },
+    {
+        "url": "https://holidayapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://date.nager.at",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/gadael/icsdb",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/egno/work-calendar",
+        "status_code": 200
+    },
+    {
+        "url": "https://tz.add-to-calendar-technology.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/drive/",
+        "status_code": 200
+    },
+    {
+        "url": "https://dev.onedrive.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://circleci.com/docs/api/v2/",
+        "status_code": 200
+    },
+    {
+        "url": "https://apidocs.codeship.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.travis-ci.com/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/binance-exchange/binance-official-api-docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://bitquery.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://apiv2.bitcoinaverage.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.bitmex.com/app/apiOverview",
+        "status_code": 200
+    },
+    {
+        "url": "https://apidocs.bithumb.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.coinapi.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.coinbase.com",
+        "status_code": 403
+    },
+    {
+        "url": "https://docs.pro.coinbase.com/#api",
+        "status_code": 404
+    },
+    {
+        "url": "https://coinlayer.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://coinlib.io/apidocs",
+        "status_code": 404
+    },
+    {
+        "url": "https://www.coinlore.com/cryptocurrency-data-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://coinmarketcap.com/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.coinpaprika.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.coinranking.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.covalenthq.com/docs/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.cryptocompare.com/api#",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.cryptonator.com/api/",
+        "status_code": 523
+    },
+    {
+        "url": "https://currencyapi.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.gate.io/api2",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.gemini.com/rest-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://mxcdevelop.github.io/apidocs",
+        "status_code": 404
+    },
+    {
+        "url": "https://nexchange2.docs.apiary.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://poloniex.com/support/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://1forge.com/forex-data-api/api-documentation",
+        "status_code": 200
+    },
+    {
+        "url": "https://currencylayer.com/documentation",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.exchangerate-api.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://exchangeratesapi.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.frankfurter.app/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://fxratesapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://cloudmersive.com/validate-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://labstack.com/email",
+        "status_code": 404
+    },
+    {
+        "url": "https://languagelayer.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://lob.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://mailboxlayer.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://numvalidate.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://numverify.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://trestleiq.com/phone-validation-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://smartystreets.com/docs/cloud/us-autocomplete-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://smartystreets.com/products/apis/us-extract-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://smartystreets.com/docs/cloud/us-street-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://vatlayer.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://veriphone.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://apyhub.com/catalog/data-validation",
+        "status_code": 200
+    },
+    {
+        "url": "https://24pullrequests.com/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://agify.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://apis.guru/api-doc/",
+        "status_code": 200
+    },
+    {
+        "url": "https://browshot.com/api/documentation",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.cdnjs.com/libraries/jquery",
+        "status_code": 200
+    },
+    {
+        "url": "https://status.digitalocean.com/api/v2",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.doczilla.app/",
+        "status_code": 200
+    },
+    {
+        "url": "https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details",
+        "status_code": 404
+    },
+    {
+        "url": "https://extendsclass.com/json-storage.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.faceplusplus.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://form2channel.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://genderize.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.github.com/v3/",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.gitlab.com/ee/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/gitterHQ/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://http2.pro/doc/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://console.bluemix.net/docs/services/text-to-speech/getting-started.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.image-charts.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.ip2whois.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://ipapi.is/developers.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.techniknews.net/ipgeo/%5BIP-Adress/Domain%5D",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.ipify.org/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.aruljohn.com/ip/json",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.aruljohn.com/ip",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/jsdelivr/data.jsdelivr.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://json2jsonp.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.judge0.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/letsvalidate/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/cmccandless/license-api/blob/master/README.md",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.liveedu.tv/developer/applications/",
+        "status_code": 522
+    },
+    {
+        "url": "https://macaddress.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://myjson.online",
+        "status_code": 200
+    },
+    {
+        "url": "https://nationalize.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://oopspam.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://proxycrawl.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/davemachado/public-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://pusher.com/beams",
+        "status_code": 200
+    },
+    {
+        "url": "https://fungenerators.com/api/qrcode/",
+        "status_code": 200
+    },
+    {
+        "url": "https://quickchart.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://reqres.in/",
+        "status_code": 200
+    },
+    {
+        "url": "https://screenshotapi.net/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/cheatsnake/shadify",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.stackexchange.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://unixtime.co.za/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.contentful.com/developers/docs/references/images-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.searchapi.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://serpapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://dictionaryapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://owlbot.info/",
+        "status_code": 404
+    },
+    {
+        "url": "https://developer.oxforddictionaries.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.wordsapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+        "status_code": 200
+    },
+    {
+        "url": "https://apidoc.rwlabs.org/#api-use",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.predicthq.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://cloudmersive.com/convert-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://advicement.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://reader.postlight.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://pdfendpoint.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://pdflayer.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://getpocket.com/developer/",
+        "status_code": 200
+    },
+    {
+        "url": "https://prexview.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://renderpdf.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://restpack.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.todoist.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://wakatime.com/developers",
+        "status_code": 200
+    },
+    {
+        "url": "https://rapidapi.com/malaithiru370/api/current-affairs-of-india",
+        "status_code": 200
+    },
+    {
+        "url": "https://secrets-api.appbrewery.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://airvisual.com/api",
+        "status_code": 404
+    },
+    {
+        "url": "https://www.corrently.de/hintergrund/gruenstromindex/index.html",
+        "status_code": 404
+    },
+    {
+        "url": "https://docs.openaq.org/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.nrel.gov/docs/solar/pvwatts/v6/",
+        "status_code": 200
+    },
+    {
+        "url": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.eventbrite.com/developer/v3/",
+        "status_code": 200
+    },
+    {
+        "url": "https://platform.seatgeek.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.alphavantage.co/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.barchartondemand.com/free",
+        "status_code": 200
+    },
+    {
+        "url": "https://financialmodelingprep.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://iextrading.com/developer/",
+        "status_code": 200
+    },
+    {
+        "url": "https://iexcloud.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://labs.ig.com/gettingstarted",
+        "status_code": 500
+    },
+    {
+        "url": "https://plaid.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://ifsc.razorpay.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/kaustubhk24/Indian-Banks-Data",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.routingnumbers.info/api/index.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.tradier.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.worldtradingdata.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.youneedabudget.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.edamam.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://lcboapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.openbrewerydb.org",
+        "status_code": 200
+    },
+    {
+        "url": "https://world.openfoodfacts.org/data",
+        "status_code": 200
+    },
+    {
+        "url": "https://punkapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://spoonacular.com/food-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/evz/tacofancy-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.thecocktaildb.com/api.php",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.themealdb.com/api.php",
+        "status_code": 200
+    },
+    {
+        "url": "https://whiskyhunter.net/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://zestfuldata.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.fraudlabspro.com/developer/api/screen-order",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/arufars/api-blue-archive",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.clashofclans.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/15Dkatz/official_joke_api",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.mod.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://opentdb.com/api_config.php",
+        "status_code": 200
+    },
+    {
+        "url": "https://pokeapi.co",
+        "status_code": 200
+    },
+    {
+        "url": "https://pokemontcg.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.punapi.rest",
+        "status_code": 200
+    },
+    {
+        "url": "https://fungenerators.com/api/facts/",
+        "status_code": 200
+    },
+    {
+        "url": "https://rickandmortyapi.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.riotgames.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://scoresaber.com/api/documentation",
+        "status_code": 404
+    },
+    {
+        "url": "https://scryfall.com/docs/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.valvesoftware.com/wiki/Steam_Web_API",
+        "status_code": 200
+    },
+    {
+        "url": "https://superheroapi.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.tcgdex.dev/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.tronalddump.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://xkcd.com/json.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/kamikazechaser/administrative-divisions-db",
+        "status_code": 200
+    },
+    {
+        "url": "https://adresse.data.gouv.fr",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.microsoft.com/maps/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.getthedata.com/bng2latlong",
+        "status_code": 200
+    },
+    {
+        "url": "https://freegeoip.app/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.gouv.fr/api/geoapi.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.geocod.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://geocode.xyz/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.geodatasource.com/web-service",
+        "status_code": 200
+    },
+    {
+        "url": "https://geojs.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://geokeo.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.geoplugin.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/earth-engine/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.google.com/maps/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.here.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://indian-cities-api-nocbegfhqg.now.sh/",
+        "status_code": 200
+    },
+    {
+        "url": "https://ipapi.co/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.ip2location.com/web-service/ip2location",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.ip2location.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.ip2location.com/web-service/ip2proxy",
+        "status_code": 200
+    },
+    {
+        "url": "https://ipinfodb.com/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://ipstack.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://IsItWater.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true",
+        "status_code": 403
+    },
+    {
+        "url": "https://www.kwelo.com/network/ip-address",
+        "status_code": 503
+    },
+    {
+        "url": "https://locationiq.org/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.mapbox.com/developers/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/IcaliaLabs/sepomex",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.onemap.sg/",
+        "status_code": 200
+    },
+    {
+        "url": "https://opencagedata.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://postcodes.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://restcountries.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://uebermaps.com/api/v2",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.metadapi.com/API-Products/Zip-Code-API",
+        "status_code": 200
+    },
+    {
+        "url": "https://smartystreets.com/docs/cloud/us-zipcode-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://viacep.com.br",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.zipcodeapi.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://ziptasticapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://autobahn.api.bund.dev",
+        "status_code": 200
+    },
+    {
+        "url": "https://business.usa.gov/developer",
+        "status_code": 404
+    },
+    {
+        "url": "https://www.census.gov/data/developers/data-sets.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://dati.comune.bologna.it",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.nantesmetropole.fr/pages/home/",
+        "status_code": 200
+    },
+    {
+        "url": "https://code.gov",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.colorado.gov/",
+        "status_code": 200
+    },
+    {
+        "url": "https://datausa.io/about/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.data.gov/",
+        "status_code": 200
+    },
+    {
+        "url": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.epa.gov/category/apis/",
+        "status_code": 404
+    },
+    {
+        "url": "https://api.open.fec.gov/developers/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.federalregister.gov/reader-aids/developer-resources",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.data.gov.au/",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.gov.be/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.data.gouv.fr/",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.gov.in/",
+        "status_code": 405
+    },
+    {
+        "url": "https://www.data.govt.nz/",
+        "status_code": 200
+    },
+    {
+        "url": "https://dane.gov.pl/en",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.gov.tw/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.data.gov/",
+        "status_code": 200
+    },
+    {
+        "url": "https://represent.opennorth.ca/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.usaspending.gov/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.healthcare.gov/developers/",
+        "status_code": 200
+    },
+    {
+        "url": "https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.lexigram.io/v1/welcome",
+        "status_code": 404
+    },
+    {
+        "url": "https://data.medicare.gov/developers",
+        "status_code": 200
+    },
+    {
+        "url": "https://npiregistry.cms.hhs.gov/registry/help-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.nutritionix.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://open.fda.gov",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.adzuna.com/overview",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.careerjet.com/partners/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://devitjobs.us/api/jobsLight",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.indeed.com/publisher",
+        "status_code": 403
+    },
+    {
+        "url": "https://jobicy.com/jobs-rss-feed",
+        "status_code": 200
+    },
+    {
+        "url": "https://us.jooble.org/api/about",
+        "status_code": 405
+    },
+    {
+        "url": "https://okjob.io/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.reed.co.uk/developers",
+        "status_code": 200
+    },
+    {
+        "url": "https://search.gov/developer/jobs.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.themuse.com/developers/api/v2",
+        "status_code": 405
+    },
+    {
+        "url": "https://developer.usajobs.gov/",
+        "status_code": 404
+    },
+    {
+        "url": "https://www.ziprecruiter.com/publishers",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.cloudmersive.com/image-recognition-and-processing-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.deepcode.ai/docs/Overview%252FOverview",
+        "status_code": 404
+    },
+    {
+        "url": "https://timedoor.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://unplu.gg/test_api.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://wit.ai/",
+        "status_code": 400
+    },
+    {
+        "url": "https://aimastering.com/api_docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.1",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.deezer.com/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://freesound.org/docs/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.genius.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://binaryjazz.us/genrenator-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.jamendo.com/v3.0/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.kkbox.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.last.fm/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.mixcloud.com/developers/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.musixmatch.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://openwhyd.github.io/openwhyd/API",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.github.com/AlbertSuarez/searchly",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.songkick.com/developer/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.songsterr.com/a/wa/api/",
+        "status_code": 404
+    },
+    {
+        "url": "https://developers.soundcloud.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://beta.developer.spotify.com/documentation/web-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://tastedive.com/read/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.theaudiodb.com/api_guide.php",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.vagalume.com.br/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://currentsapi.services/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/feedbin/feedbin-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.nytimes.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://newsapi.org/",
+        "status_code": 200
+    },
+    {
+        "url": "https://ok.surf/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/theoldreader/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://archive.readme.io/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://callook.info",
+        "status_code": 200
+    },
+    {
+        "url": "https://carto.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://fruits-api.netlify.app/graphql",
+        "status_code": 404
+    },
+    {
+        "url": "https://www.linkpreview.net",
+        "status_code": 200
+    },
+    {
+        "url": "https://microlink.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.quandl.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://ridb.recreation.gov/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.teleport.org/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/Hipo/university-domains-list",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.uio.no/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.mediawiki.org/wiki/API:Main_page",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.yelp.com/developers/documentation/v3",
+        "status_code": 404
+    },
+    {
+        "url": "https://www.drupal.org/drupalorg/docs/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://libraries.io/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.epo.org/",
+        "status_code": 200
+    },
+    {
+        "url": "https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.chucknorris.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://favqs.com/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://hindi-quotes.vercel.app/",
+        "status_code": 200
+    },
+    {
+        "url": "https://icanhazdadjoke.com/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://kanye.rest",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/Medium/medium-api-docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/D3vd/Meme_Api",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/theIYD/NaMoMemes",
+        "status_code": 200
+    },
+    {
+        "url": "https://programming-quotesapi.vercel.app/",
+        "status_code": 200
+    },
+    {
+        "url": "https://pprathameshmore.github.io/QuoteGarden/",
+        "status_code": 200
+    },
+    {
+        "url": "https://quotesondesign.com/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://riddles-api.vercel.app/",
+        "status_code": 200
+    },
+    {
+        "url": "https://app.traitify.com/developer",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.tronalddump.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.flickr.com/services/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.giphy.com/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://gyazo.com/api/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://picsum.photos/",
+        "status_code": 200
+    },
+    {
+        "url": "https://objectcut.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.pexels.com/api/",
+        "status_code": 403
+    },
+    {
+        "url": "https://pixabay.com/sk/service/about/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://placekitten.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://screenshotlayer.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://unsplash.com/developers",
+        "status_code": 200
+    },
+    {
+        "url": "https://wallhaven.cc/help/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.arcsecond.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://core.ac.uk/services#api",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/idigbio/idigbio-search-api/wiki",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.itis.gov/ws_description.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://launchlibrary.net/docs/1.3/api.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.nasa.gov",
+        "status_code": 200
+    },
+    {
+        "url": "https://newton.now.sh/",
+        "status_code": 200
+    },
+    {
+        "url": "https://math.tools/api/numbers/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/r-spacex/SpaceX-API",
+        "status_code": 200
+    },
+    {
+        "url": "https://sunrise-sunset.org/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
+        "status_code": 200
+    },
+    {
+        "url": "https://censys.io/api",
+        "status_code": 403
+    },
+    {
+        "url": "https://crxcavator.io/apidocs",
+        "status_code": 200
+    },
+    {
+        "url": "https://haveibeenpwned.com/API/v3",
+        "status_code": 200
+    },
+    {
+        "url": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog",
+        "status_code": 200
+    },
+    {
+        "url": "https://whoisfreaks.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://bestbuyapis.github.io/api-documentation/#overview",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.bratabase.com/",
+        "status_code": 502
+    },
+    {
+        "url": "https://buffer.com/developers/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.ciscospark.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://isdayoff.ru",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.block.io/docs/basic",
+        "status_code": 200
+    },
+    {
+        "url": "https://coinigy.docs.apiary.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.nicehash.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.worldcoinindex.com/apiservice",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.boredapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.browsercat.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.api.getpostman.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.scraperapi.com",
+        "status_code": 403
+    },
+    {
+        "url": "https://www.linguarobot.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://labstack.com/webpage",
+        "status_code": 404
+    },
+    {
+        "url": "https://crossuniverse.net/apiDocs",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/Bungie-net/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://esi.evetech.net/ui",
+        "status_code": 200
+    },
+    {
+        "url": "https://xivapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://fortniteapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://fortnitetracker.com/site-api",
+        "status_code": 403
+    },
+    {
+        "url": "https://developer.haloapi.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://ip2country.info",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.upwork.com/",
+        "status_code": 403
+    },
+    {
+        "url": "https://keen.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.discogs.com/developers/",
+        "status_code": 403
+    },
+    {
+        "url": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.ap.org/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.civicfeed.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://fonoapi.freshpixl.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://geo.api.gouv.fr/adresse",
+        "status_code": 200
+    },
+    {
+        "url": "https://upcdatabase.org/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.wikidata.org/w/api.php?action=help",
+        "status_code": 200
+    },
+    {
+        "url": "https://evilinsult.com/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.osf.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://share.osf.io/api/v2/",
+        "status_code": 200
+    },
+    {
+        "url": "https://waterservices.usgs.gov/",
+        "status_code": 200
+    },
+    {
+        "url": "https://securitytrails.com/corp/apidocs",
+        "status_code": 403
+    },
+    {
+        "url": "https://developer.shodan.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.police.uk/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://discordapp.com/developers/docs/intro",
+        "status_code": 200
+    },
+    {
+        "url": "https://disqus.com/api/docs/auth/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.facebook.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.foursquare.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.fullcontact.com/developer/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/HackerNews/API",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.instagram.com/developer/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.meetup.com/meetup_api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://mysocialapp.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://docs.opencollective.com/help/developers/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.reddit.com/dev/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.slack.com/",
+        "status_code": 502
+    },
+    {
+        "url": "https://core.telegram.org/bots/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://core.telegram.org/api#getting-started",
+        "status_code": 200
+    },
+    {
+        "url": "https://trashnothing.com/developer",
+        "status_code": 200
+    },
+    {
+        "url": "https://dev.twitch.tv/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.twitter.com/en/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://vk.com/dev/sites",
+        "status_code": 418
+    },
+    {
+        "url": "https://balldontlie.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.bikewise.org/documentation/api_v2",
+        "status_code": 522
+    },
+    {
+        "url": "https://github.com/wgenial/cartrolandofc",
+        "status_code": 200
+    },
+    {
+        "url": "https://dev.fitbit.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.scorebat.com/video-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://boggio-analytics.com/fp-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.jcdecaux.com/",
+        "status_code": 501
+    },
+    {
+        "url": "https://any-api.com/nba_com/nba_com/docs/API_Description",
+        "status_code": 200
+    },
+    {
+        "url": "https://gitlab.com/dword4/nhlapi",
+        "status_code": 200
+    },
+    {
+        "url": "https://strava.github.io/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://suredbits.com/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.thesportsdb.com/api.php",
+        "status_code": 200
+    },
+    {
+        "url": "https://cricketdata.org/",
+        "status_code": 200
+    },
+    {
+        "url": "https://baconipsum.com/json-api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://beeceptor.com/crud-api/?ref=public-api-lists",
+        "status_code": 200
+    },
+    {
+        "url": "https://avatars.dicebear.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://fakejson.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://micro-jaymock.now.sh/",
+        "status_code": 400
+    },
+    {
+        "url": "https://randomuser.me",
+        "status_code": 200
+    },
+    {
+        "url": "https://robohash.org/",
+        "status_code": 405
+    },
+    {
+        "url": "https://thispersondoesnotexist.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/thm/uinames",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.uuidtools.com/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://yesno.wtf/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://randommer.io/randommer-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.cloudmersive.com/nlp-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://detectlanguage.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://cloud.google.com/natural-language/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://apis.paralleldots.com/text_docs/index.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://semantria.readme.io/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/ookii-tsuki/yomi",
+        "status_code": 200
+    },
+    {
+        "url": "https://letscountapi.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.postnord.com/docs2",
+        "status_code": 200
+    },
+    {
+        "url": "https://whatpulse.org/pages/webapi/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.adsbexchange.com/data/",
+        "status_code": 200
+    },
+    {
+        "url": "https://sandbox.amadeus.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://dev.blablacar.com",
+        "status_code": 403
+    },
+    {
+        "url": "https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints",
+        "status_code": 200
+    },
+    {
+        "url": "https://graphhopper.com/api/1/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.navitia.io/",
+        "status_code": 200
+    },
+    {
+        "url": "https://openchargemap.org/site/develop/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.refugerestrooms.org/api/docs/#!/restrooms",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.schiphol.nl/",
+        "status_code": 200
+    },
+    {
+        "url": "https://transit.land/documentation/datastore/api-endpoints.html",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.at.govt.nz/",
+        "status_code": 404
+    },
+    {
+        "url": "https://hello.irail.be/api/",
+        "status_code": 500
+    },
+    {
+        "url": "https://opendata.bordeaux-metropole.fr/explore/",
+        "status_code": 200
+    },
+    {
+        "url": "https://bkkfutar.docs.apiary.io",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.chaps.cz/eng/products/idos-internet",
+        "status_code": 200
+    },
+    {
+        "url": "https://digitransit.fi/en/developers/",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.mobilites-m.fr/donnees",
+        "status_code": 200
+    },
+    {
+        "url": "https://data.gov.in/sector/transport",
+        "status_code": 405
+    },
+    {
+        "url": "https://developer.tfgm.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://www.trafiklab.se/api",
+        "status_code": 200
+    },
+    {
+        "url": "https://opentransportdata.swiss/en/",
+        "status_code": 200
+    },
+    {
+        "url": "https://transport.opendata.ch/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/skywave/KV78Turbo-OVAPI/wiki",
+        "status_code": 200
+    },
+    {
+        "url": "https://myttc.ca/developers",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.translink.ca/",
+        "status_code": 404
+    },
+    {
+        "url": "https://developer.wmata.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.uber.com/products",
+        "status_code": 200
+    },
+    {
+        "url": "https://cleanuri.com/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://developers.rebrandly.com/v1/docs",
+        "status_code": 200
+    },
+    {
+        "url": "https://api.carsxe.com/?ref=public-apis-github",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.mercedes-benz.com/apis",
+        "status_code": 200
+    },
+    {
+        "url": "https://vpic.nhtsa.dot.gov/api/",
+        "status_code": 200
+    },
+    {
+        "url": "https://smartcar.com/docs/",
+        "status_code": 200
+    },
+    {
+        "url": "https://anapioficeandfire.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/shevabam/breaking-bad-quotes",
+        "status_code": 200
+    },
+    {
+        "url": "https://developer.dailymotion.com/",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/ywalia01/dune-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://potterdb.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com/Thatskat/southpark-quotes-api",
+        "status_code": 200
+    },
+    {
+        "url": "https://apiflash.com/",
+        "status_code": 200
     }
 ]

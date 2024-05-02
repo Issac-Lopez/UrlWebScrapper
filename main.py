@@ -72,12 +72,16 @@ def check_url_redirection(url, headers):
 def process_links(links, existing_urls, headers, json_filename):
     for link in links:
         url = link['href']
-        if url not in existing_urls:
-            status_code = check_url_redirection(url, headers)
-            if status_code is not None:
-                url_data = {'url': url, 'status_code': status_code}
-                append_to_json(url_data, json_filename)
-                existing_urls.add(url)
+        if url in existing_urls:
+            continue
+
+        status_code = check_url_redirection(url, headers)
+        if status_code is None:
+            continue
+
+        url_data = {'url': url, 'status_code': status_code}
+        append_to_json(url_data, json_filename)
+        existing_urls.add(url)
 
 def main():
     url = 'https://github.com/public-api-lists/public-api-lists'
