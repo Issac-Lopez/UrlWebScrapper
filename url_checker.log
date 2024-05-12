@@ -42,3 +42,56 @@
 2024-05-02 14:56:08,091 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
 2024-05-02 14:56:08,091 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
 2024-05-02 14:56:08,096 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-05-11 17:55:44,415 - INFO - Retrieving links from: http://127.0.0.1:5500/
+2024-05-11 17:56:52,367 - INFO - Retrieving links from: http://127.0.0.1:5500/
+2024-05-11 17:56:52,378 - INFO - Found 7 links
+2024-05-11 17:56:52,378 - INFO - Checking redirection for: https://www.example.com
+2024-05-11 17:56:52,510 - INFO - 200 - https://www.example.com
+2024-05-11 17:57:21,964 - INFO - Retrieving links from: http://127.0.0.1:5500/
+2024-05-11 17:57:21,971 - INFO - Found 7 links
+2024-05-11 17:57:21,971 - INFO - Checking redirection for: https://www.example.com
+2024-05-11 17:57:22,047 - INFO - 200 - https://www.example.com
+2024-05-11 17:57:22,049 - INFO - Checking redirection for: https://www.google.com
+2024-05-11 17:57:22,203 - INFO - 200 - https://www.google.com
+2024-05-11 17:57:22,204 - INFO - Checking redirection for: https://www.wikipedia.org
+2024-05-11 17:57:22,349 - INFO - 200 - https://www.wikipedia.org
+2024-05-11 17:57:22,351 - INFO - Checking redirection for: https://www.github.com
+2024-05-11 17:57:22,817 - INFO - 200 - https://www.github.com
+2024-05-11 17:57:22,819 - INFO - Checking redirection for: https://www.example.com/doesnotexist
+2024-05-11 17:57:22,932 - INFO - 500 - https://www.example.com/doesnotexist
+2024-05-11 17:57:22,933 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-05-11 17:57:23,012 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-05-11 17:57:23,012 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-05-11 17:57:23,016 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-05-11 18:04:41,596 - INFO - Retrieving links from: http://127.0.0.1:5500/
+2024-05-11 18:04:41,603 - INFO - Found 7 links
+2024-05-11 18:04:41,603 - INFO - Checking redirection for: https://www.example.com
+2024-05-11 18:04:41,700 - INFO - 200 - https://www.example.com
+2024-05-11 18:04:41,702 - INFO - Checking redirection for: https://www.google.com
+2024-05-11 18:04:41,872 - INFO - 200 - https://www.google.com
+2024-05-11 18:04:41,874 - INFO - Checking redirection for: https://www.wikipedia.org
+2024-05-11 18:04:42,045 - INFO - 200 - https://www.wikipedia.org
+2024-05-11 18:04:42,047 - INFO - Checking redirection for: https://www.github.com
+2024-05-11 18:04:42,541 - INFO - 200 - https://www.github.com
+2024-05-11 18:04:42,543 - INFO - Checking redirection for: https://www.example.com/doesnotexist
+2024-05-11 18:04:42,668 - INFO - 500 - https://www.example.com/doesnotexist
+2024-05-11 18:04:42,670 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-05-11 18:04:42,680 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-05-11 18:04:42,680 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-05-11 18:04:42,682 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.
+2024-05-11 18:05:00,062 - INFO - Retrieving links from: http://127.0.0.1:5500/
+2024-05-11 18:05:00,068 - INFO - Found 7 links
+2024-05-11 18:05:00,068 - INFO - Checking redirection for: https://www.example.com
+2024-05-11 18:05:00,390 - INFO - 200 - https://www.example.com
+2024-05-11 18:05:00,393 - INFO - Checking redirection for: https://www.google.com
+2024-05-11 18:05:00,800 - INFO - 200 - https://www.google.com
+2024-05-11 18:05:00,803 - INFO - Checking redirection for: https://www.wikipedia.org
+2024-05-11 18:05:00,933 - INFO - 200 - https://www.wikipedia.org
+2024-05-11 18:05:00,935 - INFO - Checking redirection for: https://www.github.com
+2024-05-11 18:05:01,371 - INFO - 200 - https://www.github.com
+2024-05-11 18:05:01,374 - INFO - Checking redirection for: https://www.example.com/doesnotexist
+2024-05-11 18:05:01,507 - INFO - 500 - https://www.example.com/doesnotexist
+2024-05-11 18:05:01,509 - INFO - Checking redirection for: https://www.invaliddomain.xyz
+2024-05-11 18:05:01,513 - ERROR - https://www.invaliddomain.xyz - Error: Connection error occurred.
+2024-05-11 18:05:01,513 - INFO - Checking redirection for: https://www.invaliddomain.xyz/hello
+2024-05-11 18:05:01,516 - ERROR - https://www.invaliddomain.xyz/hello - Error: Connection error occurred.

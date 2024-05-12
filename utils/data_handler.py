@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 
 logging.basicConfig(filename='url_checker.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -9,6 +10,10 @@ def load_existing_data(filename):
             data = json.load(file)
             return {item['url'] for item in data}
     except FileNotFoundError:
+        directory = os.path.dirname(filename)
+        os.makedirs(directory, exist_ok=True)
+        with open(filename, 'w') as file:
+            json.dump([], file)
         return set()
 
 def append_to_json(data, filename):

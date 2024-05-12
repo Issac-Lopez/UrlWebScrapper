@@ -14,8 +14,7 @@ def main():
         'Accept-Encoding': 'gzip, deflate, br',
         'Connection': 'keep-alive'
     }
-
-    # json_filename = 'url_data.json'
+    
     json_filename = os.path.join('data', 'url_data.json')
     existing_urls = load_existing_data(json_filename)
     links = get_links_from_url(url)
