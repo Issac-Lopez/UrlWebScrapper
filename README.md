@@ -2,11 +2,11 @@ Web Scraper with URL Redirection Checking:
 ==========================================
 Install imports:
 
-```bash pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 Run python:
 
-```bash python main.py```
+```python main.py```
 
 todo:
 - check robots.txt first for disallowed urls
